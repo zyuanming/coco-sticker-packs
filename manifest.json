@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-04-15T22:20:00+08:00",
+  "packs": [
+    {
+      "id": "pets-goofy",
+      "title": "宠物发癫小队",
+      "version": 1,
+      "archiveName": "pets-goofy-v1.zip",
+      "archiveURL": "https://github.com/zyuanming/coco-sticker-packs/releases/download/pets-goofy-v1/pets-goofy-v1.zip",
+      "sha256": "7c657a0b6f958dfa7c37e5193cb61a1bf6ea9e9d820bc05548dd269a190fe304",
+      "license": "CC0-1.0",
+      "stickers": [
+        {
+          "id": "pet_cat_blank",
+          "title": "开摆猫",
+          "fileName": "pet_cat_blank.png"
+        },
+        {
+          "id": "pet_dog_silly",
+          "title": "装傻狗",
+          "fileName": "pet_dog_silly.png"
+        },
+        {
+          "id": "pet_duck_huh",
+          "title": "嘎鸭",
+          "fileName": "pet_duck_huh.png"
+        },
+        {
+          "id": "pet_hamster_run",
+          "title": "先跑仓鼠",
+          "fileName": "pet_hamster_run.png"
+        },
+        {
+          "id": "pet_rabbit_nope",
+          "title": "别吵兔",
+          "fileName": "pet_rabbit_nope.png"
+        },
+        {
+          "id": "pet_pig_food",
+          "title": "饭呢猪",
+          "fileName": "pet_pig_food.png"
+        },
+        {
+          "id": "pet_frog_chill",
+          "title": "淡定蛙",
+          "fileName": "pet_frog_chill.png"
+        },
+        {
+          "id": "pet_seal_proud",
+          "title": "就这海豹",
+          "fileName": "pet_seal_proud.png"
+        }
+      ]
+    }
+  ]
+}
