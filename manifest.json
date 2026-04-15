@@ -1,7 +1,59 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-04-15T22:20:00+08:00",
+  "updatedAt": "2026-04-15T22:40:00+08:00",
   "packs": [
+    {
+      "id": "cat-meme",
+      "title": "猫猫情绪小剧场",
+      "version": 2,
+      "archiveName": "cat-meme-v2.zip",
+      "archiveURL": "https://github.com/zyuanming/coco-sticker-packs/releases/download/cat-meme-v2/cat-meme-v2.zip",
+      "sha256": "5c60514df46478d80ecaf21650104d3b92903a43b2e63d318472cd3b3c730fa9",
+      "license": "CC0-1.0",
+      "style": "no-text expressive cat face stickers with transparent background and white outline",
+      "stickers": [
+        {
+          "id": "cat_crying_yell",
+          "title": "爆哭猫",
+          "fileName": "cat_crying_yell.png"
+        },
+        {
+          "id": "cat_side_eye",
+          "title": "斜眼猫",
+          "fileName": "cat_side_eye.png"
+        },
+        {
+          "id": "cat_shocked",
+          "title": "震惊猫",
+          "fileName": "cat_shocked.png"
+        },
+        {
+          "id": "cat_smug",
+          "title": "得意猫",
+          "fileName": "cat_smug.png"
+        },
+        {
+          "id": "cat_sleepy",
+          "title": "困困猫",
+          "fileName": "cat_sleepy.png"
+        },
+        {
+          "id": "cat_angry",
+          "title": "凶凶猫",
+          "fileName": "cat_angry.png"
+        },
+        {
+          "id": "cat_pleading",
+          "title": "求求猫",
+          "fileName": "cat_pleading.png"
+        },
+        {
+          "id": "cat_dizzy",
+          "title": "宕机猫",
+          "fileName": "cat_dizzy.png"
+        }
+      ]
+    },
     {
       "id": "pets-goofy",
       "title": "宠物发癫小队",

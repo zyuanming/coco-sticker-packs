@@ -1,0 +1,50 @@
+{
+  "id": "cat-meme",
+  "title": "猫猫情绪小剧场",
+  "version": 2,
+  "license": "CC0-1.0",
+  "style": "no-text expressive cat face stickers with transparent background and white outline",
+  "stickers": [
+    {
+      "id": "cat_crying_yell",
+      "title": "爆哭猫",
+      "fileName": "cat_crying_yell.png"
+    },
+    {
+      "id": "cat_side_eye",
+      "title": "斜眼猫",
+      "fileName": "cat_side_eye.png"
+    },
+    {
+      "id": "cat_shocked",
+      "title": "震惊猫",
+      "fileName": "cat_shocked.png"
+    },
+    {
+      "id": "cat_smug",
+      "title": "得意猫",
+      "fileName": "cat_smug.png"
+    },
+    {
+      "id": "cat_sleepy",
+      "title": "困困猫",
+      "fileName": "cat_sleepy.png"
+    },
+    {
+      "id": "cat_angry",
+      "title": "凶凶猫",
+      "fileName": "cat_angry.png"
+    },
+    {
+      "id": "cat_pleading",
+      "title": "求求猫",
+      "fileName": "cat_pleading.png"
+    },
+    {
+      "id": "cat_dizzy",
+      "title": "宕机猫",
+      "fileName": "cat_dizzy.png"
+    }
+  ]
+}
+
