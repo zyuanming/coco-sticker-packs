@@ -8,6 +8,7 @@
       "version": 2,
       "archiveName": "cat-meme-v2.zip",
       "archiveURL": "https://github.com/zyuanming/coco-sticker-packs/releases/download/cat-meme-v2/cat-meme-v2.zip",
+      "rawBaseURL": "https://raw.githubusercontent.com/zyuanming/coco-sticker-packs/main/packs/cat-meme-v2/stickers/",
       "sha256": "5c60514df46478d80ecaf21650104d3b92903a43b2e63d318472cd3b3c730fa9",
       "license": "CC0-1.0",
       "style": "no-text expressive cat face stickers with transparent background and white outline",
@@ -60,6 +61,7 @@
       "version": 1,
       "archiveName": "pets-goofy-v1.zip",
       "archiveURL": "https://github.com/zyuanming/coco-sticker-packs/releases/download/pets-goofy-v1/pets-goofy-v1.zip",
+      "rawBaseURL": "https://raw.githubusercontent.com/zyuanming/coco-sticker-packs/main/packs/pets-goofy-v1/stickers/",
       "sha256": "7c657a0b6f958dfa7c37e5193cb61a1bf6ea9e9d820bc05548dd269a190fe304",
       "license": "CC0-1.0",
       "stickers": [
