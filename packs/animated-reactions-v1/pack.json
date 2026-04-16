@@ -1,0 +1,109 @@
+{
+  "id": "animated-reactions",
+  "title": "动态发癫表情组",
+  "version": 1,
+  "license": "CC BY 4.0 - Google Noto Emoji",
+  "style": "cute goofy animated Google Noto Emoji GIF reactions, optimized to 200px / 8fps",
+  "stickers": [
+    {
+      "id": "gif_smile",
+      "title": "笑眯眯",
+      "fileName": "gif_smile.gif"
+    },
+    {
+      "id": "gif_heart_eyes",
+      "title": "心动了",
+      "fileName": "gif_heart_eyes.gif"
+    },
+    {
+      "id": "gif_hug",
+      "title": "抱一下",
+      "fileName": "gif_hug.gif"
+    },
+    {
+      "id": "gif_party_face",
+      "title": "好耶",
+      "fileName": "gif_party_face.gif"
+    },
+    {
+      "id": "gif_rofl",
+      "title": "笑到打滚",
+      "fileName": "gif_rofl.gif"
+    },
+    {
+      "id": "gif_zany",
+      "title": "发癫中",
+      "fileName": "gif_zany.gif"
+    },
+    {
+      "id": "gif_upside_down",
+      "title": "倒着也行",
+      "fileName": "gif_upside_down.gif"
+    },
+    {
+      "id": "gif_melting",
+      "title": "融化了",
+      "fileName": "gif_melting.gif"
+    },
+    {
+      "id": "gif_smirk",
+      "title": "就这",
+      "fileName": "gif_smirk.gif"
+    },
+    {
+      "id": "gif_raised_eyebrow",
+      "title": "你确定",
+      "fileName": "gif_raised_eyebrow.gif"
+    },
+    {
+      "id": "gif_rolling_eyes",
+      "title": "白眼",
+      "fileName": "gif_rolling_eyes.gif"
+    },
+    {
+      "id": "gif_unamused",
+      "title": "无语",
+      "fileName": "gif_unamused.gif"
+    },
+    {
+      "id": "gif_tired",
+      "title": "累了",
+      "fileName": "gif_tired.gif"
+    },
+    {
+      "id": "gif_weary",
+      "title": "顶不住",
+      "fileName": "gif_weary.gif"
+    },
+    {
+      "id": "gif_loudly_crying",
+      "title": "爆哭",
+      "fileName": "gif_loudly_crying.gif"
+    },
+    {
+      "id": "gif_shaking",
+      "title": "震惊到抖",
+      "fileName": "gif_shaking.gif"
+    },
+    {
+      "id": "gif_party_popper",
+      "title": "开香槟",
+      "fileName": "gif_party_popper.gif"
+    },
+    {
+      "id": "gif_fire",
+      "title": "燃起来",
+      "fileName": "gif_fire.gif"
+    },
+    {
+      "id": "gif_100",
+      "title": "满分",
+      "fileName": "gif_100.gif"
+    },
+    {
+      "id": "gif_star_struck",
+      "title": "眼里有光",
+      "fileName": "gif_star_struck.gif"
+    }
+  ]
+}
