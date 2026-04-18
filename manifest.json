@@ -1,109 +1,132 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-04-16T23:20:00+08:00",
+  "updatedAt": "2026-04-18T10:00:00+08:00",
   "packs": [
     {
-      "id": "cat-meme",
-      "title": "猫猫情绪小剧场",
-      "version": 2,
-      "archiveName": "cat-meme-v2.zip",
-      "archiveURL": "https://github.com/zyuanming/coco-sticker-packs/releases/download/cat-meme-v2/cat-meme-v2.zip",
-      "rawBaseURL": "https://raw.githubusercontent.com/zyuanming/coco-sticker-packs/main/packs/cat-meme-v2/stickers/",
-      "sha256": "5c60514df46478d80ecaf21650104d3b92903a43b2e63d318472cd3b3c730fa9",
-      "license": "CC0-1.0",
-      "style": "no-text expressive cat face stickers with transparent background and white outline",
+      "id": "openmoji-playful-static",
+      "title": "OpenMoji 可爱静图组",
+      "version": 1,
+      "archiveName": "openmoji-playful-static-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "bold colorful emoji stickers",
+      "assetType": "PNG",
+      "platformSupport": "Telegram, WeChat(需手动导入)",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "颜色饱和高，缩略图里也很醒目",
+      "riskNote": "二次分发需遵守 CC BY-SA 4.0 共享相同方式",
       "stickers": [
         {
-          "id": "cat_crying_yell",
-          "title": "爆哭猫",
-          "fileName": "cat_crying_yell.png"
+          "id": "om_laugh",
+          "title": "笑哭",
+          "fileName": "1F602.png"
         },
         {
-          "id": "cat_side_eye",
-          "title": "斜眼猫",
-          "fileName": "cat_side_eye.png"
+          "id": "om_love",
+          "title": "爱心眼",
+          "fileName": "1F60D.png"
         },
         {
-          "id": "cat_shocked",
-          "title": "震惊猫",
-          "fileName": "cat_shocked.png"
+          "id": "om_sunglasses",
+          "title": "墨镜",
+          "fileName": "1F60E.png"
         },
         {
-          "id": "cat_smug",
-          "title": "得意猫",
-          "fileName": "cat_smug.png"
+          "id": "om_think",
+          "title": "思考",
+          "fileName": "1F914.png"
         },
         {
-          "id": "cat_sleepy",
-          "title": "困困猫",
-          "fileName": "cat_sleepy.png"
+          "id": "om_party",
+          "title": "派对",
+          "fileName": "1F973.png"
         },
         {
-          "id": "cat_angry",
-          "title": "凶凶猫",
-          "fileName": "cat_angry.png"
+          "id": "om_cry",
+          "title": "爆哭",
+          "fileName": "1F62D.png"
         },
         {
-          "id": "cat_pleading",
-          "title": "求求猫",
-          "fileName": "cat_pleading.png"
+          "id": "om_shock",
+          "title": "震惊",
+          "fileName": "1F631.png"
         },
         {
-          "id": "cat_dizzy",
-          "title": "宕机猫",
-          "fileName": "cat_dizzy.png"
+          "id": "om_clap",
+          "title": "鼓掌",
+          "fileName": "1F44F.png"
+        },
+        {
+          "id": "om_ok",
+          "title": "点赞",
+          "fileName": "1F44D.png"
         }
       ]
     },
     {
-      "id": "pets-goofy",
-      "title": "宠物发癫小队",
+      "id": "twemoji-fun-static",
+      "title": "Twemoji 搞怪静图组",
       "version": 1,
-      "archiveName": "pets-goofy-v1.zip",
-      "archiveURL": "https://github.com/zyuanming/coco-sticker-packs/releases/download/pets-goofy-v1/pets-goofy-v1.zip",
-      "rawBaseURL": "https://raw.githubusercontent.com/zyuanming/coco-sticker-packs/main/packs/pets-goofy-v1/stickers/",
-      "sha256": "7c657a0b6f958dfa7c37e5193cb61a1bf6ea9e9d820bc05548dd269a190fe304",
-      "license": "CC0-1.0",
+      "archiveName": "twemoji-fun-static-v1.zip",
+      "archiveURL": "https://github.com/twitter/twemoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY 4.0 - Twemoji",
+      "style": "clean flat emoji stickers",
+      "assetType": "PNG",
+      "platformSupport": "Telegram, WeChat(需手动导入)",
+      "sourceURL": "https://github.com/twitter/twemoji",
+      "requiresLogin": false,
+      "recommendation": "风格统一，适合做基础高频回复",
+      "riskNote": "使用时请保留 CC BY 4.0 署名要求",
       "stickers": [
         {
-          "id": "pet_cat_blank",
-          "title": "开摆猫",
-          "fileName": "pet_cat_blank.png"
+          "id": "tw_laugh",
+          "title": "笑哭",
+          "fileName": "1f602.png"
         },
         {
-          "id": "pet_dog_silly",
-          "title": "装傻狗",
-          "fileName": "pet_dog_silly.png"
+          "id": "tw_love",
+          "title": "爱心眼",
+          "fileName": "1f60d.png"
         },
         {
-          "id": "pet_duck_huh",
-          "title": "嘎鸭",
-          "fileName": "pet_duck_huh.png"
+          "id": "tw_sunglasses",
+          "title": "墨镜",
+          "fileName": "1f60e.png"
         },
         {
-          "id": "pet_hamster_run",
-          "title": "先跑仓鼠",
-          "fileName": "pet_hamster_run.png"
+          "id": "tw_think",
+          "title": "思考",
+          "fileName": "1f914.png"
         },
         {
-          "id": "pet_rabbit_nope",
-          "title": "别吵兔",
-          "fileName": "pet_rabbit_nope.png"
+          "id": "tw_rolling",
+          "title": "白眼",
+          "fileName": "1f644.png"
         },
         {
-          "id": "pet_pig_food",
-          "title": "饭呢猪",
-          "fileName": "pet_pig_food.png"
+          "id": "tw_cry",
+          "title": "爆哭",
+          "fileName": "1f62d.png"
         },
         {
-          "id": "pet_frog_chill",
-          "title": "淡定蛙",
-          "fileName": "pet_frog_chill.png"
+          "id": "tw_mindblown",
+          "title": "震惊",
+          "fileName": "1f92f.png"
         },
         {
-          "id": "pet_seal_proud",
-          "title": "就这海豹",
-          "fileName": "pet_seal_proud.png"
+          "id": "tw_party",
+          "title": "派对",
+          "fileName": "1f973.png"
+        },
+        {
+          "id": "tw_100",
+          "title": "100分",
+          "fileName": "1f4af.png"
         }
       ]
     },
@@ -217,6 +240,111 @@
           "id": "gif_star_struck",
           "title": "眼里有光",
           "fileName": "gif_star_struck.gif"
+        }
+      ]
+    },
+    {
+      "id": "pets-goofy",
+      "title": "宠物发癫小队",
+      "version": 1,
+      "archiveName": "pets-goofy-v1.zip",
+      "archiveURL": "https://github.com/zyuanming/coco-sticker-packs/releases/download/pets-goofy-v1/pets-goofy-v1.zip",
+      "rawBaseURL": "https://raw.githubusercontent.com/zyuanming/coco-sticker-packs/main/packs/pets-goofy-v1/stickers/",
+      "sha256": "7c657a0b6f958dfa7c37e5193cb61a1bf6ea9e9d820bc05548dd269a190fe304",
+      "license": "CC0-1.0",
+      "stickers": [
+        {
+          "id": "pet_cat_blank",
+          "title": "开摆猫",
+          "fileName": "pet_cat_blank.png"
+        },
+        {
+          "id": "pet_dog_silly",
+          "title": "装傻狗",
+          "fileName": "pet_dog_silly.png"
+        },
+        {
+          "id": "pet_duck_huh",
+          "title": "嘎鸭",
+          "fileName": "pet_duck_huh.png"
+        },
+        {
+          "id": "pet_hamster_run",
+          "title": "先跑仓鼠",
+          "fileName": "pet_hamster_run.png"
+        },
+        {
+          "id": "pet_rabbit_nope",
+          "title": "别吵兔",
+          "fileName": "pet_rabbit_nope.png"
+        },
+        {
+          "id": "pet_pig_food",
+          "title": "饭呢猪",
+          "fileName": "pet_pig_food.png"
+        },
+        {
+          "id": "pet_frog_chill",
+          "title": "淡定蛙",
+          "fileName": "pet_frog_chill.png"
+        },
+        {
+          "id": "pet_seal_proud",
+          "title": "就这海豹",
+          "fileName": "pet_seal_proud.png"
+        }
+      ]
+    },
+    {
+      "id": "cat-meme",
+      "title": "猫猫情绪小剧场",
+      "version": 2,
+      "archiveName": "cat-meme-v2.zip",
+      "archiveURL": "https://github.com/zyuanming/coco-sticker-packs/releases/download/cat-meme-v2/cat-meme-v2.zip",
+      "rawBaseURL": "https://raw.githubusercontent.com/zyuanming/coco-sticker-packs/main/packs/cat-meme-v2/stickers/",
+      "sha256": "5c60514df46478d80ecaf21650104d3b92903a43b2e63d318472cd3b3c730fa9",
+      "license": "CC0-1.0",
+      "style": "no-text expressive cat face stickers with transparent background and white outline",
+      "stickers": [
+        {
+          "id": "cat_crying_yell",
+          "title": "爆哭猫",
+          "fileName": "cat_crying_yell.png"
+        },
+        {
+          "id": "cat_side_eye",
+          "title": "斜眼猫",
+          "fileName": "cat_side_eye.png"
+        },
+        {
+          "id": "cat_shocked",
+          "title": "震惊猫",
+          "fileName": "cat_shocked.png"
+        },
+        {
+          "id": "cat_smug",
+          "title": "得意猫",
+          "fileName": "cat_smug.png"
+        },
+        {
+          "id": "cat_sleepy",
+          "title": "困困猫",
+          "fileName": "cat_sleepy.png"
+        },
+        {
+          "id": "cat_angry",
+          "title": "凶凶猫",
+          "fileName": "cat_angry.png"
+        },
+        {
+          "id": "cat_pleading",
+          "title": "求求猫",
+          "fileName": "cat_pleading.png"
+        },
+        {
+          "id": "cat_dizzy",
+          "title": "宕机猫",
+          "fileName": "cat_dizzy.png"
         }
       ]
     }
