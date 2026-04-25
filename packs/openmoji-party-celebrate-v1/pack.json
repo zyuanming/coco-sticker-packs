@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-party-celebrate",
+  "title": "派对庆祝",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_party_celebrate_1f973",
+      "title": "开派对",
+      "fileName": "1F973.png"
+    },
+    {
+      "id": "openmoji_party_celebrate_1f389",
+      "title": "礼花",
+      "fileName": "1F389.png"
+    },
+    {
+      "id": "openmoji_party_celebrate_1f38a",
+      "title": "彩带",
+      "fileName": "1F38A.png"
+    },
+    {
+      "id": "openmoji_party_celebrate_1f38f",
+      "title": "鲤鱼旗",
+      "fileName": "1F38F.png"
+    },
+    {
+      "id": "openmoji_party_celebrate_1f381",
+      "title": "礼物",
+      "fileName": "1F381.png"
+    },
+    {
+      "id": "openmoji_party_celebrate_1f382",
+      "title": "蛋糕",
+      "fileName": "1F382.png"
+    },
+    {
+      "id": "openmoji_party_celebrate_1f37e",
+      "title": "香槟",
+      "fileName": "1F37E.png"
+    },
+    {
+      "id": "openmoji_party_celebrate_1f942",
+      "title": "碰杯",
+      "fileName": "1F942.png"
+    },
+    {
+      "id": "openmoji_party_celebrate_1f64c",
+      "title": "好耶",
+      "fileName": "1F64C.png"
+    },
+    {
+      "id": "openmoji_party_celebrate_1f44f",
+      "title": "鼓掌",
+      "fileName": "1F44F.png"
+    },
+    {
+      "id": "openmoji_party_celebrate_2728",
+      "title": "闪闪",
+      "fileName": "2728.png"
+    },
+    {
+      "id": "openmoji_party_celebrate_1f4af",
+      "title": "满分",
+      "fileName": "1F4AF.png"
+    }
+  ]
+}

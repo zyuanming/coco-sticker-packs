@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-magic-fantasy",
+  "title": "魔法幻想",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_magic_fantasy_1fa84",
+      "title": "魔法棒",
+      "fileName": "1FA84.png"
+    },
+    {
+      "id": "openmoji_magic_fantasy_1f52e",
+      "title": "水晶球",
+      "fileName": "1F52E.png"
+    },
+    {
+      "id": "openmoji_magic_fantasy_2728",
+      "title": "闪闪",
+      "fileName": "2728.png"
+    },
+    {
+      "id": "openmoji_magic_fantasy_1f31f",
+      "title": "星星",
+      "fileName": "1F31F.png"
+    },
+    {
+      "id": "openmoji_magic_fantasy_1f9da",
+      "title": "仙子",
+      "fileName": "1F9DA.png"
+    },
+    {
+      "id": "openmoji_magic_fantasy_1f9dc",
+      "title": "人鱼",
+      "fileName": "1F9DC.png"
+    },
+    {
+      "id": "openmoji_magic_fantasy_1f9dd",
+      "title": "精灵",
+      "fileName": "1F9DD.png"
+    },
+    {
+      "id": "openmoji_magic_fantasy_1f9de",
+      "title": "神灯精灵",
+      "fileName": "1F9DE.png"
+    },
+    {
+      "id": "openmoji_magic_fantasy_1f9df",
+      "title": "僵尸",
+      "fileName": "1F9DF.png"
+    },
+    {
+      "id": "openmoji_magic_fantasy_1f984",
+      "title": "独角兽",
+      "fileName": "1F984.png"
+    },
+    {
+      "id": "openmoji_magic_fantasy_1f409",
+      "title": "龙",
+      "fileName": "1F409.png"
+    },
+    {
+      "id": "openmoji_magic_fantasy_1f3f0",
+      "title": "城堡",
+      "fileName": "1F3F0.png"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-sick-care",
+  "title": "生病照顾",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_sick_care_1f637",
+      "title": "口罩",
+      "fileName": "1F637.png"
+    },
+    {
+      "id": "openmoji_sick_care_1f912",
+      "title": "发烧",
+      "fileName": "1F912.png"
+    },
+    {
+      "id": "openmoji_sick_care_1f915",
+      "title": "受伤",
+      "fileName": "1F915.png"
+    },
+    {
+      "id": "openmoji_sick_care_1f922",
+      "title": "想吐",
+      "fileName": "1F922.png"
+    },
+    {
+      "id": "openmoji_sick_care_1f92e",
+      "title": "呕吐",
+      "fileName": "1F92E.png"
+    },
+    {
+      "id": "openmoji_sick_care_1f927",
+      "title": "喷嚏",
+      "fileName": "1F927.png"
+    },
+    {
+      "id": "openmoji_sick_care_1f975",
+      "title": "热晕",
+      "fileName": "1F975.png"
+    },
+    {
+      "id": "openmoji_sick_care_1f976",
+      "title": "冷到抖",
+      "fileName": "1F976.png"
+    },
+    {
+      "id": "openmoji_sick_care_1f9ca",
+      "title": "冰块",
+      "fileName": "1F9CA.png"
+    },
+    {
+      "id": "openmoji_sick_care_1f321",
+      "title": "温度计",
+      "fileName": "1F321.png"
+    },
+    {
+      "id": "openmoji_sick_care_1fa79",
+      "title": "创可贴",
+      "fileName": "1FA79.png"
+    },
+    {
+      "id": "openmoji_sick_care_1f48a",
+      "title": "药丸",
+      "fileName": "1F48A.png"
+    }
+  ]
+}

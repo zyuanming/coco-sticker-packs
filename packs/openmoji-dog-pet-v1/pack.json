@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-dog-pet",
+  "title": "狗狗宠物",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_dog_pet_1f436",
+      "title": "狗脸",
+      "fileName": "1F436.png"
+    },
+    {
+      "id": "openmoji_dog_pet_1f415",
+      "title": "狗狗",
+      "fileName": "1F415.png"
+    },
+    {
+      "id": "openmoji_dog_pet_1f9ae",
+      "title": "导盲犬",
+      "fileName": "1F9AE.png"
+    },
+    {
+      "id": "openmoji_dog_pet_1f415_200d_1f9ba",
+      "title": "服务犬",
+      "fileName": "1F415-200D-1F9BA.png"
+    },
+    {
+      "id": "openmoji_dog_pet_1f429",
+      "title": "贵宾犬",
+      "fileName": "1F429.png"
+    },
+    {
+      "id": "openmoji_dog_pet_1f43e",
+      "title": "爪印",
+      "fileName": "1F43E.png"
+    },
+    {
+      "id": "openmoji_dog_pet_1f9b4",
+      "title": "骨头",
+      "fileName": "1F9B4.png"
+    },
+    {
+      "id": "openmoji_dog_pet_1f3be",
+      "title": "网球",
+      "fileName": "1F3BE.png"
+    },
+    {
+      "id": "openmoji_dog_pet_1f3c0",
+      "title": "球球",
+      "fileName": "1F3C0.png"
+    },
+    {
+      "id": "openmoji_dog_pet_1f6b6",
+      "title": "散步",
+      "fileName": "1F6B6.png"
+    },
+    {
+      "id": "openmoji_dog_pet_1f3e0",
+      "title": "回家",
+      "fileName": "1F3E0.png"
+    },
+    {
+      "id": "openmoji_dog_pet_2764",
+      "title": "爱心",
+      "fileName": "2764.png"
+    }
+  ]
+}

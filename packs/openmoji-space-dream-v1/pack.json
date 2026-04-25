@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-space-dream",
+  "title": "宇宙做梦",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_space_dream_1f30c",
+      "title": "银河",
+      "fileName": "1F30C.png"
+    },
+    {
+      "id": "openmoji_space_dream_1f31f",
+      "title": "星星",
+      "fileName": "1F31F.png"
+    },
+    {
+      "id": "openmoji_space_dream_1f320",
+      "title": "流星",
+      "fileName": "1F320.png"
+    },
+    {
+      "id": "openmoji_space_dream_1f311",
+      "title": "新月",
+      "fileName": "1F311.png"
+    },
+    {
+      "id": "openmoji_space_dream_1f312",
+      "title": "眉月",
+      "fileName": "1F312.png"
+    },
+    {
+      "id": "openmoji_space_dream_1f313",
+      "title": "上弦月",
+      "fileName": "1F313.png"
+    },
+    {
+      "id": "openmoji_space_dream_1f314",
+      "title": "盈凸月",
+      "fileName": "1F314.png"
+    },
+    {
+      "id": "openmoji_space_dream_1f315",
+      "title": "满月",
+      "fileName": "1F315.png"
+    },
+    {
+      "id": "openmoji_space_dream_1f316",
+      "title": "亏凸月",
+      "fileName": "1F316.png"
+    },
+    {
+      "id": "openmoji_space_dream_1f317",
+      "title": "下弦月",
+      "fileName": "1F317.png"
+    },
+    {
+      "id": "openmoji_space_dream_1f318",
+      "title": "残月",
+      "fileName": "1F318.png"
+    },
+    {
+      "id": "openmoji_space_dream_1fa90",
+      "title": "土星",
+      "fileName": "1FA90.png"
+    }
+  ]
+}

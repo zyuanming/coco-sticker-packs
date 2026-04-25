@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-animal-wild",
+  "title": "动物野趣",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_animal_wild_1f435",
+      "title": "猴子",
+      "fileName": "1F435.png"
+    },
+    {
+      "id": "openmoji_animal_wild_1f98d",
+      "title": "猩猩",
+      "fileName": "1F98D.png"
+    },
+    {
+      "id": "openmoji_animal_wild_1f9a7",
+      "title": "臭鼬",
+      "fileName": "1F9A7.png"
+    },
+    {
+      "id": "openmoji_animal_wild_1f43a",
+      "title": "狼",
+      "fileName": "1F43A.png"
+    },
+    {
+      "id": "openmoji_animal_wild_1f417",
+      "title": "野猪",
+      "fileName": "1F417.png"
+    },
+    {
+      "id": "openmoji_animal_wild_1f434",
+      "title": "马",
+      "fileName": "1F434.png"
+    },
+    {
+      "id": "openmoji_animal_wild_1f993",
+      "title": "斑马",
+      "fileName": "1F993.png"
+    },
+    {
+      "id": "openmoji_animal_wild_1f98c",
+      "title": "鹿",
+      "fileName": "1F98C.png"
+    },
+    {
+      "id": "openmoji_animal_wild_1f9ac",
+      "title": "野牛",
+      "fileName": "1F9AC.png"
+    },
+    {
+      "id": "openmoji_animal_wild_1f418",
+      "title": "大象",
+      "fileName": "1F418.png"
+    },
+    {
+      "id": "openmoji_animal_wild_1f98f",
+      "title": "犀牛",
+      "fileName": "1F98F.png"
+    },
+    {
+      "id": "openmoji_animal_wild_1f99b",
+      "title": "河马",
+      "fileName": "1F99B.png"
+    }
+  ]
+}

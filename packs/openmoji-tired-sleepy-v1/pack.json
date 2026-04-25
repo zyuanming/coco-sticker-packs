@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-tired-sleepy",
+  "title": "疲惫困困",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_tired_sleepy_1f62a",
+      "title": "困了",
+      "fileName": "1F62A.png"
+    },
+    {
+      "id": "openmoji_tired_sleepy_1f634",
+      "title": "睡着",
+      "fileName": "1F634.png"
+    },
+    {
+      "id": "openmoji_tired_sleepy_1f971",
+      "title": "哈欠",
+      "fileName": "1F971.png"
+    },
+    {
+      "id": "openmoji_tired_sleepy_1f629",
+      "title": "累麻了",
+      "fileName": "1F629.png"
+    },
+    {
+      "id": "openmoji_tired_sleepy_1f62b",
+      "title": "疲惫",
+      "fileName": "1F62B.png"
+    },
+    {
+      "id": "openmoji_tired_sleepy_1f924",
+      "title": "流口水",
+      "fileName": "1F924.png"
+    },
+    {
+      "id": "openmoji_tired_sleepy_1f635",
+      "title": "晕了",
+      "fileName": "1F635.png"
+    },
+    {
+      "id": "openmoji_tired_sleepy_1f4a4",
+      "title": "睡觉",
+      "fileName": "1F4A4.png"
+    },
+    {
+      "id": "openmoji_tired_sleepy_1f6cc",
+      "title": "躺平",
+      "fileName": "1F6CC.png"
+    },
+    {
+      "id": "openmoji_tired_sleepy_1f319",
+      "title": "月亮",
+      "fileName": "1F319.png"
+    },
+    {
+      "id": "openmoji_tired_sleepy_23f0",
+      "title": "闹钟",
+      "fileName": "23F0.png"
+    },
+    {
+      "id": "openmoji_tired_sleepy_2615",
+      "title": "咖啡",
+      "fileName": "2615.png"
+    }
+  ]
+}

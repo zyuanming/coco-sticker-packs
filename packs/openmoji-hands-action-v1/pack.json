@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-hands-action",
+  "title": "动作手势",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_hands_action_1f44d",
+      "title": "点赞",
+      "fileName": "1F44D.png"
+    },
+    {
+      "id": "openmoji_hands_action_1f44e",
+      "title": "不行",
+      "fileName": "1F44E.png"
+    },
+    {
+      "id": "openmoji_hands_action_270a",
+      "title": "拳头",
+      "fileName": "270A.png"
+    },
+    {
+      "id": "openmoji_hands_action_1f44a",
+      "title": "出拳",
+      "fileName": "1F44A.png"
+    },
+    {
+      "id": "openmoji_hands_action_1f91b",
+      "title": "左拳",
+      "fileName": "1F91B.png"
+    },
+    {
+      "id": "openmoji_hands_action_1f91c",
+      "title": "右拳",
+      "fileName": "1F91C.png"
+    },
+    {
+      "id": "openmoji_hands_action_1f44f",
+      "title": "鼓掌",
+      "fileName": "1F44F.png"
+    },
+    {
+      "id": "openmoji_hands_action_1f64c",
+      "title": "好耶",
+      "fileName": "1F64C.png"
+    },
+    {
+      "id": "openmoji_hands_action_1faf6",
+      "title": "爱心手",
+      "fileName": "1FAF6.png"
+    },
+    {
+      "id": "openmoji_hands_action_1f64f",
+      "title": "求求",
+      "fileName": "1F64F.png"
+    },
+    {
+      "id": "openmoji_hands_action_1f485",
+      "title": "美甲",
+      "fileName": "1F485.png"
+    },
+    {
+      "id": "openmoji_hands_action_1f4aa",
+      "title": "肌肉",
+      "fileName": "1F4AA.png"
+    }
+  ]
+}

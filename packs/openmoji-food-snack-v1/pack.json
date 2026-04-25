@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-food-snack",
+  "title": "吃饭零食",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_food_snack_1f354",
+      "title": "汉堡",
+      "fileName": "1F354.png"
+    },
+    {
+      "id": "openmoji_food_snack_1f35f",
+      "title": "薯条",
+      "fileName": "1F35F.png"
+    },
+    {
+      "id": "openmoji_food_snack_1f355",
+      "title": "披萨",
+      "fileName": "1F355.png"
+    },
+    {
+      "id": "openmoji_food_snack_1f32d",
+      "title": "热狗",
+      "fileName": "1F32D.png"
+    },
+    {
+      "id": "openmoji_food_snack_1f96a",
+      "title": "三明治",
+      "fileName": "1F96A.png"
+    },
+    {
+      "id": "openmoji_food_snack_1f32e",
+      "title": "卷饼",
+      "fileName": "1F32E.png"
+    },
+    {
+      "id": "openmoji_food_snack_1f35c",
+      "title": "拉面",
+      "fileName": "1F35C.png"
+    },
+    {
+      "id": "openmoji_food_snack_1f363",
+      "title": "寿司",
+      "fileName": "1F363.png"
+    },
+    {
+      "id": "openmoji_food_snack_1f366",
+      "title": "冰淇淋",
+      "fileName": "1F366.png"
+    },
+    {
+      "id": "openmoji_food_snack_1f369",
+      "title": "甜甜圈",
+      "fileName": "1F369.png"
+    },
+    {
+      "id": "openmoji_food_snack_1f36a",
+      "title": "饼干",
+      "fileName": "1F36A.png"
+    },
+    {
+      "id": "openmoji_food_snack_1f37f",
+      "title": "爆米花",
+      "fileName": "1F37F.png"
+    }
+  ]
+}

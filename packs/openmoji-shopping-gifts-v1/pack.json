@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-shopping-gifts",
+  "title": "购物礼物",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_shopping_gifts_1f6d2",
+      "title": "购物车",
+      "fileName": "1F6D2.png"
+    },
+    {
+      "id": "openmoji_shopping_gifts_1f6cd",
+      "title": "购物袋",
+      "fileName": "1F6CD.png"
+    },
+    {
+      "id": "openmoji_shopping_gifts_1f381",
+      "title": "礼物",
+      "fileName": "1F381.png"
+    },
+    {
+      "id": "openmoji_shopping_gifts_1f390",
+      "title": "彩带球",
+      "fileName": "1F390.png"
+    },
+    {
+      "id": "openmoji_shopping_gifts_1f48c",
+      "title": "情书",
+      "fileName": "1F48C.png"
+    },
+    {
+      "id": "openmoji_shopping_gifts_1f4e6",
+      "title": "包裹",
+      "fileName": "1F4E6.png"
+    },
+    {
+      "id": "openmoji_shopping_gifts_1f3f7",
+      "title": "标签",
+      "fileName": "1F3F7.png"
+    },
+    {
+      "id": "openmoji_shopping_gifts_1f45b",
+      "title": "钱包",
+      "fileName": "1F45B.png"
+    },
+    {
+      "id": "openmoji_shopping_gifts_1f45c",
+      "title": "手提包",
+      "fileName": "1F45C.png"
+    },
+    {
+      "id": "openmoji_shopping_gifts_1f45f",
+      "title": "鞋",
+      "fileName": "1F45F.png"
+    },
+    {
+      "id": "openmoji_shopping_gifts_1f457",
+      "title": "裙子",
+      "fileName": "1F457.png"
+    },
+    {
+      "id": "openmoji_shopping_gifts_1f48d",
+      "title": "戒指",
+      "fileName": "1F48D.png"
+    }
+  ]
+}

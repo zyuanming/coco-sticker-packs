@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-flower-garden",
+  "title": "花花草草",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_flower_garden_1f337",
+      "title": "郁金香",
+      "fileName": "1F337.png"
+    },
+    {
+      "id": "openmoji_flower_garden_1f338",
+      "title": "樱花",
+      "fileName": "1F338.png"
+    },
+    {
+      "id": "openmoji_flower_garden_1f339",
+      "title": "玫瑰",
+      "fileName": "1F339.png"
+    },
+    {
+      "id": "openmoji_flower_garden_1f33a",
+      "title": "芙蓉",
+      "fileName": "1F33A.png"
+    },
+    {
+      "id": "openmoji_flower_garden_1f33b",
+      "title": "向日葵",
+      "fileName": "1F33B.png"
+    },
+    {
+      "id": "openmoji_flower_garden_1f33c",
+      "title": "开花",
+      "fileName": "1F33C.png"
+    },
+    {
+      "id": "openmoji_flower_garden_1f490",
+      "title": "花束",
+      "fileName": "1F490.png"
+    },
+    {
+      "id": "openmoji_flower_garden_1f940",
+      "title": "枯萎花",
+      "fileName": "1F940.png"
+    },
+    {
+      "id": "openmoji_flower_garden_1f33e",
+      "title": "稻穗",
+      "fileName": "1F33E.png"
+    },
+    {
+      "id": "openmoji_flower_garden_1f344",
+      "title": "蘑菇",
+      "fileName": "1F344.png"
+    },
+    {
+      "id": "openmoji_flower_garden_1f41d",
+      "title": "蜜蜂",
+      "fileName": "1F41D.png"
+    },
+    {
+      "id": "openmoji_flower_garden_1f98b",
+      "title": "蝴蝶",
+      "fileName": "1F98B.png"
+    }
+  ]
+}

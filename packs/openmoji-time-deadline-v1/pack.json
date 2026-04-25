@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-time-deadline",
+  "title": "时间截止",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_time_deadline_23f0",
+      "title": "闹钟",
+      "fileName": "23F0.png"
+    },
+    {
+      "id": "openmoji_time_deadline_231a",
+      "title": "手表",
+      "fileName": "231A.png"
+    },
+    {
+      "id": "openmoji_time_deadline_23f1",
+      "title": "秒表",
+      "fileName": "23F1.png"
+    },
+    {
+      "id": "openmoji_time_deadline_23f2",
+      "title": "计时器",
+      "fileName": "23F2.png"
+    },
+    {
+      "id": "openmoji_time_deadline_23f3",
+      "title": "沙漏",
+      "fileName": "23F3.png"
+    },
+    {
+      "id": "openmoji_time_deadline_231b",
+      "title": "沙漏完成",
+      "fileName": "231B.png"
+    },
+    {
+      "id": "openmoji_time_deadline_1f4c5",
+      "title": "日历",
+      "fileName": "1F4C5.png"
+    },
+    {
+      "id": "openmoji_time_deadline_1f4c6",
+      "title": "撕页日历",
+      "fileName": "1F4C6.png"
+    },
+    {
+      "id": "openmoji_time_deadline_1f550",
+      "title": "一点",
+      "fileName": "1F550.png"
+    },
+    {
+      "id": "openmoji_time_deadline_1f55b",
+      "title": "十二点",
+      "fileName": "1F55B.png"
+    },
+    {
+      "id": "openmoji_time_deadline_1f3c3",
+      "title": "快跑",
+      "fileName": "1F3C3.png"
+    },
+    {
+      "id": "openmoji_time_deadline_1f4a8",
+      "title": "冲刺",
+      "fileName": "1F4A8.png"
+    }
+  ]
+}

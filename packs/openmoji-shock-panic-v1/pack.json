@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-shock-panic",
+  "title": "震惊慌张",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_shock_panic_1f62e",
+      "title": "惊讶",
+      "fileName": "1F62E.png"
+    },
+    {
+      "id": "openmoji_shock_panic_1f62f",
+      "title": "呆住",
+      "fileName": "1F62F.png"
+    },
+    {
+      "id": "openmoji_shock_panic_1f632",
+      "title": "震惊",
+      "fileName": "1F632.png"
+    },
+    {
+      "id": "openmoji_shock_panic_1f633",
+      "title": "脸红",
+      "fileName": "1F633.png"
+    },
+    {
+      "id": "openmoji_shock_panic_1f626",
+      "title": "啊这",
+      "fileName": "1F626.png"
+    },
+    {
+      "id": "openmoji_shock_panic_1f627",
+      "title": "慌了",
+      "fileName": "1F627.png"
+    },
+    {
+      "id": "openmoji_shock_panic_1f628",
+      "title": "害怕",
+      "fileName": "1F628.png"
+    },
+    {
+      "id": "openmoji_shock_panic_1f630",
+      "title": "冷汗",
+      "fileName": "1F630.png"
+    },
+    {
+      "id": "openmoji_shock_panic_1f631",
+      "title": "尖叫",
+      "fileName": "1F631.png"
+    },
+    {
+      "id": "openmoji_shock_panic_1fae8",
+      "title": "震动脸",
+      "fileName": "1FAE8.png"
+    },
+    {
+      "id": "openmoji_shock_panic_1f640",
+      "title": "猫震惊",
+      "fileName": "1F640.png"
+    },
+    {
+      "id": "openmoji_shock_panic_1f92f",
+      "title": "脑壳炸",
+      "fileName": "1F92F.png"
+    }
+  ]
+}

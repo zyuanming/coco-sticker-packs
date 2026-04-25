@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-animal-cute",
+  "title": "动物可爱",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_animal_cute_1f42d",
+      "title": "老鼠",
+      "fileName": "1F42D.png"
+    },
+    {
+      "id": "openmoji_animal_cute_1f439",
+      "title": "仓鼠",
+      "fileName": "1F439.png"
+    },
+    {
+      "id": "openmoji_animal_cute_1f430",
+      "title": "兔子",
+      "fileName": "1F430.png"
+    },
+    {
+      "id": "openmoji_animal_cute_1f98a",
+      "title": "狐狸",
+      "fileName": "1F98A.png"
+    },
+    {
+      "id": "openmoji_animal_cute_1f43b",
+      "title": "熊",
+      "fileName": "1F43B.png"
+    },
+    {
+      "id": "openmoji_animal_cute_1f43c",
+      "title": "熊猫",
+      "fileName": "1F43C.png"
+    },
+    {
+      "id": "openmoji_animal_cute_1f428",
+      "title": "考拉",
+      "fileName": "1F428.png"
+    },
+    {
+      "id": "openmoji_animal_cute_1f42f",
+      "title": "老虎",
+      "fileName": "1F42F.png"
+    },
+    {
+      "id": "openmoji_animal_cute_1f981",
+      "title": "狮子",
+      "fileName": "1F981.png"
+    },
+    {
+      "id": "openmoji_animal_cute_1f42e",
+      "title": "奶牛",
+      "fileName": "1F42E.png"
+    },
+    {
+      "id": "openmoji_animal_cute_1f437",
+      "title": "小猪",
+      "fileName": "1F437.png"
+    },
+    {
+      "id": "openmoji_animal_cute_1f438",
+      "title": "青蛙",
+      "fileName": "1F438.png"
+    }
+  ]
+}

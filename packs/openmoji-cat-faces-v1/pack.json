@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-cat-faces",
+  "title": "猫猫脸谱",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_cat_faces_1f63a",
+      "title": "猫猫笑",
+      "fileName": "1F63A.png"
+    },
+    {
+      "id": "openmoji_cat_faces_1f638",
+      "title": "猫笑哭",
+      "fileName": "1F638.png"
+    },
+    {
+      "id": "openmoji_cat_faces_1f639",
+      "title": "猫开心哭",
+      "fileName": "1F639.png"
+    },
+    {
+      "id": "openmoji_cat_faces_1f63b",
+      "title": "猫心动",
+      "fileName": "1F63B.png"
+    },
+    {
+      "id": "openmoji_cat_faces_1f63c",
+      "title": "猫坏笑",
+      "fileName": "1F63C.png"
+    },
+    {
+      "id": "openmoji_cat_faces_1f63d",
+      "title": "猫亲亲",
+      "fileName": "1F63D.png"
+    },
+    {
+      "id": "openmoji_cat_faces_1f640",
+      "title": "猫震惊",
+      "fileName": "1F640.png"
+    },
+    {
+      "id": "openmoji_cat_faces_1f63f",
+      "title": "猫哭哭",
+      "fileName": "1F63F.png"
+    },
+    {
+      "id": "openmoji_cat_faces_1f63e",
+      "title": "猫生气",
+      "fileName": "1F63E.png"
+    },
+    {
+      "id": "openmoji_cat_faces_1f431",
+      "title": "猫脸",
+      "fileName": "1F431.png"
+    },
+    {
+      "id": "openmoji_cat_faces_1f408",
+      "title": "猫",
+      "fileName": "1F408.png"
+    },
+    {
+      "id": "openmoji_cat_faces_1f43e",
+      "title": "爪印",
+      "fileName": "1F43E.png"
+    }
+  ]
+}

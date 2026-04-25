@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-hearts-symbols",
+  "title": "爱心符号",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_hearts_symbols_2764",
+      "title": "红心",
+      "fileName": "2764.png"
+    },
+    {
+      "id": "openmoji_hearts_symbols_1f9e1",
+      "title": "橙心",
+      "fileName": "1F9E1.png"
+    },
+    {
+      "id": "openmoji_hearts_symbols_1f49b",
+      "title": "黄心",
+      "fileName": "1F49B.png"
+    },
+    {
+      "id": "openmoji_hearts_symbols_1f49a",
+      "title": "绿心",
+      "fileName": "1F49A.png"
+    },
+    {
+      "id": "openmoji_hearts_symbols_1f499",
+      "title": "蓝心",
+      "fileName": "1F499.png"
+    },
+    {
+      "id": "openmoji_hearts_symbols_1f49c",
+      "title": "紫心",
+      "fileName": "1F49C.png"
+    },
+    {
+      "id": "openmoji_hearts_symbols_1f90e",
+      "title": "棕心",
+      "fileName": "1F90E.png"
+    },
+    {
+      "id": "openmoji_hearts_symbols_1f5a4",
+      "title": "黑心",
+      "fileName": "1F5A4.png"
+    },
+    {
+      "id": "openmoji_hearts_symbols_1f90d",
+      "title": "白心",
+      "fileName": "1F90D.png"
+    },
+    {
+      "id": "openmoji_hearts_symbols_1f498",
+      "title": "一箭穿心",
+      "fileName": "1F498.png"
+    },
+    {
+      "id": "openmoji_hearts_symbols_1f49d",
+      "title": "礼物心",
+      "fileName": "1F49D.png"
+    },
+    {
+      "id": "openmoji_hearts_symbols_1f49e",
+      "title": "旋转心",
+      "fileName": "1F49E.png"
+    }
+  ]
+}

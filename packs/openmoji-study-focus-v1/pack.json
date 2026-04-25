@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-study-focus",
+  "title": "学习专注",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_study_focus_1f4da",
+      "title": "书堆",
+      "fileName": "1F4DA.png"
+    },
+    {
+      "id": "openmoji_study_focus_1f4d6",
+      "title": "打开书",
+      "fileName": "1F4D6.png"
+    },
+    {
+      "id": "openmoji_study_focus_1f4dd",
+      "title": "笔记",
+      "fileName": "1F4DD.png"
+    },
+    {
+      "id": "openmoji_study_focus_270f",
+      "title": "铅笔",
+      "fileName": "270F.png"
+    },
+    {
+      "id": "openmoji_study_focus_1f50d",
+      "title": "搜索",
+      "fileName": "1F50D.png"
+    },
+    {
+      "id": "openmoji_study_focus_1f9e0",
+      "title": "大脑",
+      "fileName": "1F9E0.png"
+    },
+    {
+      "id": "openmoji_study_focus_1f9d0",
+      "title": "研究中",
+      "fileName": "1F9D0.png"
+    },
+    {
+      "id": "openmoji_study_focus_1f393",
+      "title": "毕业帽",
+      "fileName": "1F393.png"
+    },
+    {
+      "id": "openmoji_study_focus_1f3eb",
+      "title": "学校",
+      "fileName": "1F3EB.png"
+    },
+    {
+      "id": "openmoji_study_focus_1f52c",
+      "title": "显微镜",
+      "fileName": "1F52C.png"
+    },
+    {
+      "id": "openmoji_study_focus_1f4a1",
+      "title": "灵感",
+      "fileName": "1F4A1.png"
+    },
+    {
+      "id": "openmoji_study_focus_23f3",
+      "title": "沙漏",
+      "fileName": "23F3.png"
+    }
+  ]
+}

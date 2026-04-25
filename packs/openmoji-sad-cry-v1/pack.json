@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-sad-cry",
+  "title": "难过爆哭",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_sad_cry_1f641",
+      "title": "难过",
+      "fileName": "1F641.png"
+    },
+    {
+      "id": "openmoji_sad_cry_2639",
+      "title": "很难过",
+      "fileName": "2639.png"
+    },
+    {
+      "id": "openmoji_sad_cry_1f614",
+      "title": "低落",
+      "fileName": "1F614.png"
+    },
+    {
+      "id": "openmoji_sad_cry_1f61e",
+      "title": "失望",
+      "fileName": "1F61E.png"
+    },
+    {
+      "id": "openmoji_sad_cry_1f622",
+      "title": "哭了",
+      "fileName": "1F622.png"
+    },
+    {
+      "id": "openmoji_sad_cry_1f62d",
+      "title": "爆哭",
+      "fileName": "1F62D.png"
+    },
+    {
+      "id": "openmoji_sad_cry_1f63f",
+      "title": "猫哭哭",
+      "fileName": "1F63F.png"
+    },
+    {
+      "id": "openmoji_sad_cry_1f625",
+      "title": "松口气哭",
+      "fileName": "1F625.png"
+    },
+    {
+      "id": "openmoji_sad_cry_1f613",
+      "title": "汗",
+      "fileName": "1F613.png"
+    },
+    {
+      "id": "openmoji_sad_cry_1f97a",
+      "title": "拜托",
+      "fileName": "1F97A.png"
+    },
+    {
+      "id": "openmoji_sad_cry_1f979",
+      "title": "忍泪",
+      "fileName": "1F979.png"
+    },
+    {
+      "id": "openmoji_sad_cry_1f494",
+      "title": "心碎",
+      "fileName": "1F494.png"
+    }
+  ]
+}

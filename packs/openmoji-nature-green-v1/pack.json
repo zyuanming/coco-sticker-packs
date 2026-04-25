@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-nature-green",
+  "title": "自然绿色",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_nature_green_1f331",
+      "title": "幼苗",
+      "fileName": "1F331.png"
+    },
+    {
+      "id": "openmoji_nature_green_1fab4",
+      "title": "盆栽",
+      "fileName": "1FAB4.png"
+    },
+    {
+      "id": "openmoji_nature_green_1f332",
+      "title": "松树",
+      "fileName": "1F332.png"
+    },
+    {
+      "id": "openmoji_nature_green_1f333",
+      "title": "树",
+      "fileName": "1F333.png"
+    },
+    {
+      "id": "openmoji_nature_green_1f334",
+      "title": "棕榈树",
+      "fileName": "1F334.png"
+    },
+    {
+      "id": "openmoji_nature_green_1f335",
+      "title": "仙人掌",
+      "fileName": "1F335.png"
+    },
+    {
+      "id": "openmoji_nature_green_1f33f",
+      "title": "草药",
+      "fileName": "1F33F.png"
+    },
+    {
+      "id": "openmoji_nature_green_2618",
+      "title": "三叶草",
+      "fileName": "2618.png"
+    },
+    {
+      "id": "openmoji_nature_green_1f340",
+      "title": "幸运草",
+      "fileName": "1F340.png"
+    },
+    {
+      "id": "openmoji_nature_green_1f341",
+      "title": "枫叶",
+      "fileName": "1F341.png"
+    },
+    {
+      "id": "openmoji_nature_green_1f342",
+      "title": "落叶",
+      "fileName": "1F342.png"
+    },
+    {
+      "id": "openmoji_nature_green_1f343",
+      "title": "叶子",
+      "fileName": "1F343.png"
+    }
+  ]
+}

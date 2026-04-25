@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-travel-going",
+  "title": "出门旅行",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_travel_going_1f680",
+      "title": "火箭",
+      "fileName": "1F680.png"
+    },
+    {
+      "id": "openmoji_travel_going_2708",
+      "title": "飞机",
+      "fileName": "2708.png"
+    },
+    {
+      "id": "openmoji_travel_going_1f6eb",
+      "title": "起飞",
+      "fileName": "1F6EB.png"
+    },
+    {
+      "id": "openmoji_travel_going_1f697",
+      "title": "汽车",
+      "fileName": "1F697.png"
+    },
+    {
+      "id": "openmoji_travel_going_1f695",
+      "title": "出租车",
+      "fileName": "1F695.png"
+    },
+    {
+      "id": "openmoji_travel_going_1f68c",
+      "title": "公交",
+      "fileName": "1F68C.png"
+    },
+    {
+      "id": "openmoji_travel_going_1f686",
+      "title": "火车",
+      "fileName": "1F686.png"
+    },
+    {
+      "id": "openmoji_travel_going_1f6a2",
+      "title": "船",
+      "fileName": "1F6A2.png"
+    },
+    {
+      "id": "openmoji_travel_going_1f5fa",
+      "title": "地图",
+      "fileName": "1F5FA.png"
+    },
+    {
+      "id": "openmoji_travel_going_1f9ed",
+      "title": "指南针",
+      "fileName": "1F9ED.png"
+    },
+    {
+      "id": "openmoji_travel_going_1f3d6",
+      "title": "海滩",
+      "fileName": "1F3D6.png"
+    },
+    {
+      "id": "openmoji_travel_going_1f3d5",
+      "title": "露营",
+      "fileName": "1F3D5.png"
+    }
+  ]
+}

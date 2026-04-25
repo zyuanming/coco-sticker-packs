@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-money-rich",
+  "title": "搞钱财迷",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_money_rich_1f911",
+      "title": "财迷",
+      "fileName": "1F911.png"
+    },
+    {
+      "id": "openmoji_money_rich_1f4b0",
+      "title": "钱袋",
+      "fileName": "1F4B0.png"
+    },
+    {
+      "id": "openmoji_money_rich_1f4b5",
+      "title": "美元",
+      "fileName": "1F4B5.png"
+    },
+    {
+      "id": "openmoji_money_rich_1fa99",
+      "title": "硬币",
+      "fileName": "1FA99.png"
+    },
+    {
+      "id": "openmoji_money_rich_1f4b3",
+      "title": "银行卡",
+      "fileName": "1F4B3.png"
+    },
+    {
+      "id": "openmoji_money_rich_1f4b8",
+      "title": "钱飞了",
+      "fileName": "1F4B8.png"
+    },
+    {
+      "id": "openmoji_money_rich_1f9fe",
+      "title": "账单",
+      "fileName": "1F9FE.png"
+    },
+    {
+      "id": "openmoji_money_rich_1f3e6",
+      "title": "银行",
+      "fileName": "1F3E6.png"
+    },
+    {
+      "id": "openmoji_money_rich_1f4c8",
+      "title": "上涨",
+      "fileName": "1F4C8.png"
+    },
+    {
+      "id": "openmoji_money_rich_1f48e",
+      "title": "钻石",
+      "fileName": "1F48E.png"
+    },
+    {
+      "id": "openmoji_money_rich_1f947",
+      "title": "金牌",
+      "fileName": "1F947.png"
+    },
+    {
+      "id": "openmoji_money_rich_1f3af",
+      "title": "命中",
+      "fileName": "1F3AF.png"
+    }
+  ]
+}

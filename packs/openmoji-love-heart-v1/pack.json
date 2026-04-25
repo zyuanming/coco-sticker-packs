@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-love-heart",
+  "title": "心动恋爱",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_love_heart_1f970",
+      "title": "被爱包围",
+      "fileName": "1F970.png"
+    },
+    {
+      "id": "openmoji_love_heart_1f60d",
+      "title": "爱心眼",
+      "fileName": "1F60D.png"
+    },
+    {
+      "id": "openmoji_love_heart_1f929",
+      "title": "星星眼",
+      "fileName": "1F929.png"
+    },
+    {
+      "id": "openmoji_love_heart_1f618",
+      "title": "飞吻",
+      "fileName": "1F618.png"
+    },
+    {
+      "id": "openmoji_love_heart_1f617",
+      "title": "亲亲",
+      "fileName": "1F617.png"
+    },
+    {
+      "id": "openmoji_love_heart_1f61a",
+      "title": "闭眼亲",
+      "fileName": "1F61A.png"
+    },
+    {
+      "id": "openmoji_love_heart_1f619",
+      "title": "笑着亲",
+      "fileName": "1F619.png"
+    },
+    {
+      "id": "openmoji_love_heart_1f63b",
+      "title": "猫心动",
+      "fileName": "1F63B.png"
+    },
+    {
+      "id": "openmoji_love_heart_1f63d",
+      "title": "猫亲亲",
+      "fileName": "1F63D.png"
+    },
+    {
+      "id": "openmoji_love_heart_1f48c",
+      "title": "情书",
+      "fileName": "1F48C.png"
+    },
+    {
+      "id": "openmoji_love_heart_1f498",
+      "title": "一箭穿心",
+      "fileName": "1F498.png"
+    },
+    {
+      "id": "openmoji_love_heart_1f496",
+      "title": "闪亮爱心",
+      "fileName": "1F496.png"
+    }
+  ]
+}

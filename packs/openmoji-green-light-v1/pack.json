@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-green-light",
+  "title": "收到通过",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_green_light_2705",
+      "title": "完成",
+      "fileName": "2705.png"
+    },
+    {
+      "id": "openmoji_green_light_2611",
+      "title": "勾选框",
+      "fileName": "2611.png"
+    },
+    {
+      "id": "openmoji_green_light_2714",
+      "title": "对勾",
+      "fileName": "2714.png"
+    },
+    {
+      "id": "openmoji_green_light_1f44d",
+      "title": "点赞",
+      "fileName": "1F44D.png"
+    },
+    {
+      "id": "openmoji_green_light_1f44c",
+      "title": "OK",
+      "fileName": "1F44C.png"
+    },
+    {
+      "id": "openmoji_green_light_1f7e2",
+      "title": "绿圆",
+      "fileName": "1F7E2.png"
+    },
+    {
+      "id": "openmoji_green_light_1f4af",
+      "title": "满分",
+      "fileName": "1F4AF.png"
+    },
+    {
+      "id": "openmoji_green_light_1f646",
+      "title": "可以",
+      "fileName": "1F646.png"
+    },
+    {
+      "id": "openmoji_green_light_1f64c",
+      "title": "好耶",
+      "fileName": "1F64C.png"
+    },
+    {
+      "id": "openmoji_green_light_1f91d",
+      "title": "握手",
+      "fileName": "1F91D.png"
+    },
+    {
+      "id": "openmoji_green_light_1f4e9",
+      "title": "收到",
+      "fileName": "1F4E9.png"
+    },
+    {
+      "id": "openmoji_green_light_1f3c1",
+      "title": "终点",
+      "fileName": "1F3C1.png"
+    }
+  ]
+}

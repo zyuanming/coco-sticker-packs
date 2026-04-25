@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-angry-grumpy",
+  "title": "生气不爽",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_angry_grumpy_1f620",
+      "title": "生气",
+      "fileName": "1F620.png"
+    },
+    {
+      "id": "openmoji_angry_grumpy_1f621",
+      "title": "气炸",
+      "fileName": "1F621.png"
+    },
+    {
+      "id": "openmoji_angry_grumpy_1f624",
+      "title": "哼",
+      "fileName": "1F624.png"
+    },
+    {
+      "id": "openmoji_angry_grumpy_1f92c",
+      "title": "骂骂咧咧",
+      "fileName": "1F92C.png"
+    },
+    {
+      "id": "openmoji_angry_grumpy_1f608",
+      "title": "小恶魔",
+      "fileName": "1F608.png"
+    },
+    {
+      "id": "openmoji_angry_grumpy_1f47f",
+      "title": "大恶魔",
+      "fileName": "1F47F.png"
+    },
+    {
+      "id": "openmoji_angry_grumpy_1f63e",
+      "title": "猫生气",
+      "fileName": "1F63E.png"
+    },
+    {
+      "id": "openmoji_angry_grumpy_1f4a2",
+      "title": "怒筋",
+      "fileName": "1F4A2.png"
+    },
+    {
+      "id": "openmoji_angry_grumpy_1f44e",
+      "title": "不行",
+      "fileName": "1F44E.png"
+    },
+    {
+      "id": "openmoji_angry_grumpy_1f595",
+      "title": "中指",
+      "fileName": "1F595.png"
+    },
+    {
+      "id": "openmoji_angry_grumpy_1f525",
+      "title": "火大",
+      "fileName": "1F525.png"
+    },
+    {
+      "id": "openmoji_angry_grumpy_1f4a3",
+      "title": "炸弹",
+      "fileName": "1F4A3.png"
+    }
+  ]
+}

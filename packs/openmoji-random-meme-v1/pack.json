@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-random-meme",
+  "title": "随机发疯",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_random_meme_1fae0",
+      "title": "融化了",
+      "fileName": "1FAE0.png"
+    },
+    {
+      "id": "openmoji_random_meme_1f92a",
+      "title": "发癫",
+      "fileName": "1F92A.png"
+    },
+    {
+      "id": "openmoji_random_meme_1f921",
+      "title": "小丑",
+      "fileName": "1F921.png"
+    },
+    {
+      "id": "openmoji_random_meme_1f4a9",
+      "title": "绷不住",
+      "fileName": "1F4A9.png"
+    },
+    {
+      "id": "openmoji_random_meme_1f47d",
+      "title": "外星人",
+      "fileName": "1F47D.png"
+    },
+    {
+      "id": "openmoji_random_meme_1f47e",
+      "title": "怪兽",
+      "fileName": "1F47E.png"
+    },
+    {
+      "id": "openmoji_random_meme_1f916",
+      "title": "机器人",
+      "fileName": "1F916.png"
+    },
+    {
+      "id": "openmoji_random_meme_1f9d0",
+      "title": "研究中",
+      "fileName": "1F9D0.png"
+    },
+    {
+      "id": "openmoji_random_meme_1f643",
+      "title": "倒着笑",
+      "fileName": "1F643.png"
+    },
+    {
+      "id": "openmoji_random_meme_1f644",
+      "title": "白眼",
+      "fileName": "1F644.png"
+    },
+    {
+      "id": "openmoji_random_meme_1f4ab",
+      "title": "晕乎",
+      "fileName": "1F4AB.png"
+    },
+    {
+      "id": "openmoji_random_meme_1f300",
+      "title": "旋涡",
+      "fileName": "1F300.png"
+    }
+  ]
+}

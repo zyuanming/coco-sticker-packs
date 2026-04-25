@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-red-alert",
+  "title": "警告拒绝",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_red_alert_274c",
+      "title": "错误",
+      "fileName": "274C.png"
+    },
+    {
+      "id": "openmoji_red_alert_26d4",
+      "title": "禁止进入",
+      "fileName": "26D4.png"
+    },
+    {
+      "id": "openmoji_red_alert_1f6ab",
+      "title": "禁止",
+      "fileName": "1F6AB.png"
+    },
+    {
+      "id": "openmoji_red_alert_26a0",
+      "title": "警告",
+      "fileName": "26A0.png"
+    },
+    {
+      "id": "openmoji_red_alert_1f6a8",
+      "title": "警灯",
+      "fileName": "1F6A8.png"
+    },
+    {
+      "id": "openmoji_red_alert_1f534",
+      "title": "红圆",
+      "fileName": "1F534.png"
+    },
+    {
+      "id": "openmoji_red_alert_1f44e",
+      "title": "不行",
+      "fileName": "1F44E.png"
+    },
+    {
+      "id": "openmoji_red_alert_1f595",
+      "title": "中指",
+      "fileName": "1F595.png"
+    },
+    {
+      "id": "openmoji_red_alert_1f4a2",
+      "title": "怒筋",
+      "fileName": "1F4A2.png"
+    },
+    {
+      "id": "openmoji_red_alert_1f4a3",
+      "title": "炸弹",
+      "fileName": "1F4A3.png"
+    },
+    {
+      "id": "openmoji_red_alert_1f525",
+      "title": "火大",
+      "fileName": "1F525.png"
+    },
+    {
+      "id": "openmoji_red_alert_1f6d1",
+      "title": "停止",
+      "fileName": "1F6D1.png"
+    }
+  ]
+}

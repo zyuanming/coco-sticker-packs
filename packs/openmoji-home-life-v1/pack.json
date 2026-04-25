@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-home-life",
+  "title": "居家生活",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_home_life_1f3e0",
+      "title": "家",
+      "fileName": "1F3E0.png"
+    },
+    {
+      "id": "openmoji_home_life_1f6cb",
+      "title": "沙发",
+      "fileName": "1F6CB.png"
+    },
+    {
+      "id": "openmoji_home_life_1f6cf",
+      "title": "床",
+      "fileName": "1F6CF.png"
+    },
+    {
+      "id": "openmoji_home_life_1f6aa",
+      "title": "门",
+      "fileName": "1F6AA.png"
+    },
+    {
+      "id": "openmoji_home_life_1fa91",
+      "title": "椅子",
+      "fileName": "1FA91.png"
+    },
+    {
+      "id": "openmoji_home_life_1f6bf",
+      "title": "淋浴",
+      "fileName": "1F6BF.png"
+    },
+    {
+      "id": "openmoji_home_life_1f9fa",
+      "title": "篮子",
+      "fileName": "1F9FA.png"
+    },
+    {
+      "id": "openmoji_home_life_1f9f9",
+      "title": "扫帚",
+      "fileName": "1F9F9.png"
+    },
+    {
+      "id": "openmoji_home_life_1f9fc",
+      "title": "肥皂",
+      "fileName": "1F9FC.png"
+    },
+    {
+      "id": "openmoji_home_life_1f6d2",
+      "title": "购物车",
+      "fileName": "1F6D2.png"
+    },
+    {
+      "id": "openmoji_home_life_1f37d",
+      "title": "餐具",
+      "fileName": "1F37D.png"
+    },
+    {
+      "id": "openmoji_home_life_1f6cc",
+      "title": "躺平",
+      "fileName": "1F6CC.png"
+    }
+  ]
+}

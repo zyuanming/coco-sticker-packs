@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-game-play",
+  "title": "游戏娱乐",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_game_play_1f3ae",
+      "title": "手柄",
+      "fileName": "1F3AE.png"
+    },
+    {
+      "id": "openmoji_game_play_1f579",
+      "title": "摇杆",
+      "fileName": "1F579.png"
+    },
+    {
+      "id": "openmoji_game_play_1f3b2",
+      "title": "骰子",
+      "fileName": "1F3B2.png"
+    },
+    {
+      "id": "openmoji_game_play_1f0cf",
+      "title": "小丑牌",
+      "fileName": "1F0CF.png"
+    },
+    {
+      "id": "openmoji_game_play_1f3b4",
+      "title": "花牌",
+      "fileName": "1F3B4.png"
+    },
+    {
+      "id": "openmoji_game_play_1f9e9",
+      "title": "拼图",
+      "fileName": "1F9E9.png"
+    },
+    {
+      "id": "openmoji_game_play_1fa80",
+      "title": "悠悠球",
+      "fileName": "1FA80.png"
+    },
+    {
+      "id": "openmoji_game_play_1f3af",
+      "title": "飞镖",
+      "fileName": "1F3AF.png"
+    },
+    {
+      "id": "openmoji_game_play_1f3b3",
+      "title": "保龄球",
+      "fileName": "1F3B3.png"
+    },
+    {
+      "id": "openmoji_game_play_1f3a8",
+      "title": "画画",
+      "fileName": "1F3A8.png"
+    },
+    {
+      "id": "openmoji_game_play_1f3ac",
+      "title": "电影",
+      "fileName": "1F3AC.png"
+    },
+    {
+      "id": "openmoji_game_play_1f37f",
+      "title": "爆米花",
+      "fileName": "1F37F.png"
+    }
+  ]
+}

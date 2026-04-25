@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-sea-vacation",
+  "title": "海边摸鱼",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_sea_vacation_1f30a",
+      "title": "海浪",
+      "fileName": "1F30A.png"
+    },
+    {
+      "id": "openmoji_sea_vacation_1f3d6",
+      "title": "海滩",
+      "fileName": "1F3D6.png"
+    },
+    {
+      "id": "openmoji_sea_vacation_1f3dd",
+      "title": "无人岛",
+      "fileName": "1F3DD.png"
+    },
+    {
+      "id": "openmoji_sea_vacation_1f41f",
+      "title": "鱼",
+      "fileName": "1F41F.png"
+    },
+    {
+      "id": "openmoji_sea_vacation_1f420",
+      "title": "热带鱼",
+      "fileName": "1F420.png"
+    },
+    {
+      "id": "openmoji_sea_vacation_1f421",
+      "title": "河豚",
+      "fileName": "1F421.png"
+    },
+    {
+      "id": "openmoji_sea_vacation_1f988",
+      "title": "鲨鱼",
+      "fileName": "1F988.png"
+    },
+    {
+      "id": "openmoji_sea_vacation_1f42c",
+      "title": "海豚",
+      "fileName": "1F42C.png"
+    },
+    {
+      "id": "openmoji_sea_vacation_1f433",
+      "title": "鲸鱼",
+      "fileName": "1F433.png"
+    },
+    {
+      "id": "openmoji_sea_vacation_1f419",
+      "title": "章鱼",
+      "fileName": "1F419.png"
+    },
+    {
+      "id": "openmoji_sea_vacation_1f9ad",
+      "title": "海豹",
+      "fileName": "1F9AD.png"
+    },
+    {
+      "id": "openmoji_sea_vacation_1f9dc",
+      "title": "人鱼",
+      "fileName": "1F9DC.png"
+    }
+  ]
+}

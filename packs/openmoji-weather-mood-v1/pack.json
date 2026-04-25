@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-weather-mood",
+  "title": "天气心情",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_weather_mood_2600",
+      "title": "晴天",
+      "fileName": "2600.png"
+    },
+    {
+      "id": "openmoji_weather_mood_1f31e",
+      "title": "太阳脸",
+      "fileName": "1F31E.png"
+    },
+    {
+      "id": "openmoji_weather_mood_1f324",
+      "title": "少云",
+      "fileName": "1F324.png"
+    },
+    {
+      "id": "openmoji_weather_mood_26c5",
+      "title": "多云",
+      "fileName": "26C5.png"
+    },
+    {
+      "id": "openmoji_weather_mood_1f325",
+      "title": "阴天",
+      "fileName": "1F325.png"
+    },
+    {
+      "id": "openmoji_weather_mood_2601",
+      "title": "云",
+      "fileName": "2601.png"
+    },
+    {
+      "id": "openmoji_weather_mood_1f327",
+      "title": "下雨",
+      "fileName": "1F327.png"
+    },
+    {
+      "id": "openmoji_weather_mood_26c8",
+      "title": "雷雨",
+      "fileName": "26C8.png"
+    },
+    {
+      "id": "openmoji_weather_mood_1f308",
+      "title": "彩虹",
+      "fileName": "1F308.png"
+    },
+    {
+      "id": "openmoji_weather_mood_2744",
+      "title": "雪花",
+      "fileName": "2744.png"
+    },
+    {
+      "id": "openmoji_weather_mood_2603",
+      "title": "雪人",
+      "fileName": "2603.png"
+    },
+    {
+      "id": "openmoji_weather_mood_1f32a",
+      "title": "龙卷风",
+      "fileName": "1F32A.png"
+    }
+  ]
+}

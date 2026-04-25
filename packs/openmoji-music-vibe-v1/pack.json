@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-music-vibe",
+  "title": "音乐氛围",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_music_vibe_1f3b5",
+      "title": "音符",
+      "fileName": "1F3B5.png"
+    },
+    {
+      "id": "openmoji_music_vibe_1f3b6",
+      "title": "音符组",
+      "fileName": "1F3B6.png"
+    },
+    {
+      "id": "openmoji_music_vibe_1f399",
+      "title": "麦克风",
+      "fileName": "1F399.png"
+    },
+    {
+      "id": "openmoji_music_vibe_1f3a4",
+      "title": "唱歌",
+      "fileName": "1F3A4.png"
+    },
+    {
+      "id": "openmoji_music_vibe_1f3a7",
+      "title": "耳机",
+      "fileName": "1F3A7.png"
+    },
+    {
+      "id": "openmoji_music_vibe_1f3b7",
+      "title": "萨克斯",
+      "fileName": "1F3B7.png"
+    },
+    {
+      "id": "openmoji_music_vibe_1f3b8",
+      "title": "吉他",
+      "fileName": "1F3B8.png"
+    },
+    {
+      "id": "openmoji_music_vibe_1f3b9",
+      "title": "键盘",
+      "fileName": "1F3B9.png"
+    },
+    {
+      "id": "openmoji_music_vibe_1f941",
+      "title": "鼓",
+      "fileName": "1F941.png"
+    },
+    {
+      "id": "openmoji_music_vibe_1fa87",
+      "title": "手风琴",
+      "fileName": "1FA87.png"
+    },
+    {
+      "id": "openmoji_music_vibe_1f483",
+      "title": "跳舞",
+      "fileName": "1F483.png"
+    },
+    {
+      "id": "openmoji_music_vibe_1f57a",
+      "title": "跳舞男",
+      "fileName": "1F57A.png"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-drinks-dessert",
+  "title": "饮料甜点",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_drinks_dessert_2615",
+      "title": "咖啡",
+      "fileName": "2615.png"
+    },
+    {
+      "id": "openmoji_drinks_dessert_1f375",
+      "title": "茶",
+      "fileName": "1F375.png"
+    },
+    {
+      "id": "openmoji_drinks_dessert_1f9cb",
+      "title": "珍珠奶茶",
+      "fileName": "1F9CB.png"
+    },
+    {
+      "id": "openmoji_drinks_dessert_1f964",
+      "title": "杯饮",
+      "fileName": "1F964.png"
+    },
+    {
+      "id": "openmoji_drinks_dessert_1f9c3",
+      "title": "牛奶",
+      "fileName": "1F9C3.png"
+    },
+    {
+      "id": "openmoji_drinks_dessert_1f379",
+      "title": "鸡尾酒",
+      "fileName": "1F379.png"
+    },
+    {
+      "id": "openmoji_drinks_dessert_1f37a",
+      "title": "啤酒",
+      "fileName": "1F37A.png"
+    },
+    {
+      "id": "openmoji_drinks_dessert_1f377",
+      "title": "红酒",
+      "fileName": "1F377.png"
+    },
+    {
+      "id": "openmoji_drinks_dessert_1f370",
+      "title": "蛋糕",
+      "fileName": "1F370.png"
+    },
+    {
+      "id": "openmoji_drinks_dessert_1f9c1",
+      "title": "杯子蛋糕",
+      "fileName": "1F9C1.png"
+    },
+    {
+      "id": "openmoji_drinks_dessert_1f36d",
+      "title": "棒棒糖",
+      "fileName": "1F36D.png"
+    },
+    {
+      "id": "openmoji_drinks_dessert_1f36b",
+      "title": "巧克力",
+      "fileName": "1F36B.png"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-fire-power",
+  "title": "燃起来",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_fire_power_1f525",
+      "title": "燃",
+      "fileName": "1F525.png"
+    },
+    {
+      "id": "openmoji_fire_power_26a1",
+      "title": "闪电",
+      "fileName": "26A1.png"
+    },
+    {
+      "id": "openmoji_fire_power_1f4a5",
+      "title": "爆炸",
+      "fileName": "1F4A5.png"
+    },
+    {
+      "id": "openmoji_fire_power_1f4ab",
+      "title": "晕乎",
+      "fileName": "1F4AB.png"
+    },
+    {
+      "id": "openmoji_fire_power_1f32a",
+      "title": "风暴",
+      "fileName": "1F32A.png"
+    },
+    {
+      "id": "openmoji_fire_power_1f680",
+      "title": "起飞",
+      "fileName": "1F680.png"
+    },
+    {
+      "id": "openmoji_fire_power_1f4af",
+      "title": "满分",
+      "fileName": "1F4AF.png"
+    },
+    {
+      "id": "openmoji_fire_power_1f3af",
+      "title": "命中",
+      "fileName": "1F3AF.png"
+    },
+    {
+      "id": "openmoji_fire_power_1f4aa",
+      "title": "肌肉",
+      "fileName": "1F4AA.png"
+    },
+    {
+      "id": "openmoji_fire_power_1f981",
+      "title": "狮子",
+      "fileName": "1F981.png"
+    },
+    {
+      "id": "openmoji_fire_power_1f451",
+      "title": "王冠",
+      "fileName": "1F451.png"
+    },
+    {
+      "id": "openmoji_fire_power_1f3c6",
+      "title": "奖杯",
+      "fileName": "1F3C6.png"
+    }
+  ]
+}

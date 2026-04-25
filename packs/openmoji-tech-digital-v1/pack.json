@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-tech-digital",
+  "title": "科技数码",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_tech_digital_1f4f1",
+      "title": "手机",
+      "fileName": "1F4F1.png"
+    },
+    {
+      "id": "openmoji_tech_digital_1f4bb",
+      "title": "电脑",
+      "fileName": "1F4BB.png"
+    },
+    {
+      "id": "openmoji_tech_digital_1f5a5",
+      "title": "台式机",
+      "fileName": "1F5A5.png"
+    },
+    {
+      "id": "openmoji_tech_digital_1f5a8",
+      "title": "打印机",
+      "fileName": "1F5A8.png"
+    },
+    {
+      "id": "openmoji_tech_digital_2328",
+      "title": "键盘",
+      "fileName": "2328.png"
+    },
+    {
+      "id": "openmoji_tech_digital_1f5b1",
+      "title": "鼠标",
+      "fileName": "1F5B1.png"
+    },
+    {
+      "id": "openmoji_tech_digital_1f4f7",
+      "title": "相机",
+      "fileName": "1F4F7.png"
+    },
+    {
+      "id": "openmoji_tech_digital_1f4f9",
+      "title": "摄像机",
+      "fileName": "1F4F9.png"
+    },
+    {
+      "id": "openmoji_tech_digital_1f916",
+      "title": "机器人",
+      "fileName": "1F916.png"
+    },
+    {
+      "id": "openmoji_tech_digital_1f50b",
+      "title": "电池",
+      "fileName": "1F50B.png"
+    },
+    {
+      "id": "openmoji_tech_digital_1f4a1",
+      "title": "灯泡",
+      "fileName": "1F4A1.png"
+    },
+    {
+      "id": "openmoji_tech_digital_1f6f0",
+      "title": "卫星",
+      "fileName": "1F6F0.png"
+    }
+  ]
+}

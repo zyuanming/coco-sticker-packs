@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-cool-swag",
+  "title": "酷酷拽拽",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_cool_swag_1f60e",
+      "title": "墨镜",
+      "fileName": "1F60E.png"
+    },
+    {
+      "id": "openmoji_cool_swag_1f920",
+      "title": "牛仔",
+      "fileName": "1F920.png"
+    },
+    {
+      "id": "openmoji_cool_swag_1f978",
+      "title": "伪装",
+      "fileName": "1F978.png"
+    },
+    {
+      "id": "openmoji_cool_swag_1f913",
+      "title": "学霸",
+      "fileName": "1F913.png"
+    },
+    {
+      "id": "openmoji_cool_swag_1f9d0",
+      "title": "研究中",
+      "fileName": "1F9D0.png"
+    },
+    {
+      "id": "openmoji_cool_swag_1f575",
+      "title": "侦探",
+      "fileName": "1F575.png"
+    },
+    {
+      "id": "openmoji_cool_swag_1f3a9",
+      "title": "礼帽",
+      "fileName": "1F3A9.png"
+    },
+    {
+      "id": "openmoji_cool_swag_1f451",
+      "title": "王冠",
+      "fileName": "1F451.png"
+    },
+    {
+      "id": "openmoji_cool_swag_1f48e",
+      "title": "钻石",
+      "fileName": "1F48E.png"
+    },
+    {
+      "id": "openmoji_cool_swag_1f680",
+      "title": "起飞",
+      "fileName": "1F680.png"
+    },
+    {
+      "id": "openmoji_cool_swag_1f3c6",
+      "title": "奖杯",
+      "fileName": "1F3C6.png"
+    },
+    {
+      "id": "openmoji_cool_swag_1f525",
+      "title": "燃",
+      "fileName": "1F525.png"
+    }
+  ]
+}

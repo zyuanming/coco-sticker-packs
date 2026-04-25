@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-hands-reply",
+  "title": "手势回复",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_hands_reply_1f44b",
+      "title": "挥手",
+      "fileName": "1F44B.png"
+    },
+    {
+      "id": "openmoji_hands_reply_1f91a",
+      "title": "手背",
+      "fileName": "1F91A.png"
+    },
+    {
+      "id": "openmoji_hands_reply_1f590",
+      "title": "五指",
+      "fileName": "1F590.png"
+    },
+    {
+      "id": "openmoji_hands_reply_270b",
+      "title": "举手",
+      "fileName": "270B.png"
+    },
+    {
+      "id": "openmoji_hands_reply_1f596",
+      "title": "瓦肯",
+      "fileName": "1F596.png"
+    },
+    {
+      "id": "openmoji_hands_reply_1faf1",
+      "title": "右手",
+      "fileName": "1FAF1.png"
+    },
+    {
+      "id": "openmoji_hands_reply_1f44c",
+      "title": "OK",
+      "fileName": "1F44C.png"
+    },
+    {
+      "id": "openmoji_hands_reply_1f90c",
+      "title": "捏手",
+      "fileName": "1F90C.png"
+    },
+    {
+      "id": "openmoji_hands_reply_1f90f",
+      "title": "一点点",
+      "fileName": "1F90F.png"
+    },
+    {
+      "id": "openmoji_hands_reply_270c",
+      "title": "胜利",
+      "fileName": "270C.png"
+    },
+    {
+      "id": "openmoji_hands_reply_1f91e",
+      "title": "交叉手指",
+      "fileName": "1F91E.png"
+    },
+    {
+      "id": "openmoji_hands_reply_1faf0",
+      "title": "手掌朝下",
+      "fileName": "1FAF0.png"
+    }
+  ]
+}

@@ -1,7 +1,3404 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-04-25T10:35:00+08:00",
+  "updatedAt": "2026-04-25T11:25:00+08:00",
   "packs": [
+    {
+      "id": "openmoji-happy-faces",
+      "title": "开心脸谱",
+      "version": 1,
+      "archiveName": "openmoji-happy-faces-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "高频正向聊天表情，适合打招呼、确认和轻松回复",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_happy_faces_1f600",
+          "title": "笑脸",
+          "fileName": "1F600.png"
+        },
+        {
+          "id": "openmoji_happy_faces_1f603",
+          "title": "大笑",
+          "fileName": "1F603.png"
+        },
+        {
+          "id": "openmoji_happy_faces_1f604",
+          "title": "开心",
+          "fileName": "1F604.png"
+        },
+        {
+          "id": "openmoji_happy_faces_1f601",
+          "title": "咧嘴笑",
+          "fileName": "1F601.png"
+        },
+        {
+          "id": "openmoji_happy_faces_1f606",
+          "title": "笑死",
+          "fileName": "1F606.png"
+        },
+        {
+          "id": "openmoji_happy_faces_1f605",
+          "title": "尴尬笑",
+          "fileName": "1F605.png"
+        },
+        {
+          "id": "openmoji_happy_faces_1f642",
+          "title": "微笑",
+          "fileName": "1F642.png"
+        },
+        {
+          "id": "openmoji_happy_faces_1f60a",
+          "title": "害羞笑",
+          "fileName": "1F60A.png"
+        },
+        {
+          "id": "openmoji_happy_faces_263a",
+          "title": "安心笑",
+          "fileName": "263A.png"
+        },
+        {
+          "id": "openmoji_happy_faces_1f607",
+          "title": "天使",
+          "fileName": "1F607.png"
+        },
+        {
+          "id": "openmoji_happy_faces_1f929",
+          "title": "星星眼",
+          "fileName": "1F929.png"
+        },
+        {
+          "id": "openmoji_happy_faces_1f973",
+          "title": "开派对",
+          "fileName": "1F973.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-laugh-out-loud",
+      "title": "爆笑现场",
+      "version": 1,
+      "archiveName": "openmoji-laugh-out-loud-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "覆盖笑哭、憋笑、发癫和猫猫爆笑的强反应包",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_laugh_out_loud_1f602",
+          "title": "笑哭",
+          "fileName": "1F602.png"
+        },
+        {
+          "id": "openmoji_laugh_out_loud_1f923",
+          "title": "笑到打滚",
+          "fileName": "1F923.png"
+        },
+        {
+          "id": "openmoji_laugh_out_loud_1f606",
+          "title": "笑死",
+          "fileName": "1F606.png"
+        },
+        {
+          "id": "openmoji_laugh_out_loud_1f605",
+          "title": "尴尬笑",
+          "fileName": "1F605.png"
+        },
+        {
+          "id": "openmoji_laugh_out_loud_1f92d",
+          "title": "偷笑",
+          "fileName": "1F92D.png"
+        },
+        {
+          "id": "openmoji_laugh_out_loud_1fae2",
+          "title": "憋笑",
+          "fileName": "1FAE2.png"
+        },
+        {
+          "id": "openmoji_laugh_out_loud_1f61c",
+          "title": "调皮",
+          "fileName": "1F61C.png"
+        },
+        {
+          "id": "openmoji_laugh_out_loud_1f92a",
+          "title": "发癫",
+          "fileName": "1F92A.png"
+        },
+        {
+          "id": "openmoji_laugh_out_loud_1f638",
+          "title": "猫笑哭",
+          "fileName": "1F638.png"
+        },
+        {
+          "id": "openmoji_laugh_out_loud_1f639",
+          "title": "猫开心哭",
+          "fileName": "1F639.png"
+        },
+        {
+          "id": "openmoji_laugh_out_loud_1f4a5",
+          "title": "炸了",
+          "fileName": "1F4A5.png"
+        },
+        {
+          "id": "openmoji_laugh_out_loud_1f4ab",
+          "title": "晕乎",
+          "fileName": "1F4AB.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-love-heart",
+      "title": "心动恋爱",
+      "version": 1,
+      "archiveName": "openmoji-love-heart-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "心动、亲亲、情书和爱心，适合亲密聊天",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_love_heart_1f970",
+          "title": "被爱包围",
+          "fileName": "1F970.png"
+        },
+        {
+          "id": "openmoji_love_heart_1f60d",
+          "title": "爱心眼",
+          "fileName": "1F60D.png"
+        },
+        {
+          "id": "openmoji_love_heart_1f929",
+          "title": "星星眼",
+          "fileName": "1F929.png"
+        },
+        {
+          "id": "openmoji_love_heart_1f618",
+          "title": "飞吻",
+          "fileName": "1F618.png"
+        },
+        {
+          "id": "openmoji_love_heart_1f617",
+          "title": "亲亲",
+          "fileName": "1F617.png"
+        },
+        {
+          "id": "openmoji_love_heart_1f61a",
+          "title": "闭眼亲",
+          "fileName": "1F61A.png"
+        },
+        {
+          "id": "openmoji_love_heart_1f619",
+          "title": "笑着亲",
+          "fileName": "1F619.png"
+        },
+        {
+          "id": "openmoji_love_heart_1f63b",
+          "title": "猫心动",
+          "fileName": "1F63B.png"
+        },
+        {
+          "id": "openmoji_love_heart_1f63d",
+          "title": "猫亲亲",
+          "fileName": "1F63D.png"
+        },
+        {
+          "id": "openmoji_love_heart_1f48c",
+          "title": "情书",
+          "fileName": "1F48C.png"
+        },
+        {
+          "id": "openmoji_love_heart_1f498",
+          "title": "一箭穿心",
+          "fileName": "1F498.png"
+        },
+        {
+          "id": "openmoji_love_heart_1f496",
+          "title": "闪亮爱心",
+          "fileName": "1F496.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-cute-soft",
+      "title": "软萌可爱",
+      "version": 1,
+      "archiveName": "openmoji-cute-soft-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "偏软萌和撒娇语境的动物与表情组合",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_cute_soft_1f97a",
+          "title": "拜托",
+          "fileName": "1F97A.png"
+        },
+        {
+          "id": "openmoji_cute_soft_1f979",
+          "title": "忍泪",
+          "fileName": "1F979.png"
+        },
+        {
+          "id": "openmoji_cute_soft_1f917",
+          "title": "抱抱",
+          "fileName": "1F917.png"
+        },
+        {
+          "id": "openmoji_cute_soft_1f60a",
+          "title": "害羞笑",
+          "fileName": "1F60A.png"
+        },
+        {
+          "id": "openmoji_cute_soft_1f607",
+          "title": "天使",
+          "fileName": "1F607.png"
+        },
+        {
+          "id": "openmoji_cute_soft_1f430",
+          "title": "兔兔",
+          "fileName": "1F430.png"
+        },
+        {
+          "id": "openmoji_cute_soft_1f43b",
+          "title": "小熊",
+          "fileName": "1F43B.png"
+        },
+        {
+          "id": "openmoji_cute_soft_1f43c",
+          "title": "熊猫",
+          "fileName": "1F43C.png"
+        },
+        {
+          "id": "openmoji_cute_soft_1f428",
+          "title": "考拉",
+          "fileName": "1F428.png"
+        },
+        {
+          "id": "openmoji_cute_soft_1f9f8",
+          "title": "玩偶熊",
+          "fileName": "1F9F8.png"
+        },
+        {
+          "id": "openmoji_cute_soft_1f380",
+          "title": "蝴蝶结",
+          "fileName": "1F380.png"
+        },
+        {
+          "id": "openmoji_cute_soft_2728",
+          "title": "闪闪",
+          "fileName": "2728.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-sad-cry",
+      "title": "难过爆哭",
+      "version": 1,
+      "archiveName": "openmoji-sad-cry-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "难过、委屈、爆哭和心碎的负面情绪包",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_sad_cry_1f641",
+          "title": "难过",
+          "fileName": "1F641.png"
+        },
+        {
+          "id": "openmoji_sad_cry_2639",
+          "title": "很难过",
+          "fileName": "2639.png"
+        },
+        {
+          "id": "openmoji_sad_cry_1f614",
+          "title": "低落",
+          "fileName": "1F614.png"
+        },
+        {
+          "id": "openmoji_sad_cry_1f61e",
+          "title": "失望",
+          "fileName": "1F61E.png"
+        },
+        {
+          "id": "openmoji_sad_cry_1f622",
+          "title": "哭了",
+          "fileName": "1F622.png"
+        },
+        {
+          "id": "openmoji_sad_cry_1f62d",
+          "title": "爆哭",
+          "fileName": "1F62D.png"
+        },
+        {
+          "id": "openmoji_sad_cry_1f63f",
+          "title": "猫哭哭",
+          "fileName": "1F63F.png"
+        },
+        {
+          "id": "openmoji_sad_cry_1f625",
+          "title": "松口气哭",
+          "fileName": "1F625.png"
+        },
+        {
+          "id": "openmoji_sad_cry_1f613",
+          "title": "汗",
+          "fileName": "1F613.png"
+        },
+        {
+          "id": "openmoji_sad_cry_1f97a",
+          "title": "拜托",
+          "fileName": "1F97A.png"
+        },
+        {
+          "id": "openmoji_sad_cry_1f979",
+          "title": "忍泪",
+          "fileName": "1F979.png"
+        },
+        {
+          "id": "openmoji_sad_cry_1f494",
+          "title": "心碎",
+          "fileName": "1F494.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-angry-grumpy",
+      "title": "生气不爽",
+      "version": 1,
+      "archiveName": "openmoji-angry-grumpy-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "生气、拒绝、爆炸和火力输出场景",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_angry_grumpy_1f620",
+          "title": "生气",
+          "fileName": "1F620.png"
+        },
+        {
+          "id": "openmoji_angry_grumpy_1f621",
+          "title": "气炸",
+          "fileName": "1F621.png"
+        },
+        {
+          "id": "openmoji_angry_grumpy_1f624",
+          "title": "哼",
+          "fileName": "1F624.png"
+        },
+        {
+          "id": "openmoji_angry_grumpy_1f92c",
+          "title": "骂骂咧咧",
+          "fileName": "1F92C.png"
+        },
+        {
+          "id": "openmoji_angry_grumpy_1f608",
+          "title": "小恶魔",
+          "fileName": "1F608.png"
+        },
+        {
+          "id": "openmoji_angry_grumpy_1f47f",
+          "title": "大恶魔",
+          "fileName": "1F47F.png"
+        },
+        {
+          "id": "openmoji_angry_grumpy_1f63e",
+          "title": "猫生气",
+          "fileName": "1F63E.png"
+        },
+        {
+          "id": "openmoji_angry_grumpy_1f4a2",
+          "title": "怒筋",
+          "fileName": "1F4A2.png"
+        },
+        {
+          "id": "openmoji_angry_grumpy_1f44e",
+          "title": "不行",
+          "fileName": "1F44E.png"
+        },
+        {
+          "id": "openmoji_angry_grumpy_1f595",
+          "title": "中指",
+          "fileName": "1F595.png"
+        },
+        {
+          "id": "openmoji_angry_grumpy_1f525",
+          "title": "火大",
+          "fileName": "1F525.png"
+        },
+        {
+          "id": "openmoji_angry_grumpy_1f4a3",
+          "title": "炸弹",
+          "fileName": "1F4A3.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-shock-panic",
+      "title": "震惊慌张",
+      "version": 1,
+      "archiveName": "openmoji-shock-panic-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "震惊、慌张、尖叫和脑壳炸裂",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_shock_panic_1f62e",
+          "title": "惊讶",
+          "fileName": "1F62E.png"
+        },
+        {
+          "id": "openmoji_shock_panic_1f62f",
+          "title": "呆住",
+          "fileName": "1F62F.png"
+        },
+        {
+          "id": "openmoji_shock_panic_1f632",
+          "title": "震惊",
+          "fileName": "1F632.png"
+        },
+        {
+          "id": "openmoji_shock_panic_1f633",
+          "title": "脸红",
+          "fileName": "1F633.png"
+        },
+        {
+          "id": "openmoji_shock_panic_1f626",
+          "title": "啊这",
+          "fileName": "1F626.png"
+        },
+        {
+          "id": "openmoji_shock_panic_1f627",
+          "title": "慌了",
+          "fileName": "1F627.png"
+        },
+        {
+          "id": "openmoji_shock_panic_1f628",
+          "title": "害怕",
+          "fileName": "1F628.png"
+        },
+        {
+          "id": "openmoji_shock_panic_1f630",
+          "title": "冷汗",
+          "fileName": "1F630.png"
+        },
+        {
+          "id": "openmoji_shock_panic_1f631",
+          "title": "尖叫",
+          "fileName": "1F631.png"
+        },
+        {
+          "id": "openmoji_shock_panic_1fae8",
+          "title": "震动脸",
+          "fileName": "1FAE8.png"
+        },
+        {
+          "id": "openmoji_shock_panic_1f640",
+          "title": "猫震惊",
+          "fileName": "1F640.png"
+        },
+        {
+          "id": "openmoji_shock_panic_1f92f",
+          "title": "脑壳炸",
+          "fileName": "1F92F.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-tired-sleepy",
+      "title": "疲惫困困",
+      "version": 1,
+      "archiveName": "openmoji-tired-sleepy-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "睡觉、困倦、摸鱼和咖啡续命",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_tired_sleepy_1f62a",
+          "title": "困了",
+          "fileName": "1F62A.png"
+        },
+        {
+          "id": "openmoji_tired_sleepy_1f634",
+          "title": "睡着",
+          "fileName": "1F634.png"
+        },
+        {
+          "id": "openmoji_tired_sleepy_1f971",
+          "title": "哈欠",
+          "fileName": "1F971.png"
+        },
+        {
+          "id": "openmoji_tired_sleepy_1f629",
+          "title": "累麻了",
+          "fileName": "1F629.png"
+        },
+        {
+          "id": "openmoji_tired_sleepy_1f62b",
+          "title": "疲惫",
+          "fileName": "1F62B.png"
+        },
+        {
+          "id": "openmoji_tired_sleepy_1f924",
+          "title": "流口水",
+          "fileName": "1F924.png"
+        },
+        {
+          "id": "openmoji_tired_sleepy_1f635",
+          "title": "晕了",
+          "fileName": "1F635.png"
+        },
+        {
+          "id": "openmoji_tired_sleepy_1f4a4",
+          "title": "睡觉",
+          "fileName": "1F4A4.png"
+        },
+        {
+          "id": "openmoji_tired_sleepy_1f6cc",
+          "title": "躺平",
+          "fileName": "1F6CC.png"
+        },
+        {
+          "id": "openmoji_tired_sleepy_1f319",
+          "title": "月亮",
+          "fileName": "1F319.png"
+        },
+        {
+          "id": "openmoji_tired_sleepy_23f0",
+          "title": "闹钟",
+          "fileName": "23F0.png"
+        },
+        {
+          "id": "openmoji_tired_sleepy_2615",
+          "title": "咖啡",
+          "fileName": "2615.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-sick-care",
+      "title": "生病照顾",
+      "version": 1,
+      "archiveName": "openmoji-sick-care-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "身体不适、降温和吃药等关怀场景",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_sick_care_1f637",
+          "title": "口罩",
+          "fileName": "1F637.png"
+        },
+        {
+          "id": "openmoji_sick_care_1f912",
+          "title": "发烧",
+          "fileName": "1F912.png"
+        },
+        {
+          "id": "openmoji_sick_care_1f915",
+          "title": "受伤",
+          "fileName": "1F915.png"
+        },
+        {
+          "id": "openmoji_sick_care_1f922",
+          "title": "想吐",
+          "fileName": "1F922.png"
+        },
+        {
+          "id": "openmoji_sick_care_1f92e",
+          "title": "呕吐",
+          "fileName": "1F92E.png"
+        },
+        {
+          "id": "openmoji_sick_care_1f927",
+          "title": "喷嚏",
+          "fileName": "1F927.png"
+        },
+        {
+          "id": "openmoji_sick_care_1f975",
+          "title": "热晕",
+          "fileName": "1F975.png"
+        },
+        {
+          "id": "openmoji_sick_care_1f976",
+          "title": "冷到抖",
+          "fileName": "1F976.png"
+        },
+        {
+          "id": "openmoji_sick_care_1f9ca",
+          "title": "冰块",
+          "fileName": "1F9CA.png"
+        },
+        {
+          "id": "openmoji_sick_care_1f321",
+          "title": "温度计",
+          "fileName": "1F321.png"
+        },
+        {
+          "id": "openmoji_sick_care_1fa79",
+          "title": "创可贴",
+          "fileName": "1FA79.png"
+        },
+        {
+          "id": "openmoji_sick_care_1f48a",
+          "title": "药丸",
+          "fileName": "1F48A.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-party-celebrate",
+      "title": "派对庆祝",
+      "version": 1,
+      "archiveName": "openmoji-party-celebrate-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "庆祝、礼物、鼓掌和满分反馈",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_party_celebrate_1f973",
+          "title": "开派对",
+          "fileName": "1F973.png"
+        },
+        {
+          "id": "openmoji_party_celebrate_1f389",
+          "title": "礼花",
+          "fileName": "1F389.png"
+        },
+        {
+          "id": "openmoji_party_celebrate_1f38a",
+          "title": "彩带",
+          "fileName": "1F38A.png"
+        },
+        {
+          "id": "openmoji_party_celebrate_1f38f",
+          "title": "鲤鱼旗",
+          "fileName": "1F38F.png"
+        },
+        {
+          "id": "openmoji_party_celebrate_1f381",
+          "title": "礼物",
+          "fileName": "1F381.png"
+        },
+        {
+          "id": "openmoji_party_celebrate_1f382",
+          "title": "蛋糕",
+          "fileName": "1F382.png"
+        },
+        {
+          "id": "openmoji_party_celebrate_1f37e",
+          "title": "香槟",
+          "fileName": "1F37E.png"
+        },
+        {
+          "id": "openmoji_party_celebrate_1f942",
+          "title": "碰杯",
+          "fileName": "1F942.png"
+        },
+        {
+          "id": "openmoji_party_celebrate_1f64c",
+          "title": "好耶",
+          "fileName": "1F64C.png"
+        },
+        {
+          "id": "openmoji_party_celebrate_1f44f",
+          "title": "鼓掌",
+          "fileName": "1F44F.png"
+        },
+        {
+          "id": "openmoji_party_celebrate_2728",
+          "title": "闪闪",
+          "fileName": "2728.png"
+        },
+        {
+          "id": "openmoji_party_celebrate_1f4af",
+          "title": "满分",
+          "fileName": "1F4AF.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-cool-swag",
+      "title": "酷酷拽拽",
+      "version": 1,
+      "archiveName": "openmoji-cool-swag-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "墨镜、王冠、奖杯和高光时刻",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_cool_swag_1f60e",
+          "title": "墨镜",
+          "fileName": "1F60E.png"
+        },
+        {
+          "id": "openmoji_cool_swag_1f920",
+          "title": "牛仔",
+          "fileName": "1F920.png"
+        },
+        {
+          "id": "openmoji_cool_swag_1f978",
+          "title": "伪装",
+          "fileName": "1F978.png"
+        },
+        {
+          "id": "openmoji_cool_swag_1f913",
+          "title": "学霸",
+          "fileName": "1F913.png"
+        },
+        {
+          "id": "openmoji_cool_swag_1f9d0",
+          "title": "研究中",
+          "fileName": "1F9D0.png"
+        },
+        {
+          "id": "openmoji_cool_swag_1f575",
+          "title": "侦探",
+          "fileName": "1F575.png"
+        },
+        {
+          "id": "openmoji_cool_swag_1f3a9",
+          "title": "礼帽",
+          "fileName": "1F3A9.png"
+        },
+        {
+          "id": "openmoji_cool_swag_1f451",
+          "title": "王冠",
+          "fileName": "1F451.png"
+        },
+        {
+          "id": "openmoji_cool_swag_1f48e",
+          "title": "钻石",
+          "fileName": "1F48E.png"
+        },
+        {
+          "id": "openmoji_cool_swag_1f680",
+          "title": "起飞",
+          "fileName": "1F680.png"
+        },
+        {
+          "id": "openmoji_cool_swag_1f3c6",
+          "title": "奖杯",
+          "fileName": "1F3C6.png"
+        },
+        {
+          "id": "openmoji_cool_swag_1f525",
+          "title": "燃",
+          "fileName": "1F525.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-work-office",
+      "title": "打工办公",
+      "version": 1,
+      "archiveName": "openmoji-work-office-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "办公、邮件、报表和咖啡场景",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_work_office_1f4bb",
+          "title": "电脑",
+          "fileName": "1F4BB.png"
+        },
+        {
+          "id": "openmoji_work_office_1f5a5",
+          "title": "台式机",
+          "fileName": "1F5A5.png"
+        },
+        {
+          "id": "openmoji_work_office_2328",
+          "title": "键盘",
+          "fileName": "2328.png"
+        },
+        {
+          "id": "openmoji_work_office_1f5b1",
+          "title": "鼠标",
+          "fileName": "1F5B1.png"
+        },
+        {
+          "id": "openmoji_work_office_1f4c5",
+          "title": "日历",
+          "fileName": "1F4C5.png"
+        },
+        {
+          "id": "openmoji_work_office_1f4cc",
+          "title": "图钉",
+          "fileName": "1F4CC.png"
+        },
+        {
+          "id": "openmoji_work_office_1f4ce",
+          "title": "回形针",
+          "fileName": "1F4CE.png"
+        },
+        {
+          "id": "openmoji_work_office_1f4d1",
+          "title": "标签页",
+          "fileName": "1F4D1.png"
+        },
+        {
+          "id": "openmoji_work_office_1f4ca",
+          "title": "柱状图",
+          "fileName": "1F4CA.png"
+        },
+        {
+          "id": "openmoji_work_office_1f4c8",
+          "title": "上涨",
+          "fileName": "1F4C8.png"
+        },
+        {
+          "id": "openmoji_work_office_1f4e7",
+          "title": "邮件",
+          "fileName": "1F4E7.png"
+        },
+        {
+          "id": "openmoji_work_office_2615",
+          "title": "咖啡",
+          "fileName": "2615.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-study-focus",
+      "title": "学习专注",
+      "version": 1,
+      "archiveName": "openmoji-study-focus-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "读书、笔记、研究和灵感出现",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_study_focus_1f4da",
+          "title": "书堆",
+          "fileName": "1F4DA.png"
+        },
+        {
+          "id": "openmoji_study_focus_1f4d6",
+          "title": "打开书",
+          "fileName": "1F4D6.png"
+        },
+        {
+          "id": "openmoji_study_focus_1f4dd",
+          "title": "笔记",
+          "fileName": "1F4DD.png"
+        },
+        {
+          "id": "openmoji_study_focus_270f",
+          "title": "铅笔",
+          "fileName": "270F.png"
+        },
+        {
+          "id": "openmoji_study_focus_1f50d",
+          "title": "搜索",
+          "fileName": "1F50D.png"
+        },
+        {
+          "id": "openmoji_study_focus_1f9e0",
+          "title": "大脑",
+          "fileName": "1F9E0.png"
+        },
+        {
+          "id": "openmoji_study_focus_1f9d0",
+          "title": "研究中",
+          "fileName": "1F9D0.png"
+        },
+        {
+          "id": "openmoji_study_focus_1f393",
+          "title": "毕业帽",
+          "fileName": "1F393.png"
+        },
+        {
+          "id": "openmoji_study_focus_1f3eb",
+          "title": "学校",
+          "fileName": "1F3EB.png"
+        },
+        {
+          "id": "openmoji_study_focus_1f52c",
+          "title": "显微镜",
+          "fileName": "1F52C.png"
+        },
+        {
+          "id": "openmoji_study_focus_1f4a1",
+          "title": "灵感",
+          "fileName": "1F4A1.png"
+        },
+        {
+          "id": "openmoji_study_focus_23f3",
+          "title": "沙漏",
+          "fileName": "23F3.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-money-rich",
+      "title": "搞钱财迷",
+      "version": 1,
+      "archiveName": "openmoji-money-rich-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "搞钱、付款、发财和目标达成",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_money_rich_1f911",
+          "title": "财迷",
+          "fileName": "1F911.png"
+        },
+        {
+          "id": "openmoji_money_rich_1f4b0",
+          "title": "钱袋",
+          "fileName": "1F4B0.png"
+        },
+        {
+          "id": "openmoji_money_rich_1f4b5",
+          "title": "美元",
+          "fileName": "1F4B5.png"
+        },
+        {
+          "id": "openmoji_money_rich_1fa99",
+          "title": "硬币",
+          "fileName": "1FA99.png"
+        },
+        {
+          "id": "openmoji_money_rich_1f4b3",
+          "title": "银行卡",
+          "fileName": "1F4B3.png"
+        },
+        {
+          "id": "openmoji_money_rich_1f4b8",
+          "title": "钱飞了",
+          "fileName": "1F4B8.png"
+        },
+        {
+          "id": "openmoji_money_rich_1f9fe",
+          "title": "账单",
+          "fileName": "1F9FE.png"
+        },
+        {
+          "id": "openmoji_money_rich_1f3e6",
+          "title": "银行",
+          "fileName": "1F3E6.png"
+        },
+        {
+          "id": "openmoji_money_rich_1f4c8",
+          "title": "上涨",
+          "fileName": "1F4C8.png"
+        },
+        {
+          "id": "openmoji_money_rich_1f48e",
+          "title": "钻石",
+          "fileName": "1F48E.png"
+        },
+        {
+          "id": "openmoji_money_rich_1f947",
+          "title": "金牌",
+          "fileName": "1F947.png"
+        },
+        {
+          "id": "openmoji_money_rich_1f3af",
+          "title": "命中",
+          "fileName": "1F3AF.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-food-snack",
+      "title": "吃饭零食",
+      "version": 1,
+      "archiveName": "openmoji-food-snack-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "主食、零食、夜宵和快乐补给",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_food_snack_1f354",
+          "title": "汉堡",
+          "fileName": "1F354.png"
+        },
+        {
+          "id": "openmoji_food_snack_1f35f",
+          "title": "薯条",
+          "fileName": "1F35F.png"
+        },
+        {
+          "id": "openmoji_food_snack_1f355",
+          "title": "披萨",
+          "fileName": "1F355.png"
+        },
+        {
+          "id": "openmoji_food_snack_1f32d",
+          "title": "热狗",
+          "fileName": "1F32D.png"
+        },
+        {
+          "id": "openmoji_food_snack_1f96a",
+          "title": "三明治",
+          "fileName": "1F96A.png"
+        },
+        {
+          "id": "openmoji_food_snack_1f32e",
+          "title": "卷饼",
+          "fileName": "1F32E.png"
+        },
+        {
+          "id": "openmoji_food_snack_1f35c",
+          "title": "拉面",
+          "fileName": "1F35C.png"
+        },
+        {
+          "id": "openmoji_food_snack_1f363",
+          "title": "寿司",
+          "fileName": "1F363.png"
+        },
+        {
+          "id": "openmoji_food_snack_1f366",
+          "title": "冰淇淋",
+          "fileName": "1F366.png"
+        },
+        {
+          "id": "openmoji_food_snack_1f369",
+          "title": "甜甜圈",
+          "fileName": "1F369.png"
+        },
+        {
+          "id": "openmoji_food_snack_1f36a",
+          "title": "饼干",
+          "fileName": "1F36A.png"
+        },
+        {
+          "id": "openmoji_food_snack_1f37f",
+          "title": "爆米花",
+          "fileName": "1F37F.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-drinks-dessert",
+      "title": "饮料甜点",
+      "version": 1,
+      "archiveName": "openmoji-drinks-dessert-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "咖啡、奶茶、酒水和甜点组合",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_drinks_dessert_2615",
+          "title": "咖啡",
+          "fileName": "2615.png"
+        },
+        {
+          "id": "openmoji_drinks_dessert_1f375",
+          "title": "茶",
+          "fileName": "1F375.png"
+        },
+        {
+          "id": "openmoji_drinks_dessert_1f9cb",
+          "title": "珍珠奶茶",
+          "fileName": "1F9CB.png"
+        },
+        {
+          "id": "openmoji_drinks_dessert_1f964",
+          "title": "杯饮",
+          "fileName": "1F964.png"
+        },
+        {
+          "id": "openmoji_drinks_dessert_1f9c3",
+          "title": "牛奶",
+          "fileName": "1F9C3.png"
+        },
+        {
+          "id": "openmoji_drinks_dessert_1f379",
+          "title": "鸡尾酒",
+          "fileName": "1F379.png"
+        },
+        {
+          "id": "openmoji_drinks_dessert_1f37a",
+          "title": "啤酒",
+          "fileName": "1F37A.png"
+        },
+        {
+          "id": "openmoji_drinks_dessert_1f377",
+          "title": "红酒",
+          "fileName": "1F377.png"
+        },
+        {
+          "id": "openmoji_drinks_dessert_1f370",
+          "title": "蛋糕",
+          "fileName": "1F370.png"
+        },
+        {
+          "id": "openmoji_drinks_dessert_1f9c1",
+          "title": "杯子蛋糕",
+          "fileName": "1F9C1.png"
+        },
+        {
+          "id": "openmoji_drinks_dessert_1f36d",
+          "title": "棒棒糖",
+          "fileName": "1F36D.png"
+        },
+        {
+          "id": "openmoji_drinks_dessert_1f36b",
+          "title": "巧克力",
+          "fileName": "1F36B.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-cat-faces",
+      "title": "猫猫脸谱",
+      "version": 1,
+      "archiveName": "openmoji-cat-faces-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "猫脸九宫格加猫爪，适合猫系聊天",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_cat_faces_1f63a",
+          "title": "猫猫笑",
+          "fileName": "1F63A.png"
+        },
+        {
+          "id": "openmoji_cat_faces_1f638",
+          "title": "猫笑哭",
+          "fileName": "1F638.png"
+        },
+        {
+          "id": "openmoji_cat_faces_1f639",
+          "title": "猫开心哭",
+          "fileName": "1F639.png"
+        },
+        {
+          "id": "openmoji_cat_faces_1f63b",
+          "title": "猫心动",
+          "fileName": "1F63B.png"
+        },
+        {
+          "id": "openmoji_cat_faces_1f63c",
+          "title": "猫坏笑",
+          "fileName": "1F63C.png"
+        },
+        {
+          "id": "openmoji_cat_faces_1f63d",
+          "title": "猫亲亲",
+          "fileName": "1F63D.png"
+        },
+        {
+          "id": "openmoji_cat_faces_1f640",
+          "title": "猫震惊",
+          "fileName": "1F640.png"
+        },
+        {
+          "id": "openmoji_cat_faces_1f63f",
+          "title": "猫哭哭",
+          "fileName": "1F63F.png"
+        },
+        {
+          "id": "openmoji_cat_faces_1f63e",
+          "title": "猫生气",
+          "fileName": "1F63E.png"
+        },
+        {
+          "id": "openmoji_cat_faces_1f431",
+          "title": "猫脸",
+          "fileName": "1F431.png"
+        },
+        {
+          "id": "openmoji_cat_faces_1f408",
+          "title": "猫",
+          "fileName": "1F408.png"
+        },
+        {
+          "id": "openmoji_cat_faces_1f43e",
+          "title": "爪印",
+          "fileName": "1F43E.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-dog-pet",
+      "title": "狗狗宠物",
+      "version": 1,
+      "archiveName": "openmoji-dog-pet-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "狗狗、宠物和陪伴语境",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_dog_pet_1f436",
+          "title": "狗脸",
+          "fileName": "1F436.png"
+        },
+        {
+          "id": "openmoji_dog_pet_1f415",
+          "title": "狗狗",
+          "fileName": "1F415.png"
+        },
+        {
+          "id": "openmoji_dog_pet_1f9ae",
+          "title": "导盲犬",
+          "fileName": "1F9AE.png"
+        },
+        {
+          "id": "openmoji_dog_pet_1f415_200d_1f9ba",
+          "title": "服务犬",
+          "fileName": "1F415-200D-1F9BA.png"
+        },
+        {
+          "id": "openmoji_dog_pet_1f429",
+          "title": "贵宾犬",
+          "fileName": "1F429.png"
+        },
+        {
+          "id": "openmoji_dog_pet_1f43e",
+          "title": "爪印",
+          "fileName": "1F43E.png"
+        },
+        {
+          "id": "openmoji_dog_pet_1f9b4",
+          "title": "骨头",
+          "fileName": "1F9B4.png"
+        },
+        {
+          "id": "openmoji_dog_pet_1f3be",
+          "title": "网球",
+          "fileName": "1F3BE.png"
+        },
+        {
+          "id": "openmoji_dog_pet_1f3c0",
+          "title": "球球",
+          "fileName": "1F3C0.png"
+        },
+        {
+          "id": "openmoji_dog_pet_1f6b6",
+          "title": "散步",
+          "fileName": "1F6B6.png"
+        },
+        {
+          "id": "openmoji_dog_pet_1f3e0",
+          "title": "回家",
+          "fileName": "1F3E0.png"
+        },
+        {
+          "id": "openmoji_dog_pet_2764",
+          "title": "爱心",
+          "fileName": "2764.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-animal-cute",
+      "title": "动物可爱",
+      "version": 1,
+      "archiveName": "openmoji-animal-cute-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "小动物卖萌和轻松回应",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_animal_cute_1f42d",
+          "title": "老鼠",
+          "fileName": "1F42D.png"
+        },
+        {
+          "id": "openmoji_animal_cute_1f439",
+          "title": "仓鼠",
+          "fileName": "1F439.png"
+        },
+        {
+          "id": "openmoji_animal_cute_1f430",
+          "title": "兔子",
+          "fileName": "1F430.png"
+        },
+        {
+          "id": "openmoji_animal_cute_1f98a",
+          "title": "狐狸",
+          "fileName": "1F98A.png"
+        },
+        {
+          "id": "openmoji_animal_cute_1f43b",
+          "title": "熊",
+          "fileName": "1F43B.png"
+        },
+        {
+          "id": "openmoji_animal_cute_1f43c",
+          "title": "熊猫",
+          "fileName": "1F43C.png"
+        },
+        {
+          "id": "openmoji_animal_cute_1f428",
+          "title": "考拉",
+          "fileName": "1F428.png"
+        },
+        {
+          "id": "openmoji_animal_cute_1f42f",
+          "title": "老虎",
+          "fileName": "1F42F.png"
+        },
+        {
+          "id": "openmoji_animal_cute_1f981",
+          "title": "狮子",
+          "fileName": "1F981.png"
+        },
+        {
+          "id": "openmoji_animal_cute_1f42e",
+          "title": "奶牛",
+          "fileName": "1F42E.png"
+        },
+        {
+          "id": "openmoji_animal_cute_1f437",
+          "title": "小猪",
+          "fileName": "1F437.png"
+        },
+        {
+          "id": "openmoji_animal_cute_1f438",
+          "title": "青蛙",
+          "fileName": "1F438.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-animal-wild",
+      "title": "动物野趣",
+      "version": 1,
+      "archiveName": "openmoji-animal-wild-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "野生动物风格的夸张反应",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_animal_wild_1f435",
+          "title": "猴子",
+          "fileName": "1F435.png"
+        },
+        {
+          "id": "openmoji_animal_wild_1f98d",
+          "title": "猩猩",
+          "fileName": "1F98D.png"
+        },
+        {
+          "id": "openmoji_animal_wild_1f9a7",
+          "title": "臭鼬",
+          "fileName": "1F9A7.png"
+        },
+        {
+          "id": "openmoji_animal_wild_1f43a",
+          "title": "狼",
+          "fileName": "1F43A.png"
+        },
+        {
+          "id": "openmoji_animal_wild_1f417",
+          "title": "野猪",
+          "fileName": "1F417.png"
+        },
+        {
+          "id": "openmoji_animal_wild_1f434",
+          "title": "马",
+          "fileName": "1F434.png"
+        },
+        {
+          "id": "openmoji_animal_wild_1f993",
+          "title": "斑马",
+          "fileName": "1F993.png"
+        },
+        {
+          "id": "openmoji_animal_wild_1f98c",
+          "title": "鹿",
+          "fileName": "1F98C.png"
+        },
+        {
+          "id": "openmoji_animal_wild_1f9ac",
+          "title": "野牛",
+          "fileName": "1F9AC.png"
+        },
+        {
+          "id": "openmoji_animal_wild_1f418",
+          "title": "大象",
+          "fileName": "1F418.png"
+        },
+        {
+          "id": "openmoji_animal_wild_1f98f",
+          "title": "犀牛",
+          "fileName": "1F98F.png"
+        },
+        {
+          "id": "openmoji_animal_wild_1f99b",
+          "title": "河马",
+          "fileName": "1F99B.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-hands-reply",
+      "title": "手势回复",
+      "version": 1,
+      "archiveName": "openmoji-hands-reply-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "日常回复手势，适合快速表达态度",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_hands_reply_1f44b",
+          "title": "挥手",
+          "fileName": "1F44B.png"
+        },
+        {
+          "id": "openmoji_hands_reply_1f91a",
+          "title": "手背",
+          "fileName": "1F91A.png"
+        },
+        {
+          "id": "openmoji_hands_reply_1f590",
+          "title": "五指",
+          "fileName": "1F590.png"
+        },
+        {
+          "id": "openmoji_hands_reply_270b",
+          "title": "举手",
+          "fileName": "270B.png"
+        },
+        {
+          "id": "openmoji_hands_reply_1f596",
+          "title": "瓦肯",
+          "fileName": "1F596.png"
+        },
+        {
+          "id": "openmoji_hands_reply_1faf1",
+          "title": "右手",
+          "fileName": "1FAF1.png"
+        },
+        {
+          "id": "openmoji_hands_reply_1f44c",
+          "title": "OK",
+          "fileName": "1F44C.png"
+        },
+        {
+          "id": "openmoji_hands_reply_1f90c",
+          "title": "捏手",
+          "fileName": "1F90C.png"
+        },
+        {
+          "id": "openmoji_hands_reply_1f90f",
+          "title": "一点点",
+          "fileName": "1F90F.png"
+        },
+        {
+          "id": "openmoji_hands_reply_270c",
+          "title": "胜利",
+          "fileName": "270C.png"
+        },
+        {
+          "id": "openmoji_hands_reply_1f91e",
+          "title": "交叉手指",
+          "fileName": "1F91E.png"
+        },
+        {
+          "id": "openmoji_hands_reply_1faf0",
+          "title": "手掌朝下",
+          "fileName": "1FAF0.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-hands-action",
+      "title": "动作手势",
+      "version": 1,
+      "archiveName": "openmoji-hands-action-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "点赞、鼓掌、击拳和力量表达",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_hands_action_1f44d",
+          "title": "点赞",
+          "fileName": "1F44D.png"
+        },
+        {
+          "id": "openmoji_hands_action_1f44e",
+          "title": "不行",
+          "fileName": "1F44E.png"
+        },
+        {
+          "id": "openmoji_hands_action_270a",
+          "title": "拳头",
+          "fileName": "270A.png"
+        },
+        {
+          "id": "openmoji_hands_action_1f44a",
+          "title": "出拳",
+          "fileName": "1F44A.png"
+        },
+        {
+          "id": "openmoji_hands_action_1f91b",
+          "title": "左拳",
+          "fileName": "1F91B.png"
+        },
+        {
+          "id": "openmoji_hands_action_1f91c",
+          "title": "右拳",
+          "fileName": "1F91C.png"
+        },
+        {
+          "id": "openmoji_hands_action_1f44f",
+          "title": "鼓掌",
+          "fileName": "1F44F.png"
+        },
+        {
+          "id": "openmoji_hands_action_1f64c",
+          "title": "好耶",
+          "fileName": "1F64C.png"
+        },
+        {
+          "id": "openmoji_hands_action_1faf6",
+          "title": "爱心手",
+          "fileName": "1FAF6.png"
+        },
+        {
+          "id": "openmoji_hands_action_1f64f",
+          "title": "求求",
+          "fileName": "1F64F.png"
+        },
+        {
+          "id": "openmoji_hands_action_1f485",
+          "title": "美甲",
+          "fileName": "1F485.png"
+        },
+        {
+          "id": "openmoji_hands_action_1f4aa",
+          "title": "肌肉",
+          "fileName": "1F4AA.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-hearts-symbols",
+      "title": "爱心符号",
+      "version": 1,
+      "archiveName": "openmoji-hearts-symbols-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "多色爱心和情绪符号",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_hearts_symbols_2764",
+          "title": "红心",
+          "fileName": "2764.png"
+        },
+        {
+          "id": "openmoji_hearts_symbols_1f9e1",
+          "title": "橙心",
+          "fileName": "1F9E1.png"
+        },
+        {
+          "id": "openmoji_hearts_symbols_1f49b",
+          "title": "黄心",
+          "fileName": "1F49B.png"
+        },
+        {
+          "id": "openmoji_hearts_symbols_1f49a",
+          "title": "绿心",
+          "fileName": "1F49A.png"
+        },
+        {
+          "id": "openmoji_hearts_symbols_1f499",
+          "title": "蓝心",
+          "fileName": "1F499.png"
+        },
+        {
+          "id": "openmoji_hearts_symbols_1f49c",
+          "title": "紫心",
+          "fileName": "1F49C.png"
+        },
+        {
+          "id": "openmoji_hearts_symbols_1f90e",
+          "title": "棕心",
+          "fileName": "1F90E.png"
+        },
+        {
+          "id": "openmoji_hearts_symbols_1f5a4",
+          "title": "黑心",
+          "fileName": "1F5A4.png"
+        },
+        {
+          "id": "openmoji_hearts_symbols_1f90d",
+          "title": "白心",
+          "fileName": "1F90D.png"
+        },
+        {
+          "id": "openmoji_hearts_symbols_1f498",
+          "title": "一箭穿心",
+          "fileName": "1F498.png"
+        },
+        {
+          "id": "openmoji_hearts_symbols_1f49d",
+          "title": "礼物心",
+          "fileName": "1F49D.png"
+        },
+        {
+          "id": "openmoji_hearts_symbols_1f49e",
+          "title": "旋转心",
+          "fileName": "1F49E.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-weather-mood",
+      "title": "天气心情",
+      "version": 1,
+      "archiveName": "openmoji-weather-mood-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "用天气表达状态和氛围",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_weather_mood_2600",
+          "title": "晴天",
+          "fileName": "2600.png"
+        },
+        {
+          "id": "openmoji_weather_mood_1f31e",
+          "title": "太阳脸",
+          "fileName": "1F31E.png"
+        },
+        {
+          "id": "openmoji_weather_mood_1f324",
+          "title": "少云",
+          "fileName": "1F324.png"
+        },
+        {
+          "id": "openmoji_weather_mood_26c5",
+          "title": "多云",
+          "fileName": "26C5.png"
+        },
+        {
+          "id": "openmoji_weather_mood_1f325",
+          "title": "阴天",
+          "fileName": "1F325.png"
+        },
+        {
+          "id": "openmoji_weather_mood_2601",
+          "title": "云",
+          "fileName": "2601.png"
+        },
+        {
+          "id": "openmoji_weather_mood_1f327",
+          "title": "下雨",
+          "fileName": "1F327.png"
+        },
+        {
+          "id": "openmoji_weather_mood_26c8",
+          "title": "雷雨",
+          "fileName": "26C8.png"
+        },
+        {
+          "id": "openmoji_weather_mood_1f308",
+          "title": "彩虹",
+          "fileName": "1F308.png"
+        },
+        {
+          "id": "openmoji_weather_mood_2744",
+          "title": "雪花",
+          "fileName": "2744.png"
+        },
+        {
+          "id": "openmoji_weather_mood_2603",
+          "title": "雪人",
+          "fileName": "2603.png"
+        },
+        {
+          "id": "openmoji_weather_mood_1f32a",
+          "title": "龙卷风",
+          "fileName": "1F32A.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-travel-going",
+      "title": "出门旅行",
+      "version": 1,
+      "archiveName": "openmoji-travel-going-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "出发、交通、地图和度假",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_travel_going_1f680",
+          "title": "火箭",
+          "fileName": "1F680.png"
+        },
+        {
+          "id": "openmoji_travel_going_2708",
+          "title": "飞机",
+          "fileName": "2708.png"
+        },
+        {
+          "id": "openmoji_travel_going_1f6eb",
+          "title": "起飞",
+          "fileName": "1F6EB.png"
+        },
+        {
+          "id": "openmoji_travel_going_1f697",
+          "title": "汽车",
+          "fileName": "1F697.png"
+        },
+        {
+          "id": "openmoji_travel_going_1f695",
+          "title": "出租车",
+          "fileName": "1F695.png"
+        },
+        {
+          "id": "openmoji_travel_going_1f68c",
+          "title": "公交",
+          "fileName": "1F68C.png"
+        },
+        {
+          "id": "openmoji_travel_going_1f686",
+          "title": "火车",
+          "fileName": "1F686.png"
+        },
+        {
+          "id": "openmoji_travel_going_1f6a2",
+          "title": "船",
+          "fileName": "1F6A2.png"
+        },
+        {
+          "id": "openmoji_travel_going_1f5fa",
+          "title": "地图",
+          "fileName": "1F5FA.png"
+        },
+        {
+          "id": "openmoji_travel_going_1f9ed",
+          "title": "指南针",
+          "fileName": "1F9ED.png"
+        },
+        {
+          "id": "openmoji_travel_going_1f3d6",
+          "title": "海滩",
+          "fileName": "1F3D6.png"
+        },
+        {
+          "id": "openmoji_travel_going_1f3d5",
+          "title": "露营",
+          "fileName": "1F3D5.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-sports-energy",
+      "title": "运动能量",
+      "version": 1,
+      "archiveName": "openmoji-sports-energy-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "运动、比赛、奖杯和金牌",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_sports_energy_26bd",
+          "title": "足球",
+          "fileName": "26BD.png"
+        },
+        {
+          "id": "openmoji_sports_energy_1f3c0",
+          "title": "篮球",
+          "fileName": "1F3C0.png"
+        },
+        {
+          "id": "openmoji_sports_energy_1f3c8",
+          "title": "橄榄球",
+          "fileName": "1F3C8.png"
+        },
+        {
+          "id": "openmoji_sports_energy_26be",
+          "title": "棒球",
+          "fileName": "26BE.png"
+        },
+        {
+          "id": "openmoji_sports_energy_1f3be",
+          "title": "网球",
+          "fileName": "1F3BE.png"
+        },
+        {
+          "id": "openmoji_sports_energy_1f3d0",
+          "title": "排球",
+          "fileName": "1F3D0.png"
+        },
+        {
+          "id": "openmoji_sports_energy_1f3c9",
+          "title": "英式橄榄球",
+          "fileName": "1F3C9.png"
+        },
+        {
+          "id": "openmoji_sports_energy_1f94a",
+          "title": "拳击",
+          "fileName": "1F94A.png"
+        },
+        {
+          "id": "openmoji_sports_energy_1f3c3",
+          "title": "跑步",
+          "fileName": "1F3C3.png"
+        },
+        {
+          "id": "openmoji_sports_energy_1f3cb",
+          "title": "举重",
+          "fileName": "1F3CB.png"
+        },
+        {
+          "id": "openmoji_sports_energy_1f3c6",
+          "title": "奖杯",
+          "fileName": "1F3C6.png"
+        },
+        {
+          "id": "openmoji_sports_energy_1f947",
+          "title": "金牌",
+          "fileName": "1F947.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-music-vibe",
+      "title": "音乐氛围",
+      "version": 1,
+      "archiveName": "openmoji-music-vibe-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "听歌、演唱、跳舞和乐器",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_music_vibe_1f3b5",
+          "title": "音符",
+          "fileName": "1F3B5.png"
+        },
+        {
+          "id": "openmoji_music_vibe_1f3b6",
+          "title": "音符组",
+          "fileName": "1F3B6.png"
+        },
+        {
+          "id": "openmoji_music_vibe_1f399",
+          "title": "麦克风",
+          "fileName": "1F399.png"
+        },
+        {
+          "id": "openmoji_music_vibe_1f3a4",
+          "title": "唱歌",
+          "fileName": "1F3A4.png"
+        },
+        {
+          "id": "openmoji_music_vibe_1f3a7",
+          "title": "耳机",
+          "fileName": "1F3A7.png"
+        },
+        {
+          "id": "openmoji_music_vibe_1f3b7",
+          "title": "萨克斯",
+          "fileName": "1F3B7.png"
+        },
+        {
+          "id": "openmoji_music_vibe_1f3b8",
+          "title": "吉他",
+          "fileName": "1F3B8.png"
+        },
+        {
+          "id": "openmoji_music_vibe_1f3b9",
+          "title": "键盘",
+          "fileName": "1F3B9.png"
+        },
+        {
+          "id": "openmoji_music_vibe_1f941",
+          "title": "鼓",
+          "fileName": "1F941.png"
+        },
+        {
+          "id": "openmoji_music_vibe_1fa87",
+          "title": "手风琴",
+          "fileName": "1FA87.png"
+        },
+        {
+          "id": "openmoji_music_vibe_1f483",
+          "title": "跳舞",
+          "fileName": "1F483.png"
+        },
+        {
+          "id": "openmoji_music_vibe_1f57a",
+          "title": "跳舞男",
+          "fileName": "1F57A.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-game-play",
+      "title": "游戏娱乐",
+      "version": 1,
+      "archiveName": "openmoji-game-play-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "游戏、桌游、电影和放松",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_game_play_1f3ae",
+          "title": "手柄",
+          "fileName": "1F3AE.png"
+        },
+        {
+          "id": "openmoji_game_play_1f579",
+          "title": "摇杆",
+          "fileName": "1F579.png"
+        },
+        {
+          "id": "openmoji_game_play_1f3b2",
+          "title": "骰子",
+          "fileName": "1F3B2.png"
+        },
+        {
+          "id": "openmoji_game_play_1f0cf",
+          "title": "小丑牌",
+          "fileName": "1F0CF.png"
+        },
+        {
+          "id": "openmoji_game_play_1f3b4",
+          "title": "花牌",
+          "fileName": "1F3B4.png"
+        },
+        {
+          "id": "openmoji_game_play_1f9e9",
+          "title": "拼图",
+          "fileName": "1F9E9.png"
+        },
+        {
+          "id": "openmoji_game_play_1fa80",
+          "title": "悠悠球",
+          "fileName": "1FA80.png"
+        },
+        {
+          "id": "openmoji_game_play_1f3af",
+          "title": "飞镖",
+          "fileName": "1F3AF.png"
+        },
+        {
+          "id": "openmoji_game_play_1f3b3",
+          "title": "保龄球",
+          "fileName": "1F3B3.png"
+        },
+        {
+          "id": "openmoji_game_play_1f3a8",
+          "title": "画画",
+          "fileName": "1F3A8.png"
+        },
+        {
+          "id": "openmoji_game_play_1f3ac",
+          "title": "电影",
+          "fileName": "1F3AC.png"
+        },
+        {
+          "id": "openmoji_game_play_1f37f",
+          "title": "爆米花",
+          "fileName": "1F37F.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-tech-digital",
+      "title": "科技数码",
+      "version": 1,
+      "archiveName": "openmoji-tech-digital-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "电子设备、相机、机器人和电量",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_tech_digital_1f4f1",
+          "title": "手机",
+          "fileName": "1F4F1.png"
+        },
+        {
+          "id": "openmoji_tech_digital_1f4bb",
+          "title": "电脑",
+          "fileName": "1F4BB.png"
+        },
+        {
+          "id": "openmoji_tech_digital_1f5a5",
+          "title": "台式机",
+          "fileName": "1F5A5.png"
+        },
+        {
+          "id": "openmoji_tech_digital_1f5a8",
+          "title": "打印机",
+          "fileName": "1F5A8.png"
+        },
+        {
+          "id": "openmoji_tech_digital_2328",
+          "title": "键盘",
+          "fileName": "2328.png"
+        },
+        {
+          "id": "openmoji_tech_digital_1f5b1",
+          "title": "鼠标",
+          "fileName": "1F5B1.png"
+        },
+        {
+          "id": "openmoji_tech_digital_1f4f7",
+          "title": "相机",
+          "fileName": "1F4F7.png"
+        },
+        {
+          "id": "openmoji_tech_digital_1f4f9",
+          "title": "摄像机",
+          "fileName": "1F4F9.png"
+        },
+        {
+          "id": "openmoji_tech_digital_1f916",
+          "title": "机器人",
+          "fileName": "1F916.png"
+        },
+        {
+          "id": "openmoji_tech_digital_1f50b",
+          "title": "电池",
+          "fileName": "1F50B.png"
+        },
+        {
+          "id": "openmoji_tech_digital_1f4a1",
+          "title": "灯泡",
+          "fileName": "1F4A1.png"
+        },
+        {
+          "id": "openmoji_tech_digital_1f6f0",
+          "title": "卫星",
+          "fileName": "1F6F0.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-home-life",
+      "title": "居家生活",
+      "version": 1,
+      "archiveName": "openmoji-home-life-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "家、床、清洁和日常生活",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_home_life_1f3e0",
+          "title": "家",
+          "fileName": "1F3E0.png"
+        },
+        {
+          "id": "openmoji_home_life_1f6cb",
+          "title": "沙发",
+          "fileName": "1F6CB.png"
+        },
+        {
+          "id": "openmoji_home_life_1f6cf",
+          "title": "床",
+          "fileName": "1F6CF.png"
+        },
+        {
+          "id": "openmoji_home_life_1f6aa",
+          "title": "门",
+          "fileName": "1F6AA.png"
+        },
+        {
+          "id": "openmoji_home_life_1fa91",
+          "title": "椅子",
+          "fileName": "1FA91.png"
+        },
+        {
+          "id": "openmoji_home_life_1f6bf",
+          "title": "淋浴",
+          "fileName": "1F6BF.png"
+        },
+        {
+          "id": "openmoji_home_life_1f9fa",
+          "title": "篮子",
+          "fileName": "1F9FA.png"
+        },
+        {
+          "id": "openmoji_home_life_1f9f9",
+          "title": "扫帚",
+          "fileName": "1F9F9.png"
+        },
+        {
+          "id": "openmoji_home_life_1f9fc",
+          "title": "肥皂",
+          "fileName": "1F9FC.png"
+        },
+        {
+          "id": "openmoji_home_life_1f6d2",
+          "title": "购物车",
+          "fileName": "1F6D2.png"
+        },
+        {
+          "id": "openmoji_home_life_1f37d",
+          "title": "餐具",
+          "fileName": "1F37D.png"
+        },
+        {
+          "id": "openmoji_home_life_1f6cc",
+          "title": "躺平",
+          "fileName": "1F6CC.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-shopping-gifts",
+      "title": "购物礼物",
+      "version": 1,
+      "archiveName": "openmoji-shopping-gifts-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "购物、礼物、包裹和穿搭",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_shopping_gifts_1f6d2",
+          "title": "购物车",
+          "fileName": "1F6D2.png"
+        },
+        {
+          "id": "openmoji_shopping_gifts_1f6cd",
+          "title": "购物袋",
+          "fileName": "1F6CD.png"
+        },
+        {
+          "id": "openmoji_shopping_gifts_1f381",
+          "title": "礼物",
+          "fileName": "1F381.png"
+        },
+        {
+          "id": "openmoji_shopping_gifts_1f390",
+          "title": "彩带球",
+          "fileName": "1F390.png"
+        },
+        {
+          "id": "openmoji_shopping_gifts_1f48c",
+          "title": "情书",
+          "fileName": "1F48C.png"
+        },
+        {
+          "id": "openmoji_shopping_gifts_1f4e6",
+          "title": "包裹",
+          "fileName": "1F4E6.png"
+        },
+        {
+          "id": "openmoji_shopping_gifts_1f3f7",
+          "title": "标签",
+          "fileName": "1F3F7.png"
+        },
+        {
+          "id": "openmoji_shopping_gifts_1f45b",
+          "title": "钱包",
+          "fileName": "1F45B.png"
+        },
+        {
+          "id": "openmoji_shopping_gifts_1f45c",
+          "title": "手提包",
+          "fileName": "1F45C.png"
+        },
+        {
+          "id": "openmoji_shopping_gifts_1f45f",
+          "title": "鞋",
+          "fileName": "1F45F.png"
+        },
+        {
+          "id": "openmoji_shopping_gifts_1f457",
+          "title": "裙子",
+          "fileName": "1F457.png"
+        },
+        {
+          "id": "openmoji_shopping_gifts_1f48d",
+          "title": "戒指",
+          "fileName": "1F48D.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-magic-fantasy",
+      "title": "魔法幻想",
+      "version": 1,
+      "archiveName": "openmoji-magic-fantasy-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "魔法、独角兽、龙和城堡",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_magic_fantasy_1fa84",
+          "title": "魔法棒",
+          "fileName": "1FA84.png"
+        },
+        {
+          "id": "openmoji_magic_fantasy_1f52e",
+          "title": "水晶球",
+          "fileName": "1F52E.png"
+        },
+        {
+          "id": "openmoji_magic_fantasy_2728",
+          "title": "闪闪",
+          "fileName": "2728.png"
+        },
+        {
+          "id": "openmoji_magic_fantasy_1f31f",
+          "title": "星星",
+          "fileName": "1F31F.png"
+        },
+        {
+          "id": "openmoji_magic_fantasy_1f9da",
+          "title": "仙子",
+          "fileName": "1F9DA.png"
+        },
+        {
+          "id": "openmoji_magic_fantasy_1f9dc",
+          "title": "人鱼",
+          "fileName": "1F9DC.png"
+        },
+        {
+          "id": "openmoji_magic_fantasy_1f9dd",
+          "title": "精灵",
+          "fileName": "1F9DD.png"
+        },
+        {
+          "id": "openmoji_magic_fantasy_1f9de",
+          "title": "神灯精灵",
+          "fileName": "1F9DE.png"
+        },
+        {
+          "id": "openmoji_magic_fantasy_1f9df",
+          "title": "僵尸",
+          "fileName": "1F9DF.png"
+        },
+        {
+          "id": "openmoji_magic_fantasy_1f984",
+          "title": "独角兽",
+          "fileName": "1F984.png"
+        },
+        {
+          "id": "openmoji_magic_fantasy_1f409",
+          "title": "龙",
+          "fileName": "1F409.png"
+        },
+        {
+          "id": "openmoji_magic_fantasy_1f3f0",
+          "title": "城堡",
+          "fileName": "1F3F0.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-spooky-fun",
+      "title": "搞怪惊悚",
+      "version": 1,
+      "archiveName": "openmoji-spooky-fun-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "怪趣、万圣节和反差表达",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_spooky_fun_1f47b",
+          "title": "幽灵",
+          "fileName": "1F47B.png"
+        },
+        {
+          "id": "openmoji_spooky_fun_1f480",
+          "title": "寄了",
+          "fileName": "1F480.png"
+        },
+        {
+          "id": "openmoji_spooky_fun_2620",
+          "title": "危险",
+          "fileName": "2620.png"
+        },
+        {
+          "id": "openmoji_spooky_fun_1f47d",
+          "title": "外星人",
+          "fileName": "1F47D.png"
+        },
+        {
+          "id": "openmoji_spooky_fun_1f47e",
+          "title": "怪兽",
+          "fileName": "1F47E.png"
+        },
+        {
+          "id": "openmoji_spooky_fun_1f916",
+          "title": "机器人",
+          "fileName": "1F916.png"
+        },
+        {
+          "id": "openmoji_spooky_fun_1f921",
+          "title": "小丑",
+          "fileName": "1F921.png"
+        },
+        {
+          "id": "openmoji_spooky_fun_1f479",
+          "title": "鬼怪",
+          "fileName": "1F479.png"
+        },
+        {
+          "id": "openmoji_spooky_fun_1f47a",
+          "title": "天狗",
+          "fileName": "1F47A.png"
+        },
+        {
+          "id": "openmoji_spooky_fun_1f577",
+          "title": "蜘蛛",
+          "fileName": "1F577.png"
+        },
+        {
+          "id": "openmoji_spooky_fun_1f578",
+          "title": "蛛网",
+          "fileName": "1F578.png"
+        },
+        {
+          "id": "openmoji_spooky_fun_1f383",
+          "title": "南瓜",
+          "fileName": "1F383.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-space-dream",
+      "title": "宇宙做梦",
+      "version": 1,
+      "archiveName": "openmoji-space-dream-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "月相、星空和宇宙情绪",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_space_dream_1f30c",
+          "title": "银河",
+          "fileName": "1F30C.png"
+        },
+        {
+          "id": "openmoji_space_dream_1f31f",
+          "title": "星星",
+          "fileName": "1F31F.png"
+        },
+        {
+          "id": "openmoji_space_dream_1f320",
+          "title": "流星",
+          "fileName": "1F320.png"
+        },
+        {
+          "id": "openmoji_space_dream_1f311",
+          "title": "新月",
+          "fileName": "1F311.png"
+        },
+        {
+          "id": "openmoji_space_dream_1f312",
+          "title": "眉月",
+          "fileName": "1F312.png"
+        },
+        {
+          "id": "openmoji_space_dream_1f313",
+          "title": "上弦月",
+          "fileName": "1F313.png"
+        },
+        {
+          "id": "openmoji_space_dream_1f314",
+          "title": "盈凸月",
+          "fileName": "1F314.png"
+        },
+        {
+          "id": "openmoji_space_dream_1f315",
+          "title": "满月",
+          "fileName": "1F315.png"
+        },
+        {
+          "id": "openmoji_space_dream_1f316",
+          "title": "亏凸月",
+          "fileName": "1F316.png"
+        },
+        {
+          "id": "openmoji_space_dream_1f317",
+          "title": "下弦月",
+          "fileName": "1F317.png"
+        },
+        {
+          "id": "openmoji_space_dream_1f318",
+          "title": "残月",
+          "fileName": "1F318.png"
+        },
+        {
+          "id": "openmoji_space_dream_1fa90",
+          "title": "土星",
+          "fileName": "1FA90.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-nature-green",
+      "title": "自然绿色",
+      "version": 1,
+      "archiveName": "openmoji-nature-green-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "绿色植物、树叶和自然状态",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_nature_green_1f331",
+          "title": "幼苗",
+          "fileName": "1F331.png"
+        },
+        {
+          "id": "openmoji_nature_green_1fab4",
+          "title": "盆栽",
+          "fileName": "1FAB4.png"
+        },
+        {
+          "id": "openmoji_nature_green_1f332",
+          "title": "松树",
+          "fileName": "1F332.png"
+        },
+        {
+          "id": "openmoji_nature_green_1f333",
+          "title": "树",
+          "fileName": "1F333.png"
+        },
+        {
+          "id": "openmoji_nature_green_1f334",
+          "title": "棕榈树",
+          "fileName": "1F334.png"
+        },
+        {
+          "id": "openmoji_nature_green_1f335",
+          "title": "仙人掌",
+          "fileName": "1F335.png"
+        },
+        {
+          "id": "openmoji_nature_green_1f33f",
+          "title": "草药",
+          "fileName": "1F33F.png"
+        },
+        {
+          "id": "openmoji_nature_green_2618",
+          "title": "三叶草",
+          "fileName": "2618.png"
+        },
+        {
+          "id": "openmoji_nature_green_1f340",
+          "title": "幸运草",
+          "fileName": "1F340.png"
+        },
+        {
+          "id": "openmoji_nature_green_1f341",
+          "title": "枫叶",
+          "fileName": "1F341.png"
+        },
+        {
+          "id": "openmoji_nature_green_1f342",
+          "title": "落叶",
+          "fileName": "1F342.png"
+        },
+        {
+          "id": "openmoji_nature_green_1f343",
+          "title": "叶子",
+          "fileName": "1F343.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-flower-garden",
+      "title": "花花草草",
+      "version": 1,
+      "archiveName": "openmoji-flower-garden-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "花束、花园和小昆虫",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_flower_garden_1f337",
+          "title": "郁金香",
+          "fileName": "1F337.png"
+        },
+        {
+          "id": "openmoji_flower_garden_1f338",
+          "title": "樱花",
+          "fileName": "1F338.png"
+        },
+        {
+          "id": "openmoji_flower_garden_1f339",
+          "title": "玫瑰",
+          "fileName": "1F339.png"
+        },
+        {
+          "id": "openmoji_flower_garden_1f33a",
+          "title": "芙蓉",
+          "fileName": "1F33A.png"
+        },
+        {
+          "id": "openmoji_flower_garden_1f33b",
+          "title": "向日葵",
+          "fileName": "1F33B.png"
+        },
+        {
+          "id": "openmoji_flower_garden_1f33c",
+          "title": "开花",
+          "fileName": "1F33C.png"
+        },
+        {
+          "id": "openmoji_flower_garden_1f490",
+          "title": "花束",
+          "fileName": "1F490.png"
+        },
+        {
+          "id": "openmoji_flower_garden_1f940",
+          "title": "枯萎花",
+          "fileName": "1F940.png"
+        },
+        {
+          "id": "openmoji_flower_garden_1f33e",
+          "title": "稻穗",
+          "fileName": "1F33E.png"
+        },
+        {
+          "id": "openmoji_flower_garden_1f344",
+          "title": "蘑菇",
+          "fileName": "1F344.png"
+        },
+        {
+          "id": "openmoji_flower_garden_1f41d",
+          "title": "蜜蜂",
+          "fileName": "1F41D.png"
+        },
+        {
+          "id": "openmoji_flower_garden_1f98b",
+          "title": "蝴蝶",
+          "fileName": "1F98B.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-sea-vacation",
+      "title": "海边摸鱼",
+      "version": 1,
+      "archiveName": "openmoji-sea-vacation-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "海浪、沙滩、鱼和海洋生物",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_sea_vacation_1f30a",
+          "title": "海浪",
+          "fileName": "1F30A.png"
+        },
+        {
+          "id": "openmoji_sea_vacation_1f3d6",
+          "title": "海滩",
+          "fileName": "1F3D6.png"
+        },
+        {
+          "id": "openmoji_sea_vacation_1f3dd",
+          "title": "无人岛",
+          "fileName": "1F3DD.png"
+        },
+        {
+          "id": "openmoji_sea_vacation_1f41f",
+          "title": "鱼",
+          "fileName": "1F41F.png"
+        },
+        {
+          "id": "openmoji_sea_vacation_1f420",
+          "title": "热带鱼",
+          "fileName": "1F420.png"
+        },
+        {
+          "id": "openmoji_sea_vacation_1f421",
+          "title": "河豚",
+          "fileName": "1F421.png"
+        },
+        {
+          "id": "openmoji_sea_vacation_1f988",
+          "title": "鲨鱼",
+          "fileName": "1F988.png"
+        },
+        {
+          "id": "openmoji_sea_vacation_1f42c",
+          "title": "海豚",
+          "fileName": "1F42C.png"
+        },
+        {
+          "id": "openmoji_sea_vacation_1f433",
+          "title": "鲸鱼",
+          "fileName": "1F433.png"
+        },
+        {
+          "id": "openmoji_sea_vacation_1f419",
+          "title": "章鱼",
+          "fileName": "1F419.png"
+        },
+        {
+          "id": "openmoji_sea_vacation_1f9ad",
+          "title": "海豹",
+          "fileName": "1F9AD.png"
+        },
+        {
+          "id": "openmoji_sea_vacation_1f9dc",
+          "title": "人鱼",
+          "fileName": "1F9DC.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-fire-power",
+      "title": "燃起来",
+      "version": 1,
+      "archiveName": "openmoji-fire-power-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "火力、冲刺、目标和胜利",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_fire_power_1f525",
+          "title": "燃",
+          "fileName": "1F525.png"
+        },
+        {
+          "id": "openmoji_fire_power_26a1",
+          "title": "闪电",
+          "fileName": "26A1.png"
+        },
+        {
+          "id": "openmoji_fire_power_1f4a5",
+          "title": "爆炸",
+          "fileName": "1F4A5.png"
+        },
+        {
+          "id": "openmoji_fire_power_1f4ab",
+          "title": "晕乎",
+          "fileName": "1F4AB.png"
+        },
+        {
+          "id": "openmoji_fire_power_1f32a",
+          "title": "风暴",
+          "fileName": "1F32A.png"
+        },
+        {
+          "id": "openmoji_fire_power_1f680",
+          "title": "起飞",
+          "fileName": "1F680.png"
+        },
+        {
+          "id": "openmoji_fire_power_1f4af",
+          "title": "满分",
+          "fileName": "1F4AF.png"
+        },
+        {
+          "id": "openmoji_fire_power_1f3af",
+          "title": "命中",
+          "fileName": "1F3AF.png"
+        },
+        {
+          "id": "openmoji_fire_power_1f4aa",
+          "title": "肌肉",
+          "fileName": "1F4AA.png"
+        },
+        {
+          "id": "openmoji_fire_power_1f981",
+          "title": "狮子",
+          "fileName": "1F981.png"
+        },
+        {
+          "id": "openmoji_fire_power_1f451",
+          "title": "王冠",
+          "fileName": "1F451.png"
+        },
+        {
+          "id": "openmoji_fire_power_1f3c6",
+          "title": "奖杯",
+          "fileName": "1F3C6.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-green-light",
+      "title": "收到通过",
+      "version": 1,
+      "archiveName": "openmoji-green-light-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "确认、通过、握手和完成状态",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_green_light_2705",
+          "title": "完成",
+          "fileName": "2705.png"
+        },
+        {
+          "id": "openmoji_green_light_2611",
+          "title": "勾选框",
+          "fileName": "2611.png"
+        },
+        {
+          "id": "openmoji_green_light_2714",
+          "title": "对勾",
+          "fileName": "2714.png"
+        },
+        {
+          "id": "openmoji_green_light_1f44d",
+          "title": "点赞",
+          "fileName": "1F44D.png"
+        },
+        {
+          "id": "openmoji_green_light_1f44c",
+          "title": "OK",
+          "fileName": "1F44C.png"
+        },
+        {
+          "id": "openmoji_green_light_1f7e2",
+          "title": "绿圆",
+          "fileName": "1F7E2.png"
+        },
+        {
+          "id": "openmoji_green_light_1f4af",
+          "title": "满分",
+          "fileName": "1F4AF.png"
+        },
+        {
+          "id": "openmoji_green_light_1f646",
+          "title": "可以",
+          "fileName": "1F646.png"
+        },
+        {
+          "id": "openmoji_green_light_1f64c",
+          "title": "好耶",
+          "fileName": "1F64C.png"
+        },
+        {
+          "id": "openmoji_green_light_1f91d",
+          "title": "握手",
+          "fileName": "1F91D.png"
+        },
+        {
+          "id": "openmoji_green_light_1f4e9",
+          "title": "收到",
+          "fileName": "1F4E9.png"
+        },
+        {
+          "id": "openmoji_green_light_1f3c1",
+          "title": "终点",
+          "fileName": "1F3C1.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-red-alert",
+      "title": "警告拒绝",
+      "version": 1,
+      "archiveName": "openmoji-red-alert-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "拒绝、警告、危险和阻止",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_red_alert_274c",
+          "title": "错误",
+          "fileName": "274C.png"
+        },
+        {
+          "id": "openmoji_red_alert_26d4",
+          "title": "禁止进入",
+          "fileName": "26D4.png"
+        },
+        {
+          "id": "openmoji_red_alert_1f6ab",
+          "title": "禁止",
+          "fileName": "1F6AB.png"
+        },
+        {
+          "id": "openmoji_red_alert_26a0",
+          "title": "警告",
+          "fileName": "26A0.png"
+        },
+        {
+          "id": "openmoji_red_alert_1f6a8",
+          "title": "警灯",
+          "fileName": "1F6A8.png"
+        },
+        {
+          "id": "openmoji_red_alert_1f534",
+          "title": "红圆",
+          "fileName": "1F534.png"
+        },
+        {
+          "id": "openmoji_red_alert_1f44e",
+          "title": "不行",
+          "fileName": "1F44E.png"
+        },
+        {
+          "id": "openmoji_red_alert_1f595",
+          "title": "中指",
+          "fileName": "1F595.png"
+        },
+        {
+          "id": "openmoji_red_alert_1f4a2",
+          "title": "怒筋",
+          "fileName": "1F4A2.png"
+        },
+        {
+          "id": "openmoji_red_alert_1f4a3",
+          "title": "炸弹",
+          "fileName": "1F4A3.png"
+        },
+        {
+          "id": "openmoji_red_alert_1f525",
+          "title": "火大",
+          "fileName": "1F525.png"
+        },
+        {
+          "id": "openmoji_red_alert_1f6d1",
+          "title": "停止",
+          "fileName": "1F6D1.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-time-deadline",
+      "title": "时间截止",
+      "version": 1,
+      "archiveName": "openmoji-time-deadline-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "时间、倒计时、赶进度和 deadline",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_time_deadline_23f0",
+          "title": "闹钟",
+          "fileName": "23F0.png"
+        },
+        {
+          "id": "openmoji_time_deadline_231a",
+          "title": "手表",
+          "fileName": "231A.png"
+        },
+        {
+          "id": "openmoji_time_deadline_23f1",
+          "title": "秒表",
+          "fileName": "23F1.png"
+        },
+        {
+          "id": "openmoji_time_deadline_23f2",
+          "title": "计时器",
+          "fileName": "23F2.png"
+        },
+        {
+          "id": "openmoji_time_deadline_23f3",
+          "title": "沙漏",
+          "fileName": "23F3.png"
+        },
+        {
+          "id": "openmoji_time_deadline_231b",
+          "title": "沙漏完成",
+          "fileName": "231B.png"
+        },
+        {
+          "id": "openmoji_time_deadline_1f4c5",
+          "title": "日历",
+          "fileName": "1F4C5.png"
+        },
+        {
+          "id": "openmoji_time_deadline_1f4c6",
+          "title": "撕页日历",
+          "fileName": "1F4C6.png"
+        },
+        {
+          "id": "openmoji_time_deadline_1f550",
+          "title": "一点",
+          "fileName": "1F550.png"
+        },
+        {
+          "id": "openmoji_time_deadline_1f55b",
+          "title": "十二点",
+          "fileName": "1F55B.png"
+        },
+        {
+          "id": "openmoji_time_deadline_1f3c3",
+          "title": "快跑",
+          "fileName": "1F3C3.png"
+        },
+        {
+          "id": "openmoji_time_deadline_1f4a8",
+          "title": "冲刺",
+          "fileName": "1F4A8.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-random-meme",
+      "title": "随机发疯",
+      "version": 1,
+      "archiveName": "openmoji-random-meme-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "混合发疯、怪趣和抽象聊天反应",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_random_meme_1fae0",
+          "title": "融化了",
+          "fileName": "1FAE0.png"
+        },
+        {
+          "id": "openmoji_random_meme_1f92a",
+          "title": "发癫",
+          "fileName": "1F92A.png"
+        },
+        {
+          "id": "openmoji_random_meme_1f921",
+          "title": "小丑",
+          "fileName": "1F921.png"
+        },
+        {
+          "id": "openmoji_random_meme_1f4a9",
+          "title": "绷不住",
+          "fileName": "1F4A9.png"
+        },
+        {
+          "id": "openmoji_random_meme_1f47d",
+          "title": "外星人",
+          "fileName": "1F47D.png"
+        },
+        {
+          "id": "openmoji_random_meme_1f47e",
+          "title": "怪兽",
+          "fileName": "1F47E.png"
+        },
+        {
+          "id": "openmoji_random_meme_1f916",
+          "title": "机器人",
+          "fileName": "1F916.png"
+        },
+        {
+          "id": "openmoji_random_meme_1f9d0",
+          "title": "研究中",
+          "fileName": "1F9D0.png"
+        },
+        {
+          "id": "openmoji_random_meme_1f643",
+          "title": "倒着笑",
+          "fileName": "1F643.png"
+        },
+        {
+          "id": "openmoji_random_meme_1f644",
+          "title": "白眼",
+          "fileName": "1F644.png"
+        },
+        {
+          "id": "openmoji_random_meme_1f4ab",
+          "title": "晕乎",
+          "fileName": "1F4AB.png"
+        },
+        {
+          "id": "openmoji_random_meme_1f300",
+          "title": "旋涡",
+          "fileName": "1F300.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-good-night",
+      "title": "晚安休息",
+      "version": 1,
+      "archiveName": "openmoji-good-night-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "晚安、睡觉、夜晚和放松",
+      "riskNote": "OpenMoji 使用 CC BY-SA 4.0，二次分发和改作需保留署名并按相同许可共享",
+      "stickers": [
+        {
+          "id": "openmoji_good_night_1f319",
+          "title": "月亮",
+          "fileName": "1F319.png"
+        },
+        {
+          "id": "openmoji_good_night_1f31b",
+          "title": "上弦月脸",
+          "fileName": "1F31B.png"
+        },
+        {
+          "id": "openmoji_good_night_1f31c",
+          "title": "下弦月脸",
+          "fileName": "1F31C.png"
+        },
+        {
+          "id": "openmoji_good_night_1f31d",
+          "title": "满月脸",
+          "fileName": "1F31D.png"
+        },
+        {
+          "id": "openmoji_good_night_1f4a4",
+          "title": "睡觉",
+          "fileName": "1F4A4.png"
+        },
+        {
+          "id": "openmoji_good_night_1f634",
+          "title": "睡着",
+          "fileName": "1F634.png"
+        },
+        {
+          "id": "openmoji_good_night_1f971",
+          "title": "哈欠",
+          "fileName": "1F971.png"
+        },
+        {
+          "id": "openmoji_good_night_1f6cc",
+          "title": "躺平",
+          "fileName": "1F6CC.png"
+        },
+        {
+          "id": "openmoji_good_night_1f6cf",
+          "title": "床",
+          "fileName": "1F6CF.png"
+        },
+        {
+          "id": "openmoji_good_night_1f56f",
+          "title": "蜡烛",
+          "fileName": "1F56F.png"
+        },
+        {
+          "id": "openmoji_good_night_2728",
+          "title": "闪闪",
+          "fileName": "2728.png"
+        },
+        {
+          "id": "openmoji_good_night_1f303",
+          "title": "夜晚",
+          "fileName": "1F303.png"
+        }
+      ]
+    },
     {
       "id": "openmoji-reactions-125",
       "title": "OpenMoji 百变表情包",

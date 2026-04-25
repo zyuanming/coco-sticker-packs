@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-laugh-out-loud",
+  "title": "爆笑现场",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_laugh_out_loud_1f602",
+      "title": "笑哭",
+      "fileName": "1F602.png"
+    },
+    {
+      "id": "openmoji_laugh_out_loud_1f923",
+      "title": "笑到打滚",
+      "fileName": "1F923.png"
+    },
+    {
+      "id": "openmoji_laugh_out_loud_1f606",
+      "title": "笑死",
+      "fileName": "1F606.png"
+    },
+    {
+      "id": "openmoji_laugh_out_loud_1f605",
+      "title": "尴尬笑",
+      "fileName": "1F605.png"
+    },
+    {
+      "id": "openmoji_laugh_out_loud_1f92d",
+      "title": "偷笑",
+      "fileName": "1F92D.png"
+    },
+    {
+      "id": "openmoji_laugh_out_loud_1fae2",
+      "title": "憋笑",
+      "fileName": "1FAE2.png"
+    },
+    {
+      "id": "openmoji_laugh_out_loud_1f61c",
+      "title": "调皮",
+      "fileName": "1F61C.png"
+    },
+    {
+      "id": "openmoji_laugh_out_loud_1f92a",
+      "title": "发癫",
+      "fileName": "1F92A.png"
+    },
+    {
+      "id": "openmoji_laugh_out_loud_1f638",
+      "title": "猫笑哭",
+      "fileName": "1F638.png"
+    },
+    {
+      "id": "openmoji_laugh_out_loud_1f639",
+      "title": "猫开心哭",
+      "fileName": "1F639.png"
+    },
+    {
+      "id": "openmoji_laugh_out_loud_1f4a5",
+      "title": "炸了",
+      "fileName": "1F4A5.png"
+    },
+    {
+      "id": "openmoji_laugh_out_loud_1f4ab",
+      "title": "晕乎",
+      "fileName": "1F4AB.png"
+    }
+  ]
+}

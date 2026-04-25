@@ -1,0 +1,69 @@
+{
+  "id": "openmoji-happy-faces",
+  "title": "开心脸谱",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "themed colorful OpenMoji PNG sticker set for chat reactions",
+  "stickers": [
+    {
+      "id": "openmoji_happy_faces_1f600",
+      "title": "笑脸",
+      "fileName": "1F600.png"
+    },
+    {
+      "id": "openmoji_happy_faces_1f603",
+      "title": "大笑",
+      "fileName": "1F603.png"
+    },
+    {
+      "id": "openmoji_happy_faces_1f604",
+      "title": "开心",
+      "fileName": "1F604.png"
+    },
+    {
+      "id": "openmoji_happy_faces_1f601",
+      "title": "咧嘴笑",
+      "fileName": "1F601.png"
+    },
+    {
+      "id": "openmoji_happy_faces_1f606",
+      "title": "笑死",
+      "fileName": "1F606.png"
+    },
+    {
+      "id": "openmoji_happy_faces_1f605",
+      "title": "尴尬笑",
+      "fileName": "1F605.png"
+    },
+    {
+      "id": "openmoji_happy_faces_1f642",
+      "title": "微笑",
+      "fileName": "1F642.png"
+    },
+    {
+      "id": "openmoji_happy_faces_1f60a",
+      "title": "害羞笑",
+      "fileName": "1F60A.png"
+    },
+    {
+      "id": "openmoji_happy_faces_263a",
+      "title": "安心笑",
+      "fileName": "263A.png"
+    },
+    {
+      "id": "openmoji_happy_faces_1f607",
+      "title": "天使",
+      "fileName": "1F607.png"
+    },
+    {
+      "id": "openmoji_happy_faces_1f929",
+      "title": "星星眼",
+      "fileName": "1F929.png"
+    },
+    {
+      "id": "openmoji_happy_faces_1f973",
+      "title": "开派对",
+      "fileName": "1F973.png"
+    }
+  ]
+}
