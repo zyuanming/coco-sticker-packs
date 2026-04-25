@@ -1,0 +1,634 @@
+{
+  "id": "openmoji-reactions-125",
+  "title": "OpenMoji 百变表情包",
+  "version": 1,
+  "license": "CC BY-SA 4.0 - OpenMoji",
+  "style": "large colorful OpenMoji PNG reactions for chat emotions, cat faces, and hand gestures",
+  "stickers": [
+    {
+      "id": "om_react_1f600",
+      "title": "笑脸",
+      "fileName": "1F600.png"
+    },
+    {
+      "id": "om_react_1f603",
+      "title": "大笑",
+      "fileName": "1F603.png"
+    },
+    {
+      "id": "om_react_1f604",
+      "title": "开心",
+      "fileName": "1F604.png"
+    },
+    {
+      "id": "om_react_1f601",
+      "title": "咧嘴笑",
+      "fileName": "1F601.png"
+    },
+    {
+      "id": "om_react_1f606",
+      "title": "笑死",
+      "fileName": "1F606.png"
+    },
+    {
+      "id": "om_react_1f605",
+      "title": "尴尬笑",
+      "fileName": "1F605.png"
+    },
+    {
+      "id": "om_react_1f602",
+      "title": "笑哭",
+      "fileName": "1F602.png"
+    },
+    {
+      "id": "om_react_1f923",
+      "title": "笑到打滚",
+      "fileName": "1F923.png"
+    },
+    {
+      "id": "om_react_1f642",
+      "title": "微笑",
+      "fileName": "1F642.png"
+    },
+    {
+      "id": "om_react_1f643",
+      "title": "倒着笑",
+      "fileName": "1F643.png"
+    },
+    {
+      "id": "om_react_1fae0",
+      "title": "融化了",
+      "fileName": "1FAE0.png"
+    },
+    {
+      "id": "om_react_1f609",
+      "title": "眨眼",
+      "fileName": "1F609.png"
+    },
+    {
+      "id": "om_react_1f60a",
+      "title": "害羞笑",
+      "fileName": "1F60A.png"
+    },
+    {
+      "id": "om_react_1f607",
+      "title": "天使",
+      "fileName": "1F607.png"
+    },
+    {
+      "id": "om_react_1f970",
+      "title": "被爱包围",
+      "fileName": "1F970.png"
+    },
+    {
+      "id": "om_react_1f60d",
+      "title": "爱心眼",
+      "fileName": "1F60D.png"
+    },
+    {
+      "id": "om_react_1f929",
+      "title": "星星眼",
+      "fileName": "1F929.png"
+    },
+    {
+      "id": "om_react_1f618",
+      "title": "飞吻",
+      "fileName": "1F618.png"
+    },
+    {
+      "id": "om_react_1f617",
+      "title": "亲亲",
+      "fileName": "1F617.png"
+    },
+    {
+      "id": "om_react_263a",
+      "title": "安心笑",
+      "fileName": "263A.png"
+    },
+    {
+      "id": "om_react_1f61a",
+      "title": "闭眼亲",
+      "fileName": "1F61A.png"
+    },
+    {
+      "id": "om_react_1f619",
+      "title": "笑着亲",
+      "fileName": "1F619.png"
+    },
+    {
+      "id": "om_react_1f972",
+      "title": "含泪笑",
+      "fileName": "1F972.png"
+    },
+    {
+      "id": "om_react_1f60b",
+      "title": "好吃",
+      "fileName": "1F60B.png"
+    },
+    {
+      "id": "om_react_1f61b",
+      "title": "吐舌",
+      "fileName": "1F61B.png"
+    },
+    {
+      "id": "om_react_1f61c",
+      "title": "调皮",
+      "fileName": "1F61C.png"
+    },
+    {
+      "id": "om_react_1f92a",
+      "title": "发癫",
+      "fileName": "1F92A.png"
+    },
+    {
+      "id": "om_react_1f61d",
+      "title": "眯眼吐舌",
+      "fileName": "1F61D.png"
+    },
+    {
+      "id": "om_react_1f911",
+      "title": "财迷",
+      "fileName": "1F911.png"
+    },
+    {
+      "id": "om_react_1f917",
+      "title": "抱抱",
+      "fileName": "1F917.png"
+    },
+    {
+      "id": "om_react_1f92d",
+      "title": "偷笑",
+      "fileName": "1F92D.png"
+    },
+    {
+      "id": "om_react_1fae2",
+      "title": "憋笑",
+      "fileName": "1FAE2.png"
+    },
+    {
+      "id": "om_react_1fae3",
+      "title": "偷看",
+      "fileName": "1FAE3.png"
+    },
+    {
+      "id": "om_react_1f92b",
+      "title": "嘘",
+      "fileName": "1F92B.png"
+    },
+    {
+      "id": "om_react_1f914",
+      "title": "思考",
+      "fileName": "1F914.png"
+    },
+    {
+      "id": "om_react_1fae1",
+      "title": "敬礼",
+      "fileName": "1FAE1.png"
+    },
+    {
+      "id": "om_react_1f910",
+      "title": "闭嘴",
+      "fileName": "1F910.png"
+    },
+    {
+      "id": "om_react_1f928",
+      "title": "怀疑",
+      "fileName": "1F928.png"
+    },
+    {
+      "id": "om_react_1f610",
+      "title": "无语",
+      "fileName": "1F610.png"
+    },
+    {
+      "id": "om_react_1f611",
+      "title": "面无表情",
+      "fileName": "1F611.png"
+    },
+    {
+      "id": "om_react_1f636",
+      "title": "沉默",
+      "fileName": "1F636.png"
+    },
+    {
+      "id": "om_react_1fae5",
+      "title": "虚线人",
+      "fileName": "1FAE5.png"
+    },
+    {
+      "id": "om_react_1f60f",
+      "title": "坏笑",
+      "fileName": "1F60F.png"
+    },
+    {
+      "id": "om_react_1f612",
+      "title": "不爽",
+      "fileName": "1F612.png"
+    },
+    {
+      "id": "om_react_1f644",
+      "title": "白眼",
+      "fileName": "1F644.png"
+    },
+    {
+      "id": "om_react_1f62c",
+      "title": "龇牙",
+      "fileName": "1F62C.png"
+    },
+    {
+      "id": "om_react_1f925",
+      "title": "说谎",
+      "fileName": "1F925.png"
+    },
+    {
+      "id": "om_react_1fae8",
+      "title": "震动脸",
+      "fileName": "1FAE8.png"
+    },
+    {
+      "id": "om_react_1f60c",
+      "title": "松口气",
+      "fileName": "1F60C.png"
+    },
+    {
+      "id": "om_react_1f614",
+      "title": "低落",
+      "fileName": "1F614.png"
+    },
+    {
+      "id": "om_react_1f62a",
+      "title": "困了",
+      "fileName": "1F62A.png"
+    },
+    {
+      "id": "om_react_1f924",
+      "title": "流口水",
+      "fileName": "1F924.png"
+    },
+    {
+      "id": "om_react_1f634",
+      "title": "睡着",
+      "fileName": "1F634.png"
+    },
+    {
+      "id": "om_react_1f637",
+      "title": "口罩",
+      "fileName": "1F637.png"
+    },
+    {
+      "id": "om_react_1f912",
+      "title": "发烧",
+      "fileName": "1F912.png"
+    },
+    {
+      "id": "om_react_1f915",
+      "title": "受伤",
+      "fileName": "1F915.png"
+    },
+    {
+      "id": "om_react_1f922",
+      "title": "想吐",
+      "fileName": "1F922.png"
+    },
+    {
+      "id": "om_react_1f92e",
+      "title": "呕吐",
+      "fileName": "1F92E.png"
+    },
+    {
+      "id": "om_react_1f927",
+      "title": "喷嚏",
+      "fileName": "1F927.png"
+    },
+    {
+      "id": "om_react_1f975",
+      "title": "热晕",
+      "fileName": "1F975.png"
+    },
+    {
+      "id": "om_react_1f976",
+      "title": "冷到抖",
+      "fileName": "1F976.png"
+    },
+    {
+      "id": "om_react_1f974",
+      "title": "微醺",
+      "fileName": "1F974.png"
+    },
+    {
+      "id": "om_react_1f635",
+      "title": "晕了",
+      "fileName": "1F635.png"
+    },
+    {
+      "id": "om_react_1f92f",
+      "title": "脑壳炸",
+      "fileName": "1F92F.png"
+    },
+    {
+      "id": "om_react_1f920",
+      "title": "牛仔",
+      "fileName": "1F920.png"
+    },
+    {
+      "id": "om_react_1f973",
+      "title": "开派对",
+      "fileName": "1F973.png"
+    },
+    {
+      "id": "om_react_1f978",
+      "title": "伪装",
+      "fileName": "1F978.png"
+    },
+    {
+      "id": "om_react_1f60e",
+      "title": "墨镜",
+      "fileName": "1F60E.png"
+    },
+    {
+      "id": "om_react_1f913",
+      "title": "学霸",
+      "fileName": "1F913.png"
+    },
+    {
+      "id": "om_react_1f9d0",
+      "title": "研究中",
+      "fileName": "1F9D0.png"
+    },
+    {
+      "id": "om_react_1f615",
+      "title": "困惑",
+      "fileName": "1F615.png"
+    },
+    {
+      "id": "om_react_1fae4",
+      "title": "斜嘴",
+      "fileName": "1FAE4.png"
+    },
+    {
+      "id": "om_react_1f61f",
+      "title": "担心",
+      "fileName": "1F61F.png"
+    },
+    {
+      "id": "om_react_1f641",
+      "title": "难过",
+      "fileName": "1F641.png"
+    },
+    {
+      "id": "om_react_2639",
+      "title": "很难过",
+      "fileName": "2639.png"
+    },
+    {
+      "id": "om_react_1f62e",
+      "title": "惊讶",
+      "fileName": "1F62E.png"
+    },
+    {
+      "id": "om_react_1f62f",
+      "title": "呆住",
+      "fileName": "1F62F.png"
+    },
+    {
+      "id": "om_react_1f632",
+      "title": "震惊",
+      "fileName": "1F632.png"
+    },
+    {
+      "id": "om_react_1f633",
+      "title": "脸红",
+      "fileName": "1F633.png"
+    },
+    {
+      "id": "om_react_1f97a",
+      "title": "拜托",
+      "fileName": "1F97A.png"
+    },
+    {
+      "id": "om_react_1f979",
+      "title": "忍泪",
+      "fileName": "1F979.png"
+    },
+    {
+      "id": "om_react_1f626",
+      "title": "啊这",
+      "fileName": "1F626.png"
+    },
+    {
+      "id": "om_react_1f627",
+      "title": "慌了",
+      "fileName": "1F627.png"
+    },
+    {
+      "id": "om_react_1f628",
+      "title": "害怕",
+      "fileName": "1F628.png"
+    },
+    {
+      "id": "om_react_1f630",
+      "title": "冷汗",
+      "fileName": "1F630.png"
+    },
+    {
+      "id": "om_react_1f625",
+      "title": "松口气哭",
+      "fileName": "1F625.png"
+    },
+    {
+      "id": "om_react_1f622",
+      "title": "哭了",
+      "fileName": "1F622.png"
+    },
+    {
+      "id": "om_react_1f62d",
+      "title": "爆哭",
+      "fileName": "1F62D.png"
+    },
+    {
+      "id": "om_react_1f631",
+      "title": "尖叫",
+      "fileName": "1F631.png"
+    },
+    {
+      "id": "om_react_1f616",
+      "title": "纠结",
+      "fileName": "1F616.png"
+    },
+    {
+      "id": "om_react_1f623",
+      "title": "忍住",
+      "fileName": "1F623.png"
+    },
+    {
+      "id": "om_react_1f61e",
+      "title": "失望",
+      "fileName": "1F61E.png"
+    },
+    {
+      "id": "om_react_1f613",
+      "title": "汗",
+      "fileName": "1F613.png"
+    },
+    {
+      "id": "om_react_1f629",
+      "title": "累麻了",
+      "fileName": "1F629.png"
+    },
+    {
+      "id": "om_react_1f62b",
+      "title": "疲惫",
+      "fileName": "1F62B.png"
+    },
+    {
+      "id": "om_react_1f971",
+      "title": "哈欠",
+      "fileName": "1F971.png"
+    },
+    {
+      "id": "om_react_1f624",
+      "title": "哼",
+      "fileName": "1F624.png"
+    },
+    {
+      "id": "om_react_1f621",
+      "title": "气炸",
+      "fileName": "1F621.png"
+    },
+    {
+      "id": "om_react_1f620",
+      "title": "生气",
+      "fileName": "1F620.png"
+    },
+    {
+      "id": "om_react_1f92c",
+      "title": "骂骂咧咧",
+      "fileName": "1F92C.png"
+    },
+    {
+      "id": "om_react_1f608",
+      "title": "小恶魔",
+      "fileName": "1F608.png"
+    },
+    {
+      "id": "om_react_1f47f",
+      "title": "大恶魔",
+      "fileName": "1F47F.png"
+    },
+    {
+      "id": "om_react_1f480",
+      "title": "寄了",
+      "fileName": "1F480.png"
+    },
+    {
+      "id": "om_react_2620",
+      "title": "危险",
+      "fileName": "2620.png"
+    },
+    {
+      "id": "om_react_1f4a9",
+      "title": "绷不住",
+      "fileName": "1F4A9.png"
+    },
+    {
+      "id": "om_react_1f921",
+      "title": "小丑",
+      "fileName": "1F921.png"
+    },
+    {
+      "id": "om_react_1f47b",
+      "title": "幽灵",
+      "fileName": "1F47B.png"
+    },
+    {
+      "id": "om_react_1f47d",
+      "title": "外星人",
+      "fileName": "1F47D.png"
+    },
+    {
+      "id": "om_react_1f916",
+      "title": "机器人",
+      "fileName": "1F916.png"
+    },
+    {
+      "id": "om_react_1f63a",
+      "title": "猫猫笑",
+      "fileName": "1F63A.png"
+    },
+    {
+      "id": "om_react_1f638",
+      "title": "猫笑哭",
+      "fileName": "1F638.png"
+    },
+    {
+      "id": "om_react_1f639",
+      "title": "猫开心哭",
+      "fileName": "1F639.png"
+    },
+    {
+      "id": "om_react_1f63b",
+      "title": "猫心动",
+      "fileName": "1F63B.png"
+    },
+    {
+      "id": "om_react_1f63c",
+      "title": "猫坏笑",
+      "fileName": "1F63C.png"
+    },
+    {
+      "id": "om_react_1f63d",
+      "title": "猫亲亲",
+      "fileName": "1F63D.png"
+    },
+    {
+      "id": "om_react_1f640",
+      "title": "猫震惊",
+      "fileName": "1F640.png"
+    },
+    {
+      "id": "om_react_1f63f",
+      "title": "猫哭哭",
+      "fileName": "1F63F.png"
+    },
+    {
+      "id": "om_react_1f63e",
+      "title": "猫生气",
+      "fileName": "1F63E.png"
+    },
+    {
+      "id": "om_react_1f44b",
+      "title": "挥手",
+      "fileName": "1F44B.png"
+    },
+    {
+      "id": "om_react_1f44c",
+      "title": "OK",
+      "fileName": "1F44C.png"
+    },
+    {
+      "id": "om_react_1f44d",
+      "title": "点赞",
+      "fileName": "1F44D.png"
+    },
+    {
+      "id": "om_react_1f44e",
+      "title": "不行",
+      "fileName": "1F44E.png"
+    },
+    {
+      "id": "om_react_1f44f",
+      "title": "鼓掌",
+      "fileName": "1F44F.png"
+    },
+    {
+      "id": "om_react_1f64c",
+      "title": "好耶",
+      "fileName": "1F64C.png"
+    },
+    {
+      "id": "om_react_1f64f",
+      "title": "求求",
+      "fileName": "1F64F.png"
+    }
+  ]
+}
