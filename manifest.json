@@ -1,7 +1,86 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-04-18T10:00:00+08:00",
+  "updatedAt": "2026-04-25T09:50:00+08:00",
   "packs": [
+    {
+      "id": "real-cat-moods",
+      "title": "真实猫咪情绪包",
+      "version": 1,
+      "archiveName": "real-cat-moods-v1.zip",
+      "archiveURL": "https://github.com/zyuanming/coco-sticker-packs/releases/download/real-cat-moods-v1/real-cat-moods-v1.zip",
+      "rawBaseURL": "https://raw.githubusercontent.com/zyuanming/coco-sticker-packs/main/packs/real-cat-moods-v1/stickers/",
+      "sha256": "349ff62cb691879bd093ab1bb35ea3f3d1eb2e8bf6460c56e7a83e57da91a753",
+      "license": "Mixed CC BY / CC BY-SA / CC0; see pack source notes",
+      "style": "real cat photo stickers with rounded crop, reaction text, white outline, and soft shadow",
+      "assetType": "PNG",
+      "platformSupport": "iMessage",
+      "sourceURL": "https://commons.wikimedia.org/wiki/Category:Humorous_cats",
+      "requiresLogin": false,
+      "recommendation": "真实猫猫表情更像人在聊天：开心、震惊、无语、累了、开摆都能接",
+      "riskNote": "混合 CC BY / CC BY-SA / CC0 来源，二次分发需保留逐张署名与相同方式共享要求",
+      "stickers": [
+        {
+          "id": "real_cat_happy_yay",
+          "title": "好耶猫",
+          "fileName": "real_cat_happy_yay.png"
+        },
+        {
+          "id": "real_cat_steady",
+          "title": "稳了猫",
+          "fileName": "real_cat_steady.png"
+        },
+        {
+          "id": "real_cat_shocked",
+          "title": "震惊猫",
+          "fileName": "real_cat_shocked.png"
+        },
+        {
+          "id": "real_cat_facepalm",
+          "title": "无语猫",
+          "fileName": "real_cat_facepalm.png"
+        },
+        {
+          "id": "real_cat_closed",
+          "title": "不营业猫",
+          "fileName": "real_cat_closed.png"
+        },
+        {
+          "id": "real_cat_tired",
+          "title": "累了猫",
+          "fileName": "real_cat_tired.png"
+        },
+        {
+          "id": "real_cat_crash",
+          "title": "崩溃猫",
+          "fileName": "real_cat_crash.png"
+        },
+        {
+          "id": "real_cat_blank",
+          "title": "发呆猫",
+          "fileName": "real_cat_blank.png"
+        },
+        {
+          "id": "real_cat_mischief",
+          "title": "偷笑猫",
+          "fileName": "real_cat_mischief.png"
+        },
+        {
+          "id": "real_cat_cool",
+          "title": "可以猫",
+          "fileName": "real_cat_cool.png"
+        },
+        {
+          "id": "real_cat_busy",
+          "title": "在忙猫",
+          "fileName": "real_cat_busy.png"
+        },
+        {
+          "id": "real_cat_silly",
+          "title": "略略猫",
+          "fileName": "real_cat_silly.png"
+        }
+      ]
+    },
     {
       "id": "openmoji-playful-static",
       "title": "OpenMoji 可爱静图组",
