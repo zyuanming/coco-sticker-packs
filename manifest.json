@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-04-25T15:01:09+08:00",
+  "updatedAt": "2026-04-25T15:37:13+08:00",
   "packs": [
     {
       "id": "openmoji-happy-faces",
@@ -4574,6 +4574,262 @@
           "id": "real_cat_big_head_yay",
           "title": "好耶猫",
           "fileName": "real_cat_big_head_yay.png"
+        }
+      ]
+    },
+    {
+      "id": "fluent-3d-reactions",
+      "title": "Fluent 3D 高能反应组",
+      "version": 1,
+      "archiveName": "fluent-3d-reactions-v1.zip",
+      "archiveURL": "https://github.com/microsoft/fluentui-emoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/",
+      "sha256": "source-hosted-no-archive",
+      "license": "MIT - Microsoft Fluent Emoji",
+      "style": "modern 3D emoji stickers",
+      "assetType": "PNG",
+      "platformSupport": "iMessage, Telegram, WeChat(需手动导入)",
+      "sourceURL": "https://github.com/microsoft/fluentui-emoji",
+      "requiresLogin": false,
+      "recommendation": "3D 质感强，适合作为商店首屏的通用反应包",
+      "riskNote": "遵守 MIT license；不要暗示 Microsoft 官方背书",
+      "stickers": [
+        {
+          "id": "fluent_laugh",
+          "title": "笑哭",
+          "fileName": "Face%20with%20tears%20of%20joy/3D/face_with_tears_of_joy_3d.png"
+        },
+        {
+          "id": "fluent_love",
+          "title": "心动",
+          "fileName": "Smiling%20face%20with%20heart-eyes/3D/smiling_face_with_heart-eyes_3d.png"
+        },
+        {
+          "id": "fluent_cool",
+          "title": "稳了",
+          "fileName": "Smiling%20face%20with%20sunglasses/3D/smiling_face_with_sunglasses_3d.png"
+        },
+        {
+          "id": "fluent_think",
+          "title": "思考",
+          "fileName": "Thinking%20face/3D/thinking_face_3d.png"
+        },
+        {
+          "id": "fluent_eyeroll",
+          "title": "无语",
+          "fileName": "Face%20with%20rolling%20eyes/3D/face_with_rolling_eyes_3d.png"
+        },
+        {
+          "id": "fluent_cry",
+          "title": "爆哭",
+          "fileName": "Loudly%20crying%20face/3D/loudly_crying_face_3d.png"
+        },
+        {
+          "id": "fluent_mindblown",
+          "title": "震惊",
+          "fileName": "Exploding%20head/3D/exploding_head_3d.png"
+        },
+        {
+          "id": "fluent_party",
+          "title": "好耶",
+          "fileName": "Partying%20face/3D/partying_face_3d.png"
+        },
+        {
+          "id": "fluent_100",
+          "title": "满分",
+          "fileName": "Hundred%20points/3D/hundred_points_3d.png"
+        }
+      ]
+    },
+    {
+      "id": "twemoji-workday-replies",
+      "title": "Twemoji 职场高频回复",
+      "version": 1,
+      "archiveName": "twemoji-workday-replies-v1.zip",
+      "archiveURL": "https://github.com/twitter/twemoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY 4.0 - Twemoji",
+      "style": "flat daily work reply stickers",
+      "assetType": "PNG",
+      "platformSupport": "iMessage, Telegram, WeChat(需手动导入)",
+      "sourceURL": "https://github.com/twitter/twemoji",
+      "requiresLogin": false,
+      "recommendation": "覆盖收到、等待、通过、风险、上线等职场聊天场景",
+      "riskNote": "使用时请保留 CC BY 4.0 署名要求",
+      "stickers": [
+        {
+          "id": "tw_work_ok",
+          "title": "收到",
+          "fileName": "1f44c.png"
+        },
+        {
+          "id": "tw_work_like",
+          "title": "可以",
+          "fileName": "1f44d.png"
+        },
+        {
+          "id": "tw_work_pray",
+          "title": "拜托",
+          "fileName": "1f64f.png"
+        },
+        {
+          "id": "tw_work_eyes",
+          "title": "我看看",
+          "fileName": "1f440.png"
+        },
+        {
+          "id": "tw_work_wait",
+          "title": "等等",
+          "fileName": "23f3.png"
+        },
+        {
+          "id": "tw_work_sleep",
+          "title": "困了",
+          "fileName": "1f4a4.png"
+        },
+        {
+          "id": "tw_work_done",
+          "title": "通过",
+          "fileName": "2705.png"
+        },
+        {
+          "id": "tw_work_no",
+          "title": "不行",
+          "fileName": "274c.png"
+        },
+        {
+          "id": "tw_work_warn",
+          "title": "有风险",
+          "fileName": "26a0.png"
+        }
+      ]
+    },
+    {
+      "id": "twemoji-dev-status",
+      "title": "Twemoji 程序员状态",
+      "version": 1,
+      "archiveName": "twemoji-dev-status-v1.zip",
+      "archiveURL": "https://github.com/twitter/twemoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY 4.0 - Twemoji",
+      "style": "developer status emoji stickers",
+      "assetType": "PNG",
+      "platformSupport": "iMessage, Telegram, WeChat(需手动导入)",
+      "sourceURL": "https://github.com/twitter/twemoji",
+      "requiresLogin": false,
+      "recommendation": "适合 Coco 的开发者用户，能做成后续原创文字贴纸的原型",
+      "riskNote": "使用时请保留 CC BY 4.0 署名要求",
+      "stickers": [
+        {
+          "id": "tw_dev_fire",
+          "title": "线上着火",
+          "fileName": "1f525.png"
+        },
+        {
+          "id": "tw_dev_rocket",
+          "title": "发版",
+          "fileName": "1f680.png"
+        },
+        {
+          "id": "tw_dev_bug",
+          "title": "有 Bug",
+          "fileName": "1fab2.png"
+        },
+        {
+          "id": "tw_dev_laptop",
+          "title": "写代码",
+          "fileName": "1f4bb.png"
+        },
+        {
+          "id": "tw_dev_coffee",
+          "title": "续命",
+          "fileName": "2615.png"
+        },
+        {
+          "id": "tw_dev_hourglass",
+          "title": "构建中",
+          "fileName": "23f3.png"
+        },
+        {
+          "id": "tw_dev_check",
+          "title": "LGTM",
+          "fileName": "2705.png"
+        },
+        {
+          "id": "tw_dev_cross",
+          "title": "Build Failed",
+          "fileName": "274c.png"
+        },
+        {
+          "id": "tw_dev_100",
+          "title": "Ship It",
+          "fileName": "1f4af.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-social-actions",
+      "title": "OpenMoji 社交动作组",
+      "version": 1,
+      "archiveName": "openmoji-social-actions-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "bold social action stickers",
+      "assetType": "PNG",
+      "platformSupport": "iMessage, Telegram, WeChat(需手动导入)",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "动作语义明确，适合补齐点赞、鼓掌、拥抱、加油等高频互动",
+      "riskNote": "二次分发需遵守 CC BY-SA 4.0 共享相同方式",
+      "stickers": [
+        {
+          "id": "om_social_thumb",
+          "title": "点赞",
+          "fileName": "1F44D.png"
+        },
+        {
+          "id": "om_social_clap",
+          "title": "鼓掌",
+          "fileName": "1F44F.png"
+        },
+        {
+          "id": "om_social_pray",
+          "title": "拜托",
+          "fileName": "1F64F.png"
+        },
+        {
+          "id": "om_social_muscle",
+          "title": "加油",
+          "fileName": "1F4AA.png"
+        },
+        {
+          "id": "om_social_heart",
+          "title": "爱你",
+          "fileName": "2764.png"
+        },
+        {
+          "id": "om_social_fire",
+          "title": "燃",
+          "fileName": "1F525.png"
+        },
+        {
+          "id": "om_social_eyes",
+          "title": "看看",
+          "fileName": "1F440.png"
+        },
+        {
+          "id": "om_social_100",
+          "title": "满分",
+          "fileName": "1F4AF.png"
+        },
+        {
+          "id": "om_social_rocket",
+          "title": "冲",
+          "fileName": "1F680.png"
         }
       ]
     }
