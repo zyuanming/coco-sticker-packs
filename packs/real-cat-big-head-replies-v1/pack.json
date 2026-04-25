@@ -1,0 +1,109 @@
+{
+  "id": "real-cat-big-head-replies",
+  "title": "大头猫咪乱回组",
+  "version": 1,
+  "archiveName": "real-cat-big-head-replies-v1.zip",
+  "archiveURL": "https://github.com/zyuanming/coco-sticker-packs/releases/download/real-cat-big-head-replies-v1/real-cat-big-head-replies-v1.zip",
+  "rawBaseURL": "https://raw.githubusercontent.com/zyuanming/coco-sticker-packs/main/packs/real-cat-big-head-replies-v1/stickers/",
+  "sha256": "manifest-authoritative",
+  "license": "Mixed CC BY / CC BY-SA / CC0; see pack source notes",
+  "style": "real cat photo stickers with big-head close crop, short Chinese chat text, white outline, and soft shadow",
+  "assetType": "PNG",
+  "platformSupport": "iMessage",
+  "sourceURL": "https://commons.wikimedia.org/wiki/Category:Humorous_cats",
+  "requiresLogin": false,
+  "recommendation": "更像微信聊天里会用的真实大头猫反应包：无语、救命、乱回、笑死都能接上",
+  "riskNote": "混合 CC BY / CC BY-SA / CC0 来源，二次分发需保留逐张署名与相同方式共享要求",
+  "stickers": [
+    {
+      "id": "real_cat_big_head_huh",
+      "title": "啊猫",
+      "fileName": "real_cat_big_head_huh.png"
+    },
+    {
+      "id": "real_cat_big_head_help",
+      "title": "救命猫",
+      "fileName": "real_cat_big_head_help.png"
+    },
+    {
+      "id": "real_cat_big_head_speechless",
+      "title": "无语猫",
+      "fileName": "real_cat_big_head_speechless.png"
+    },
+    {
+      "id": "real_cat_big_head_read_wrong",
+      "title": "乱回猫",
+      "fileName": "real_cat_big_head_read_wrong.png"
+    },
+    {
+      "id": "real_cat_big_head_lol",
+      "title": "笑死猫",
+      "fileName": "real_cat_big_head_lol.png"
+    },
+    {
+      "id": "real_cat_big_head_right",
+      "title": "你说得对猫",
+      "fileName": "real_cat_big_head_right.png"
+    },
+    {
+      "id": "real_cat_big_head_steady",
+      "title": "稳了猫",
+      "fileName": "real_cat_big_head_steady.png"
+    },
+    {
+      "id": "real_cat_big_head_blep",
+      "title": "略略猫",
+      "fileName": "real_cat_big_head_blep.png"
+    },
+    {
+      "id": "real_cat_big_head_confused",
+      "title": "不理解猫",
+      "fileName": "real_cat_big_head_confused.png"
+    },
+    {
+      "id": "real_cat_big_head_dont",
+      "title": "别惹猫",
+      "fileName": "real_cat_big_head_dont.png"
+    },
+    {
+      "id": "real_cat_big_head_angry",
+      "title": "生气猫",
+      "fileName": "real_cat_big_head_angry.png"
+    },
+    {
+      "id": "real_cat_big_head_tired",
+      "title": "累了猫",
+      "fileName": "real_cat_big_head_tired.png"
+    },
+    {
+      "id": "real_cat_big_head_crash",
+      "title": "崩溃猫",
+      "fileName": "real_cat_big_head_crash.png"
+    },
+    {
+      "id": "real_cat_big_head_blank",
+      "title": "发呆猫",
+      "fileName": "real_cat_big_head_blank.png"
+    },
+    {
+      "id": "real_cat_big_head_busy",
+      "title": "在忙猫",
+      "fileName": "real_cat_big_head_busy.png"
+    },
+    {
+      "id": "real_cat_big_head_ok",
+      "title": "可以猫",
+      "fileName": "real_cat_big_head_ok.png"
+    },
+    {
+      "id": "real_cat_big_head_closed",
+      "title": "不营业猫",
+      "fileName": "real_cat_big_head_closed.png"
+    },
+    {
+      "id": "real_cat_big_head_yay",
+      "title": "好耶猫",
+      "fileName": "real_cat_big_head_yay.png"
+    }
+  ]
+}

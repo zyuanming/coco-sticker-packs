@@ -51,6 +51,7 @@ Open sticker packs for the Coco iMessage app.
 <!-- generated-openmoji-theme-packs:end -->
 - `openmoji-reactions-125-v1`: 125 high-frequency OpenMoji chat reactions across faces, cat faces, and hand gestures.
 - `real-cat-moods-v1`: real cat photo reaction stickers sourced from openly licensed Wikimedia Commons photos.
+- `real-cat-big-head-replies-v1`: big-head real cat photo replies with short Chinese chat captions.
 - `pets-goofy-v1`: original goofy pet stickers for testing remote downloads.
 - `cat-meme-v2`: no-text expressive cat face stickers inspired by reaction memes.
 
@@ -58,6 +59,7 @@ Open sticker packs for the Coco iMessage app.
 
 The generated `cat-meme-v2` and `pets-goofy-v1` sticker artwork in this repository is released under CC0-1.0.
 The `real-cat-moods-v1` pack uses mixed Wikimedia Commons photo licenses; see `packs/real-cat-moods-v1/SOURCES.md` for per-sticker attribution.
+The `real-cat-big-head-replies-v1` pack uses mixed Wikimedia Commons photo licenses; see `packs/real-cat-big-head-replies-v1/SOURCES.md` for per-sticker attribution.
 The `openmoji-reactions-125-v1` pack references OpenMoji assets under CC BY-SA 4.0; see `packs/openmoji-reactions-125-v1/SOURCES.md`.
 The generated OpenMoji themed packs reference OpenMoji assets under CC BY-SA 4.0; see each `packs/openmoji-*-v1/SOURCES.md`.
 Scripts and metadata are released under the MIT license.
