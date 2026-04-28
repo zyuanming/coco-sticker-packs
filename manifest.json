@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-04-25T15:37:13+08:00",
+  "updatedAt": "2026-04-28T00:00:00+08:00",
   "packs": [
     {
       "id": "openmoji-happy-faces",
@@ -4830,6 +4830,326 @@
           "id": "om_social_rocket",
           "title": "冲",
           "fileName": "1F680.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-tired-worker",
+      "title": "OpenMoji 打工人疲惫包",
+      "version": 1,
+      "archiveName": "openmoji-tired-worker-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "burnout and tired workday reaction stickers",
+      "assetType": "PNG",
+      "platformSupport": "iMessage, Telegram, WeChat(需手动导入)",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "覆盖疲惫、硬撑、叹气、融化等高频打工人状态",
+      "riskNote": "二次分发需遵守 CC BY-SA 4.0 共享相同方式",
+      "stickers": [
+        {
+          "id": "om_tired_bags",
+          "title": "眼袋打工人",
+          "fileName": "1FAE9.png"
+        },
+        {
+          "id": "om_tired_melting",
+          "title": "已融化",
+          "fileName": "1FAE0.png"
+        },
+        {
+          "id": "om_tired_cry",
+          "title": "爆哭加班",
+          "fileName": "1F62D.png"
+        },
+        {
+          "id": "om_tired_sleep",
+          "title": "睡了",
+          "fileName": "1F634.png"
+        },
+        {
+          "id": "om_tired_yawn",
+          "title": "困到打哈欠",
+          "fileName": "1F971.png"
+        },
+        {
+          "id": "om_tired_dizzy",
+          "title": "头晕",
+          "fileName": "1F635-200D-1F4AB.png"
+        },
+        {
+          "id": "om_tired_exhale",
+          "title": "叹气",
+          "fileName": "1F62E-200D-1F4A8.png"
+        },
+        {
+          "id": "om_tired_empty",
+          "title": "灵魂出走",
+          "fileName": "1FAE5.png"
+        },
+        {
+          "id": "om_tired_salute",
+          "title": "收到硬撑",
+          "fileName": "1FAE1.png"
+        }
+      ]
+    },
+    {
+      "id": "twemoji-dev-incident-2",
+      "title": "Twemoji 程序员事故现场 2.0",
+      "version": 1,
+      "archiveName": "twemoji-dev-incident-2-v1.zip",
+      "archiveURL": "https://github.com/twitter/twemoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY 4.0 - Twemoji",
+      "style": "developer incident and release reaction stickers",
+      "assetType": "PNG",
+      "platformSupport": "iMessage, Telegram, WeChat(需手动导入)",
+      "sourceURL": "https://github.com/twitter/twemoji",
+      "requiresLogin": false,
+      "recommendation": "把线上着火、热修、发版、Build Failed 等开发者梗做成高频回复",
+      "riskNote": "使用时请保留 CC BY 4.0 署名要求",
+      "stickers": [
+        {
+          "id": "tw_incident_fire",
+          "title": "线上着火",
+          "fileName": "1f525.png"
+        },
+        {
+          "id": "tw_incident_bug",
+          "title": "又有 Bug",
+          "fileName": "1fab2.png"
+        },
+        {
+          "id": "tw_incident_siren",
+          "title": "紧急修复",
+          "fileName": "1f6a8.png"
+        },
+        {
+          "id": "tw_incident_boom",
+          "title": "炸了",
+          "fileName": "1f4a5.png"
+        },
+        {
+          "id": "tw_incident_tools",
+          "title": "热修中",
+          "fileName": "1f6e0.png"
+        },
+        {
+          "id": "tw_incident_laptop",
+          "title": "本地是好的",
+          "fileName": "1f4bb.png"
+        },
+        {
+          "id": "tw_incident_rocket",
+          "title": "发版",
+          "fileName": "1f680.png"
+        },
+        {
+          "id": "tw_incident_check",
+          "title": "LGTM",
+          "fileName": "2705.png"
+        },
+        {
+          "id": "tw_incident_failed",
+          "title": "Build Failed",
+          "fileName": "274c.png"
+        }
+      ]
+    },
+    {
+      "id": "twemoji-polite-sarcasm",
+      "title": "Twemoji 礼貌阴阳回复",
+      "version": 1,
+      "archiveName": "twemoji-polite-sarcasm-v1.zip",
+      "archiveURL": "https://github.com/twitter/twemoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY 4.0 - Twemoji",
+      "style": "polite sarcasm and soft refusal stickers",
+      "assetType": "PNG",
+      "platformSupport": "iMessage, Telegram, WeChat(需手动导入)",
+      "sourceURL": "https://github.com/twitter/twemoji",
+      "requiresLogin": false,
+      "recommendation": "适合轻量吐槽、礼貌拒绝和保持聊天气氛的回复场景",
+      "riskNote": "使用时请保留 CC BY 4.0 署名要求",
+      "stickers": [
+        {
+          "id": "tw_sarcasm_smile",
+          "title": "礼貌微笑",
+          "fileName": "1f642.png"
+        },
+        {
+          "id": "tw_sarcasm_eyes",
+          "title": "我看看",
+          "fileName": "1f440.png"
+        },
+        {
+          "id": "tw_sarcasm_think",
+          "title": "我再理解一下",
+          "fileName": "1f914.png"
+        },
+        {
+          "id": "tw_sarcasm_eyeroll",
+          "title": "这很难评",
+          "fileName": "1f644.png"
+        },
+        {
+          "id": "tw_sarcasm_shrug",
+          "title": "你说得对",
+          "fileName": "1f937.png"
+        },
+        {
+          "id": "tw_sarcasm_handshake",
+          "title": "尊重祝福",
+          "fileName": "1f91d.png"
+        },
+        {
+          "id": "tw_sarcasm_pray",
+          "title": "拜托了",
+          "fileName": "1f64f.png"
+        },
+        {
+          "id": "tw_sarcasm_empty",
+          "title": "已读沉默",
+          "fileName": "1fae5.png"
+        },
+        {
+          "id": "tw_sarcasm_calm",
+          "title": "保持冷静",
+          "fileName": "1f9d8.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-affection-replies",
+      "title": "OpenMoji 亲密贴贴包",
+      "version": 1,
+      "archiveName": "openmoji-affection-replies-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "warm affection and close-friend reply stickers",
+      "assetType": "PNG",
+      "platformSupport": "iMessage, Telegram, WeChat(需手动导入)",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "覆盖贴贴、抱抱、想你、晚安等亲密关系高频回复",
+      "riskNote": "二次分发需遵守 CC BY-SA 4.0 共享相同方式",
+      "stickers": [
+        {
+          "id": "om_affection_heart_hands",
+          "title": "贴贴",
+          "fileName": "1FAF6.png"
+        },
+        {
+          "id": "om_affection_hug",
+          "title": "抱一下",
+          "fileName": "1FAC2.png"
+        },
+        {
+          "id": "om_affection_kiss",
+          "title": "想你",
+          "fileName": "1F618.png"
+        },
+        {
+          "id": "om_affection_hearts",
+          "title": "喜欢你",
+          "fileName": "1F970.png"
+        },
+        {
+          "id": "om_affection_teary",
+          "title": "被可爱到",
+          "fileName": "1F979.png"
+        },
+        {
+          "id": "om_affection_hug_face",
+          "title": "摸摸头",
+          "fileName": "1F917.png"
+        },
+        {
+          "id": "om_affection_sleep",
+          "title": "晚安",
+          "fileName": "1F634.png"
+        },
+        {
+          "id": "om_affection_moon",
+          "title": "月亮陪你",
+          "fileName": "1F319.png"
+        },
+        {
+          "id": "om_affection_heart",
+          "title": "小心心",
+          "fileName": "2764.png"
+        }
+      ]
+    },
+    {
+      "id": "openmoji-food-energy",
+      "title": "OpenMoji 饭点续命包",
+      "version": 1,
+      "archiveName": "openmoji-food-energy-v1.zip",
+      "archiveURL": "https://github.com/hfg-gmuend/openmoji",
+      "rawBaseURL": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/",
+      "sha256": "source-hosted-no-archive",
+      "license": "CC BY-SA 4.0 - OpenMoji",
+      "style": "meal break and food recharge stickers",
+      "assetType": "PNG",
+      "platformSupport": "iMessage, Telegram, WeChat(需手动导入)",
+      "sourceURL": "https://github.com/hfg-gmuend/openmoji",
+      "requiresLogin": false,
+      "recommendation": "适合饭点邀约、奶茶咖啡续命、夜宵和吃瓜聊天场景",
+      "riskNote": "二次分发需遵守 CC BY-SA 4.0 共享相同方式",
+      "stickers": [
+        {
+          "id": "om_food_coffee",
+          "title": "咖啡续命",
+          "fileName": "2615.png"
+        },
+        {
+          "id": "om_food_bubble_tea",
+          "title": "奶茶救我",
+          "fileName": "1F9CB.png"
+        },
+        {
+          "id": "om_food_rice",
+          "title": "开饭",
+          "fileName": "1F35A.png"
+        },
+        {
+          "id": "om_food_noodle",
+          "title": "嗦粉去",
+          "fileName": "1F35C.png"
+        },
+        {
+          "id": "om_food_pizza",
+          "title": "夜宵",
+          "fileName": "1F355.png"
+        },
+        {
+          "id": "om_food_chicken",
+          "title": "加鸡腿",
+          "fileName": "1F357.png"
+        },
+        {
+          "id": "om_food_cake",
+          "title": "甜品治愈",
+          "fileName": "1F370.png"
+        },
+        {
+          "id": "om_food_melon",
+          "title": "吃瓜",
+          "fileName": "1F349.png"
+        },
+        {
+          "id": "om_food_yummy",
+          "title": "好吃",
+          "fileName": "1F60B.png"
         }
       ]
     }
