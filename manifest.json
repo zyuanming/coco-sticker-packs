@@ -1,10 +1,17 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "updatedAt": "2026-05-17T00:00:00+08:00",
   "packs": [
     {
       "id": "openmoji-mega-static",
       "title": "OpenMoji 综合表情包",
+      "localizedTitles": {
+        "zh-Hans": "OpenMoji 综合表情包",
+        "zh-Hant": "OpenMoji 綜合表情包",
+        "en": "OpenMoji Mega Pack",
+        "ja": "OpenMoji 総合スタンプ",
+        "ko": "OpenMoji 종합 스티커 팩"
+      },
       "version": 1,
       "archiveName": "openmoji-mega-static-v1.zip",
       "archiveURL": "https://github.com/hfg-gmuend/openmoji",
@@ -22,2291 +29,5497 @@
         {
           "id": "openmoji_happy_faces_1f600",
           "title": "笑脸",
+          "localizedTitles": {
+            "zh-Hans": "笑脸",
+            "zh-Hant": "笑臉",
+            "en": "Smiley",
+            "ja": "笑顔",
+            "ko": "웃는 얼굴"
+          },
           "fileName": "1F600.png"
         },
         {
           "id": "openmoji_happy_faces_1f603",
           "title": "大笑",
+          "localizedTitles": {
+            "zh-Hans": "大笑",
+            "zh-Hant": "大笑",
+            "en": "Big Smile",
+            "ja": "大笑い",
+            "ko": "크게 웃기"
+          },
           "fileName": "1F603.png"
         },
         {
           "id": "openmoji_happy_faces_1f604",
           "title": "开心",
+          "localizedTitles": {
+            "zh-Hans": "开心",
+            "zh-Hant": "開心",
+            "en": "Happy",
+            "ja": "うれしい",
+            "ko": "행복"
+          },
           "fileName": "1F604.png"
         },
         {
           "id": "openmoji_happy_faces_1f601",
           "title": "咧嘴笑",
+          "localizedTitles": {
+            "zh-Hans": "咧嘴笑",
+            "zh-Hant": "咧嘴笑",
+            "en": "Grin",
+            "ja": "ニコッ",
+            "ko": "활짝 웃기"
+          },
           "fileName": "1F601.png"
         },
         {
           "id": "openmoji_happy_faces_1f606",
           "title": "笑死",
+          "localizedTitles": {
+            "zh-Hans": "笑死",
+            "zh-Hant": "笑死",
+            "en": "LOL",
+            "ja": "笑い死",
+            "ko": "웃겨 죽음"
+          },
           "fileName": "1F606.png"
         },
         {
           "id": "openmoji_happy_faces_1f605",
           "title": "尴尬笑",
+          "localizedTitles": {
+            "zh-Hans": "尴尬笑",
+            "zh-Hant": "尷尬笑",
+            "en": "Awkward Laugh",
+            "ja": "冷や汗笑い",
+            "ko": "어색한 웃음"
+          },
           "fileName": "1F605.png"
         },
         {
           "id": "openmoji_happy_faces_1f642",
           "title": "微笑",
+          "localizedTitles": {
+            "zh-Hans": "微笑",
+            "zh-Hant": "微笑",
+            "en": "Smile",
+            "ja": "微笑み",
+            "ko": "살짝 웃기"
+          },
           "fileName": "1F642.png"
         },
         {
           "id": "openmoji_happy_faces_1f60a",
           "title": "害羞笑",
+          "localizedTitles": {
+            "zh-Hans": "害羞笑",
+            "zh-Hant": "害羞笑",
+            "en": "Shy Smile",
+            "ja": "照れ笑い",
+            "ko": "수줍은 웃음"
+          },
           "fileName": "1F60A.png"
         },
         {
           "id": "openmoji_happy_faces_263a",
           "title": "安心笑",
+          "localizedTitles": {
+            "zh-Hans": "安心笑",
+            "zh-Hant": "安心笑",
+            "en": "Content",
+            "ja": "ほっこり",
+            "ko": "편안한 웃음"
+          },
           "fileName": "263A.png"
         },
         {
           "id": "openmoji_happy_faces_1f607",
           "title": "天使",
+          "localizedTitles": {
+            "zh-Hans": "天使",
+            "zh-Hant": "天使",
+            "en": "Angel",
+            "ja": "天使",
+            "ko": "천사"
+          },
           "fileName": "1F607.png"
         },
         {
           "id": "openmoji_happy_faces_1f929",
           "title": "星星眼",
+          "localizedTitles": {
+            "zh-Hans": "星星眼",
+            "zh-Hant": "星星眼",
+            "en": "Starstruck",
+            "ja": "目がハート",
+            "ko": "별 눈"
+          },
           "fileName": "1F929.png"
         },
         {
           "id": "openmoji_happy_faces_1f973",
           "title": "开派对",
+          "localizedTitles": {
+            "zh-Hans": "开派对",
+            "zh-Hant": "開派對",
+            "en": "Party Time",
+            "ja": "パーティー",
+            "ko": "파티 타임"
+          },
           "fileName": "1F973.png"
         },
         {
           "id": "openmoji_laugh_out_loud_1f602",
           "title": "笑哭",
+          "localizedTitles": {
+            "zh-Hans": "笑哭",
+            "zh-Hant": "笑哭",
+            "en": "Tears of Joy",
+            "ja": "笑い泣き",
+            "ko": "웃다가 울기"
+          },
           "fileName": "1F602.png"
         },
         {
           "id": "openmoji_laugh_out_loud_1f923",
           "title": "笑到打滚",
+          "localizedTitles": {
+            "zh-Hans": "笑到打滚",
+            "zh-Hant": "笑到打滾",
+            "en": "ROFL",
+            "ja": "転がるほど笑う",
+            "ko": "배꼽 빠지게 웃기"
+          },
           "fileName": "1F923.png"
         },
         {
           "id": "openmoji_laugh_out_loud_1f92d",
           "title": "偷笑",
+          "localizedTitles": {
+            "zh-Hans": "偷笑",
+            "zh-Hant": "偷笑",
+            "en": "Giggle",
+            "ja": "クスクス",
+            "ko": "낄낄"
+          },
           "fileName": "1F92D.png"
         },
         {
           "id": "openmoji_laugh_out_loud_1fae2",
           "title": "憋笑",
+          "localizedTitles": {
+            "zh-Hans": "憋笑",
+            "zh-Hant": "憋笑",
+            "en": "Holding Back Laughter",
+            "ja": "笑いをこらえる",
+            "ko": "참웃음"
+          },
           "fileName": "1FAE2.png"
         },
         {
           "id": "openmoji_laugh_out_loud_1f61c",
           "title": "调皮",
+          "localizedTitles": {
+            "zh-Hans": "调皮",
+            "zh-Hant": "調皮",
+            "en": "Cheeky",
+            "ja": "ちょい悪",
+            "ko": "장난기"
+          },
           "fileName": "1F61C.png"
         },
         {
           "id": "openmoji_laugh_out_loud_1f92a",
           "title": "发癫",
+          "localizedTitles": {
+            "zh-Hans": "发癫",
+            "zh-Hant": "發癲",
+            "en": "Zany",
+            "ja": "ハイテンション",
+            "ko": "맛이 간"
+          },
           "fileName": "1F92A.png"
         },
         {
           "id": "openmoji_laugh_out_loud_1f638",
           "title": "猫笑哭",
+          "localizedTitles": {
+            "zh-Hans": "猫笑哭",
+            "zh-Hant": "貓笑哭",
+            "en": "Cat Tears of Joy",
+            "ja": "猫の笑い泣き",
+            "ko": "고양이 웃다 울기"
+          },
           "fileName": "1F638.png"
         },
         {
           "id": "openmoji_laugh_out_loud_1f639",
           "title": "猫开心哭",
+          "localizedTitles": {
+            "zh-Hans": "猫开心哭",
+            "zh-Hant": "貓開心哭",
+            "en": "Cat Joyful Cry",
+            "ja": "猫の喜び泣き",
+            "ko": "고양이 기뻐 울기"
+          },
           "fileName": "1F639.png"
         },
         {
           "id": "openmoji_laugh_out_loud_1f4a5",
           "title": "炸了",
+          "localizedTitles": {
+            "zh-Hans": "炸了",
+            "zh-Hant": "炸了",
+            "en": "Boom",
+            "ja": "爆発",
+            "ko": "펑"
+          },
           "fileName": "1F4A5.png"
         },
         {
           "id": "openmoji_laugh_out_loud_1f4ab",
           "title": "晕乎",
+          "localizedTitles": {
+            "zh-Hans": "晕乎",
+            "zh-Hant": "暈乎",
+            "en": "Dizzy",
+            "ja": "めまい",
+            "ko": "어지러움"
+          },
           "fileName": "1F4AB.png"
         },
         {
           "id": "openmoji_love_heart_1f970",
           "title": "被爱包围",
+          "localizedTitles": {
+            "zh-Hans": "被爱包围",
+            "zh-Hant": "被愛包圍",
+            "en": "Smiling with Hearts",
+            "ja": "愛に包まれて",
+            "ko": "사랑에 둘러싸임"
+          },
           "fileName": "1F970.png"
         },
         {
           "id": "openmoji_love_heart_1f60d",
           "title": "爱心眼",
+          "localizedTitles": {
+            "zh-Hans": "爱心眼",
+            "zh-Hant": "愛心眼",
+            "en": "Heart Eyes",
+            "ja": "目がハート",
+            "ko": "하트 눈"
+          },
           "fileName": "1F60D.png"
         },
         {
           "id": "openmoji_love_heart_1f618",
           "title": "飞吻",
+          "localizedTitles": {
+            "zh-Hans": "飞吻",
+            "zh-Hant": "飛吻",
+            "en": "Blowing a Kiss",
+            "ja": "投げキッス",
+            "ko": "날리는 키스"
+          },
           "fileName": "1F618.png"
         },
         {
           "id": "openmoji_love_heart_1f617",
           "title": "亲亲",
+          "localizedTitles": {
+            "zh-Hans": "亲亲",
+            "zh-Hant": "親親",
+            "en": "Kiss",
+            "ja": "キッス",
+            "ko": "뽀뽀"
+          },
           "fileName": "1F617.png"
         },
         {
           "id": "openmoji_love_heart_1f61a",
           "title": "闭眼亲",
+          "localizedTitles": {
+            "zh-Hans": "闭眼亲",
+            "zh-Hant": "閉眼親",
+            "en": "Kiss with Eyes Closed",
+            "ja": "目閉じキッス",
+            "ko": "눈 감고 키스"
+          },
           "fileName": "1F61A.png"
         },
         {
           "id": "openmoji_love_heart_1f619",
           "title": "笑着亲",
+          "localizedTitles": {
+            "zh-Hans": "笑着亲",
+            "zh-Hant": "笑著親",
+            "en": "Kissing Smile",
+            "ja": "笑顔キッス",
+            "ko": "웃으며 키스"
+          },
           "fileName": "1F619.png"
         },
         {
           "id": "openmoji_love_heart_1f63b",
           "title": "猫心动",
+          "localizedTitles": {
+            "zh-Hans": "猫心动",
+            "zh-Hant": "貓心動",
+            "en": "Cat Heart Eyes",
+            "ja": "猫の目がハート",
+            "ko": "고양이 하트 눈"
+          },
           "fileName": "1F63B.png"
         },
         {
           "id": "openmoji_love_heart_1f63d",
           "title": "猫亲亲",
+          "localizedTitles": {
+            "zh-Hans": "猫亲亲",
+            "zh-Hant": "貓親親",
+            "en": "Cat Kiss",
+            "ja": "猫のキッス",
+            "ko": "고양이 키스"
+          },
           "fileName": "1F63D.png"
         },
         {
           "id": "openmoji_love_heart_1f48c",
           "title": "情书",
+          "localizedTitles": {
+            "zh-Hans": "情书",
+            "zh-Hant": "情書",
+            "en": "Love Letter",
+            "ja": "ラブレター",
+            "ko": "러브 레터"
+          },
           "fileName": "1F48C.png"
         },
         {
           "id": "openmoji_love_heart_1f498",
           "title": "一箭穿心",
+          "localizedTitles": {
+            "zh-Hans": "一箭穿心",
+            "zh-Hant": "一箭穿心",
+            "en": "Cupid's Arrow",
+            "ja": "恋の矢",
+            "ko": "사랑의 화살"
+          },
           "fileName": "1F498.png"
         },
         {
           "id": "openmoji_love_heart_1f496",
           "title": "闪亮爱心",
+          "localizedTitles": {
+            "zh-Hans": "闪亮爱心",
+            "zh-Hant": "閃亮愛心",
+            "en": "Sparkling Heart",
+            "ja": "きらきらハート",
+            "ko": "반짝이는 하트"
+          },
           "fileName": "1F496.png"
         },
         {
           "id": "openmoji_cute_soft_1f97a",
           "title": "拜托",
+          "localizedTitles": {
+            "zh-Hans": "拜托",
+            "zh-Hant": "拜託",
+            "en": "Pleading",
+            "ja": "おねがい",
+            "ko": "제발"
+          },
           "fileName": "1F97A.png"
         },
         {
           "id": "openmoji_cute_soft_1f979",
           "title": "忍泪",
+          "localizedTitles": {
+            "zh-Hans": "忍泪",
+            "zh-Hant": "忍淚",
+            "en": "Holding Back Tears",
+            "ja": "涙こらえる",
+            "ko": "참눈물"
+          },
           "fileName": "1F979.png"
         },
         {
           "id": "openmoji_cute_soft_1f917",
           "title": "抱抱",
+          "localizedTitles": {
+            "zh-Hans": "抱抱",
+            "zh-Hant": "抱抱",
+            "en": "Hug",
+            "ja": "ハグ",
+            "ko": "포옹"
+          },
           "fileName": "1F917.png"
         },
         {
           "id": "openmoji_cute_soft_1f430",
           "title": "兔兔",
+          "localizedTitles": {
+            "zh-Hans": "兔兔",
+            "zh-Hant": "兔兔",
+            "en": "Bunny",
+            "ja": "うさぎ",
+            "ko": "토끼"
+          },
           "fileName": "1F430.png"
         },
         {
           "id": "openmoji_cute_soft_1f43b",
           "title": "小熊",
+          "localizedTitles": {
+            "zh-Hans": "小熊",
+            "zh-Hant": "小熊",
+            "en": "Bear",
+            "ja": "くま",
+            "ko": "곰"
+          },
           "fileName": "1F43B.png"
         },
         {
           "id": "openmoji_cute_soft_1f43c",
           "title": "熊猫",
+          "localizedTitles": {
+            "zh-Hans": "熊猫",
+            "zh-Hant": "熊貓",
+            "en": "Panda",
+            "ja": "パンダ",
+            "ko": "판다"
+          },
           "fileName": "1F43C.png"
         },
         {
           "id": "openmoji_cute_soft_1f428",
           "title": "考拉",
+          "localizedTitles": {
+            "zh-Hans": "考拉",
+            "zh-Hant": "考拉",
+            "en": "Koala",
+            "ja": "コアラ",
+            "ko": "코알라"
+          },
           "fileName": "1F428.png"
         },
         {
           "id": "openmoji_cute_soft_1f9f8",
           "title": "玩偶熊",
+          "localizedTitles": {
+            "zh-Hans": "玩偶熊",
+            "zh-Hant": "玩偶熊",
+            "en": "Teddy Bear",
+            "ja": "ぬいぐるみ",
+            "ko": "테디 베어"
+          },
           "fileName": "1F9F8.png"
         },
         {
           "id": "openmoji_cute_soft_1f380",
           "title": "蝴蝶结",
+          "localizedTitles": {
+            "zh-Hans": "蝴蝶结",
+            "zh-Hant": "蝴蝶結",
+            "en": "Ribbon",
+            "ja": "リボン",
+            "ko": "리본"
+          },
           "fileName": "1F380.png"
         },
         {
           "id": "openmoji_cute_soft_2728",
           "title": "闪闪",
+          "localizedTitles": {
+            "zh-Hans": "闪闪",
+            "zh-Hant": "閃閃",
+            "en": "Sparkles",
+            "ja": "きらきら",
+            "ko": "반짝반짝"
+          },
           "fileName": "2728.png"
         },
         {
           "id": "openmoji_sad_cry_1f641",
           "title": "难过",
+          "localizedTitles": {
+            "zh-Hans": "难过",
+            "zh-Hant": "難過",
+            "en": "Sad",
+            "ja": "かなしい",
+            "ko": "슬픔"
+          },
           "fileName": "1F641.png"
         },
         {
           "id": "openmoji_sad_cry_2639",
           "title": "很难过",
+          "localizedTitles": {
+            "zh-Hans": "很难过",
+            "zh-Hant": "很難過",
+            "en": "Very Sad",
+            "ja": "もっとかなしい",
+            "ko": "많이 슬픔"
+          },
           "fileName": "2639.png"
         },
         {
           "id": "openmoji_sad_cry_1f614",
           "title": "低落",
+          "localizedTitles": {
+            "zh-Hans": "低落",
+            "zh-Hant": "低落",
+            "en": "Down",
+            "ja": "落ち込み",
+            "ko": "침울"
+          },
           "fileName": "1F614.png"
         },
         {
           "id": "openmoji_sad_cry_1f61e",
           "title": "失望",
+          "localizedTitles": {
+            "zh-Hans": "失望",
+            "zh-Hant": "失望",
+            "en": "Disappointed",
+            "ja": "がっかり",
+            "ko": "실망"
+          },
           "fileName": "1F61E.png"
         },
         {
           "id": "openmoji_sad_cry_1f622",
           "title": "哭了",
+          "localizedTitles": {
+            "zh-Hans": "哭了",
+            "zh-Hant": "哭了",
+            "en": "Crying",
+            "ja": "泣き",
+            "ko": "운다"
+          },
           "fileName": "1F622.png"
         },
         {
           "id": "openmoji_sad_cry_1f62d",
           "title": "爆哭",
+          "localizedTitles": {
+            "zh-Hans": "爆哭",
+            "zh-Hant": "爆哭",
+            "en": "Sobbing",
+            "ja": "大泣き",
+            "ko": "펑펑 울기"
+          },
           "fileName": "1F62D.png"
         },
         {
           "id": "openmoji_sad_cry_1f63f",
           "title": "猫哭哭",
+          "localizedTitles": {
+            "zh-Hans": "猫哭哭",
+            "zh-Hant": "貓哭哭",
+            "en": "Crying Cat",
+            "ja": "泣き猫",
+            "ko": "우는 고양이"
+          },
           "fileName": "1F63F.png"
         },
         {
           "id": "openmoji_sad_cry_1f625",
           "title": "松口气哭",
+          "localizedTitles": {
+            "zh-Hans": "松口气哭",
+            "zh-Hant": "鬆口氣哭",
+            "en": "Relieved Cry",
+            "ja": "ほっと涙",
+            "ko": "안도의 눈물"
+          },
           "fileName": "1F625.png"
         },
         {
           "id": "openmoji_sad_cry_1f613",
           "title": "汗",
+          "localizedTitles": {
+            "zh-Hans": "汗",
+            "zh-Hant": "汗",
+            "en": "Sweat",
+            "ja": "冷や汗",
+            "ko": "식은땀"
+          },
           "fileName": "1F613.png"
         },
         {
           "id": "openmoji_sad_cry_1f494",
           "title": "心碎",
+          "localizedTitles": {
+            "zh-Hans": "心碎",
+            "zh-Hant": "心碎",
+            "en": "Broken Heart",
+            "ja": "失恋",
+            "ko": "마음이 깨짐"
+          },
           "fileName": "1F494.png"
         },
         {
           "id": "openmoji_angry_grumpy_1f620",
           "title": "生气",
+          "localizedTitles": {
+            "zh-Hans": "生气",
+            "zh-Hant": "生氣",
+            "en": "Angry",
+            "ja": "怒り",
+            "ko": "화남"
+          },
           "fileName": "1F620.png"
         },
         {
           "id": "openmoji_angry_grumpy_1f621",
           "title": "气炸",
+          "localizedTitles": {
+            "zh-Hans": "气炸",
+            "zh-Hant": "氣炸",
+            "en": "Furious",
+            "ja": "激怒",
+            "ko": "폭발"
+          },
           "fileName": "1F621.png"
         },
         {
           "id": "openmoji_angry_grumpy_1f624",
           "title": "哼",
+          "localizedTitles": {
+            "zh-Hans": "哼",
+            "zh-Hant": "哼",
+            "en": "Hmph",
+            "ja": "ふんっ",
+            "ko": "흥"
+          },
           "fileName": "1F624.png"
         },
         {
           "id": "openmoji_angry_grumpy_1f92c",
           "title": "骂骂咧咧",
+          "localizedTitles": {
+            "zh-Hans": "骂骂咧咧",
+            "zh-Hant": "罵罵咧咧",
+            "en": "Swearing",
+            "ja": "悪態",
+            "ko": "욕하기"
+          },
           "fileName": "1F92C.png"
         },
         {
           "id": "openmoji_angry_grumpy_1f608",
           "title": "小恶魔",
+          "localizedTitles": {
+            "zh-Hans": "小恶魔",
+            "zh-Hant": "小惡魔",
+            "en": "Devil",
+            "ja": "小悪魔",
+            "ko": "꼬마 악마"
+          },
           "fileName": "1F608.png"
         },
         {
           "id": "openmoji_angry_grumpy_1f47f",
           "title": "大恶魔",
+          "localizedTitles": {
+            "zh-Hans": "大恶魔",
+            "zh-Hant": "大惡魔",
+            "en": "Angry Devil",
+            "ja": "大悪魔",
+            "ko": "큰 악마"
+          },
           "fileName": "1F47F.png"
         },
         {
           "id": "openmoji_angry_grumpy_1f63e",
           "title": "猫生气",
+          "localizedTitles": {
+            "zh-Hans": "猫生气",
+            "zh-Hant": "貓生氣",
+            "en": "Angry Cat",
+            "ja": "怒り猫",
+            "ko": "화난 고양이"
+          },
           "fileName": "1F63E.png"
         },
         {
           "id": "openmoji_angry_grumpy_1f4a2",
           "title": "怒筋",
+          "localizedTitles": {
+            "zh-Hans": "怒筋",
+            "zh-Hant": "怒筋",
+            "en": "Vein Pop",
+            "ja": "怒りマーク",
+            "ko": "핏줄 터짐"
+          },
           "fileName": "1F4A2.png"
         },
         {
           "id": "openmoji_angry_grumpy_1f44e",
           "title": "不行",
+          "localizedTitles": {
+            "zh-Hans": "不行",
+            "zh-Hant": "不行",
+            "en": "Thumbs Down",
+            "ja": "ダメ",
+            "ko": "안 돼"
+          },
           "fileName": "1F44E.png"
         },
         {
           "id": "openmoji_angry_grumpy_1f595",
           "title": "中指",
+          "localizedTitles": {
+            "zh-Hans": "中指",
+            "zh-Hant": "中指",
+            "en": "Middle Finger",
+            "ja": "中指",
+            "ko": "중지"
+          },
           "fileName": "1F595.png"
         },
         {
           "id": "openmoji_angry_grumpy_1f525",
           "title": "火大",
+          "localizedTitles": {
+            "zh-Hans": "火大",
+            "zh-Hant": "火大",
+            "en": "On Fire",
+            "ja": "激怒炎",
+            "ko": "불붙음"
+          },
           "fileName": "1F525.png"
         },
         {
           "id": "openmoji_angry_grumpy_1f4a3",
           "title": "炸弹",
+          "localizedTitles": {
+            "zh-Hans": "炸弹",
+            "zh-Hant": "炸彈",
+            "en": "Bomb",
+            "ja": "爆弾",
+            "ko": "폭탄"
+          },
           "fileName": "1F4A3.png"
         },
         {
           "id": "openmoji_shock_panic_1f62e",
           "title": "惊讶",
+          "localizedTitles": {
+            "zh-Hans": "惊讶",
+            "zh-Hant": "驚訝",
+            "en": "Surprised",
+            "ja": "びっくり",
+            "ko": "놀람"
+          },
           "fileName": "1F62E.png"
         },
         {
           "id": "openmoji_shock_panic_1f62f",
           "title": "呆住",
+          "localizedTitles": {
+            "zh-Hans": "呆住",
+            "zh-Hant": "呆住",
+            "en": "Stunned",
+            "ja": "呆然",
+            "ko": "멍해짐"
+          },
           "fileName": "1F62F.png"
         },
         {
           "id": "openmoji_shock_panic_1f632",
           "title": "震惊",
+          "localizedTitles": {
+            "zh-Hans": "震惊",
+            "zh-Hant": "震驚",
+            "en": "Shocked",
+            "ja": "衝撃",
+            "ko": "충격"
+          },
           "fileName": "1F632.png"
         },
         {
           "id": "openmoji_shock_panic_1f633",
           "title": "脸红",
+          "localizedTitles": {
+            "zh-Hans": "脸红",
+            "zh-Hant": "臉紅",
+            "en": "Flushed",
+            "ja": "赤面",
+            "ko": "얼굴 붉어짐"
+          },
           "fileName": "1F633.png"
         },
         {
           "id": "openmoji_shock_panic_1f626",
           "title": "啊这",
+          "localizedTitles": {
+            "zh-Hans": "啊这",
+            "zh-Hant": "啊這",
+            "en": "Oh No",
+            "ja": "ええっ",
+            "ko": "어 이런"
+          },
           "fileName": "1F626.png"
         },
         {
           "id": "openmoji_shock_panic_1f627",
           "title": "慌了",
+          "localizedTitles": {
+            "zh-Hans": "慌了",
+            "zh-Hant": "慌了",
+            "en": "Panicking",
+            "ja": "パニック",
+            "ko": "당황"
+          },
           "fileName": "1F627.png"
         },
         {
           "id": "openmoji_shock_panic_1f628",
           "title": "害怕",
+          "localizedTitles": {
+            "zh-Hans": "害怕",
+            "zh-Hant": "害怕",
+            "en": "Scared",
+            "ja": "恐怖",
+            "ko": "두려움"
+          },
           "fileName": "1F628.png"
         },
         {
           "id": "openmoji_shock_panic_1f630",
           "title": "冷汗",
+          "localizedTitles": {
+            "zh-Hans": "冷汗",
+            "zh-Hant": "冷汗",
+            "en": "Cold Sweat",
+            "ja": "冷や汗",
+            "ko": "식은땀"
+          },
           "fileName": "1F630.png"
         },
         {
           "id": "openmoji_shock_panic_1f631",
           "title": "尖叫",
+          "localizedTitles": {
+            "zh-Hans": "尖叫",
+            "zh-Hant": "尖叫",
+            "en": "Screaming",
+            "ja": "悲鳴",
+            "ko": "비명"
+          },
           "fileName": "1F631.png"
         },
         {
           "id": "openmoji_shock_panic_1fae8",
           "title": "震动脸",
+          "localizedTitles": {
+            "zh-Hans": "震动脸",
+            "zh-Hant": "震動臉",
+            "en": "Shaking Face",
+            "ja": "揺れる顔",
+            "ko": "흔들리는 얼굴"
+          },
           "fileName": "1FAE8.png"
         },
         {
           "id": "openmoji_shock_panic_1f640",
           "title": "猫震惊",
+          "localizedTitles": {
+            "zh-Hans": "猫震惊",
+            "zh-Hant": "貓震驚",
+            "en": "Shocked Cat",
+            "ja": "驚き猫",
+            "ko": "충격 고양이"
+          },
           "fileName": "1F640.png"
         },
         {
           "id": "openmoji_shock_panic_1f92f",
           "title": "脑壳炸",
+          "localizedTitles": {
+            "zh-Hans": "脑壳炸",
+            "zh-Hant": "腦殼炸",
+            "en": "Mind Blown",
+            "ja": "頭爆発",
+            "ko": "머리 폭발"
+          },
           "fileName": "1F92F.png"
         },
         {
           "id": "openmoji_tired_sleepy_1f62a",
           "title": "困了",
+          "localizedTitles": {
+            "zh-Hans": "困了",
+            "zh-Hant": "睏了",
+            "en": "Sleepy",
+            "ja": "眠い",
+            "ko": "졸림"
+          },
           "fileName": "1F62A.png"
         },
         {
           "id": "openmoji_tired_sleepy_1f634",
           "title": "睡着",
+          "localizedTitles": {
+            "zh-Hans": "睡着",
+            "zh-Hant": "睡著",
+            "en": "Asleep",
+            "ja": "寝ている",
+            "ko": "잠듦"
+          },
           "fileName": "1F634.png"
         },
         {
           "id": "openmoji_tired_sleepy_1f971",
           "title": "哈欠",
+          "localizedTitles": {
+            "zh-Hans": "哈欠",
+            "zh-Hant": "哈欠",
+            "en": "Yawning",
+            "ja": "あくび",
+            "ko": "하품"
+          },
           "fileName": "1F971.png"
         },
         {
           "id": "openmoji_tired_sleepy_1f629",
           "title": "累麻了",
+          "localizedTitles": {
+            "zh-Hans": "累麻了",
+            "zh-Hant": "累麻了",
+            "en": "Dead Tired",
+            "ja": "疲労困憊",
+            "ko": "녹초가 됨"
+          },
           "fileName": "1F629.png"
         },
         {
           "id": "openmoji_tired_sleepy_1f62b",
           "title": "疲惫",
+          "localizedTitles": {
+            "zh-Hans": "疲惫",
+            "zh-Hant": "疲憊",
+            "en": "Exhausted",
+            "ja": "疲れ切り",
+            "ko": "지침"
+          },
           "fileName": "1F62B.png"
         },
         {
           "id": "openmoji_tired_sleepy_1f924",
           "title": "流口水",
+          "localizedTitles": {
+            "zh-Hans": "流口水",
+            "zh-Hant": "流口水",
+            "en": "Drooling",
+            "ja": "よだれ",
+            "ko": "침 흘림"
+          },
           "fileName": "1F924.png"
         },
         {
           "id": "openmoji_tired_sleepy_1f635",
           "title": "晕了",
+          "localizedTitles": {
+            "zh-Hans": "晕了",
+            "zh-Hant": "暈了",
+            "en": "Dizzy KO",
+            "ja": "気絶",
+            "ko": "기절"
+          },
           "fileName": "1F635.png"
         },
         {
           "id": "openmoji_tired_sleepy_1f4a4",
           "title": "睡觉",
+          "localizedTitles": {
+            "zh-Hans": "睡觉",
+            "zh-Hant": "睡覺",
+            "en": "Zzz",
+            "ja": "睡眠",
+            "ko": "잠"
+          },
           "fileName": "1F4A4.png"
         },
         {
           "id": "openmoji_tired_sleepy_1f6cc",
           "title": "躺平",
+          "localizedTitles": {
+            "zh-Hans": "躺平",
+            "zh-Hant": "躺平",
+            "en": "Lying Down",
+            "ja": "寝そべり",
+            "ko": "눕기"
+          },
           "fileName": "1F6CC.png"
         },
         {
           "id": "openmoji_tired_sleepy_1f319",
           "title": "月亮",
+          "localizedTitles": {
+            "zh-Hans": "月亮",
+            "zh-Hant": "月亮",
+            "en": "Crescent Moon",
+            "ja": "三日月",
+            "ko": "초승달"
+          },
           "fileName": "1F319.png"
         },
         {
           "id": "openmoji_tired_sleepy_23f0",
           "title": "闹钟",
+          "localizedTitles": {
+            "zh-Hans": "闹钟",
+            "zh-Hant": "鬧鐘",
+            "en": "Alarm Clock",
+            "ja": "目覚まし時計",
+            "ko": "알람 시계"
+          },
           "fileName": "23F0.png"
         },
         {
           "id": "openmoji_tired_sleepy_2615",
           "title": "咖啡",
+          "localizedTitles": {
+            "zh-Hans": "咖啡",
+            "zh-Hant": "咖啡",
+            "en": "Coffee",
+            "ja": "コーヒー",
+            "ko": "커피"
+          },
           "fileName": "2615.png"
         },
         {
           "id": "openmoji_sick_care_1f637",
           "title": "口罩",
+          "localizedTitles": {
+            "zh-Hans": "口罩",
+            "zh-Hant": "口罩",
+            "en": "Mask",
+            "ja": "マスク",
+            "ko": "마스크"
+          },
           "fileName": "1F637.png"
         },
         {
           "id": "openmoji_sick_care_1f912",
           "title": "发烧",
+          "localizedTitles": {
+            "zh-Hans": "发烧",
+            "zh-Hant": "發燒",
+            "en": "Fever",
+            "ja": "熱",
+            "ko": "발열"
+          },
           "fileName": "1F912.png"
         },
         {
           "id": "openmoji_sick_care_1f915",
           "title": "受伤",
+          "localizedTitles": {
+            "zh-Hans": "受伤",
+            "zh-Hant": "受傷",
+            "en": "Bandage",
+            "ja": "怪我",
+            "ko": "부상"
+          },
           "fileName": "1F915.png"
         },
         {
           "id": "openmoji_sick_care_1f922",
           "title": "想吐",
+          "localizedTitles": {
+            "zh-Hans": "想吐",
+            "zh-Hant": "想吐",
+            "en": "Nauseous",
+            "ja": "吐き気",
+            "ko": "메스꺼움"
+          },
           "fileName": "1F922.png"
         },
         {
           "id": "openmoji_sick_care_1f92e",
           "title": "呕吐",
+          "localizedTitles": {
+            "zh-Hans": "呕吐",
+            "zh-Hant": "嘔吐",
+            "en": "Vomiting",
+            "ja": "嘔吐",
+            "ko": "토하기"
+          },
           "fileName": "1F92E.png"
         },
         {
           "id": "openmoji_sick_care_1f927",
           "title": "喷嚏",
+          "localizedTitles": {
+            "zh-Hans": "喷嚏",
+            "zh-Hant": "噴嚏",
+            "en": "Sneeze",
+            "ja": "くしゃみ",
+            "ko": "재채기"
+          },
           "fileName": "1F927.png"
         },
         {
           "id": "openmoji_sick_care_1f975",
           "title": "热晕",
+          "localizedTitles": {
+            "zh-Hans": "热晕",
+            "zh-Hant": "熱暈",
+            "en": "Overheated",
+            "ja": "熱中症",
+            "ko": "열사병"
+          },
           "fileName": "1F975.png"
         },
         {
           "id": "openmoji_sick_care_1f976",
           "title": "冷到抖",
+          "localizedTitles": {
+            "zh-Hans": "冷到抖",
+            "zh-Hant": "冷到抖",
+            "en": "Freezing",
+            "ja": "震えるほど寒い",
+            "ko": "덜덜 추위"
+          },
           "fileName": "1F976.png"
         },
         {
           "id": "openmoji_sick_care_1f9ca",
           "title": "冰块",
+          "localizedTitles": {
+            "zh-Hans": "冰块",
+            "zh-Hant": "冰塊",
+            "en": "Ice Cube",
+            "ja": "氷",
+            "ko": "얼음"
+          },
           "fileName": "1F9CA.png"
         },
         {
           "id": "openmoji_sick_care_1f321",
           "title": "温度计",
+          "localizedTitles": {
+            "zh-Hans": "温度计",
+            "zh-Hant": "溫度計",
+            "en": "Thermometer",
+            "ja": "体温計",
+            "ko": "체온계"
+          },
           "fileName": "1F321.png"
         },
         {
           "id": "openmoji_sick_care_1fa79",
           "title": "创可贴",
+          "localizedTitles": {
+            "zh-Hans": "创可贴",
+            "zh-Hant": "創可貼",
+            "en": "Band-Aid",
+            "ja": "絆創膏",
+            "ko": "반창고"
+          },
           "fileName": "1FA79.png"
         },
         {
           "id": "openmoji_sick_care_1f48a",
           "title": "药丸",
+          "localizedTitles": {
+            "zh-Hans": "药丸",
+            "zh-Hant": "藥丸",
+            "en": "Pill",
+            "ja": "薬",
+            "ko": "알약"
+          },
           "fileName": "1F48A.png"
         },
         {
           "id": "openmoji_party_celebrate_1f389",
           "title": "礼花",
+          "localizedTitles": {
+            "zh-Hans": "礼花",
+            "zh-Hant": "禮花",
+            "en": "Party Popper",
+            "ja": "クラッカー",
+            "ko": "폭죽"
+          },
           "fileName": "1F389.png"
         },
         {
           "id": "openmoji_party_celebrate_1f38a",
           "title": "彩带",
+          "localizedTitles": {
+            "zh-Hans": "彩带",
+            "zh-Hant": "彩帶",
+            "en": "Confetti Ball",
+            "ja": "紙吹雪",
+            "ko": "색종이"
+          },
           "fileName": "1F38A.png"
         },
         {
           "id": "openmoji_party_celebrate_1f38f",
           "title": "鲤鱼旗",
+          "localizedTitles": {
+            "zh-Hans": "鲤鱼旗",
+            "zh-Hant": "鯉魚旗",
+            "en": "Carp Streamer",
+            "ja": "鯉のぼり",
+            "ko": "잉어 연"
+          },
           "fileName": "1F38F.png"
         },
         {
           "id": "openmoji_party_celebrate_1f381",
           "title": "礼物",
+          "localizedTitles": {
+            "zh-Hans": "礼物",
+            "zh-Hant": "禮物",
+            "en": "Gift",
+            "ja": "プレゼント",
+            "ko": "선물"
+          },
           "fileName": "1F381.png"
         },
         {
           "id": "openmoji_party_celebrate_1f382",
           "title": "蛋糕",
+          "localizedTitles": {
+            "zh-Hans": "蛋糕",
+            "zh-Hant": "蛋糕",
+            "en": "Birthday Cake",
+            "ja": "バースデーケーキ",
+            "ko": "생일 케이크"
+          },
           "fileName": "1F382.png"
         },
         {
           "id": "openmoji_party_celebrate_1f37e",
           "title": "香槟",
+          "localizedTitles": {
+            "zh-Hans": "香槟",
+            "zh-Hant": "香檳",
+            "en": "Champagne",
+            "ja": "シャンパン",
+            "ko": "샴페인"
+          },
           "fileName": "1F37E.png"
         },
         {
           "id": "openmoji_party_celebrate_1f942",
           "title": "碰杯",
+          "localizedTitles": {
+            "zh-Hans": "碰杯",
+            "zh-Hant": "碰杯",
+            "en": "Clinking Glasses",
+            "ja": "乾杯",
+            "ko": "건배"
+          },
           "fileName": "1F942.png"
         },
         {
           "id": "openmoji_party_celebrate_1f64c",
           "title": "好耶",
+          "localizedTitles": {
+            "zh-Hans": "好耶",
+            "zh-Hant": "好耶",
+            "en": "Hooray",
+            "ja": "イエイ",
+            "ko": "만세"
+          },
           "fileName": "1F64C.png"
         },
         {
           "id": "openmoji_party_celebrate_1f44f",
           "title": "鼓掌",
+          "localizedTitles": {
+            "zh-Hans": "鼓掌",
+            "zh-Hant": "鼓掌",
+            "en": "Clapping",
+            "ja": "拍手",
+            "ko": "박수"
+          },
           "fileName": "1F44F.png"
         },
         {
           "id": "openmoji_party_celebrate_1f4af",
           "title": "满分",
+          "localizedTitles": {
+            "zh-Hans": "满分",
+            "zh-Hant": "滿分",
+            "en": "Hundred Points",
+            "ja": "100点満点",
+            "ko": "100점 만점"
+          },
           "fileName": "1F4AF.png"
         },
         {
           "id": "openmoji_cool_swag_1f60e",
           "title": "墨镜",
+          "localizedTitles": {
+            "zh-Hans": "墨镜",
+            "zh-Hant": "墨鏡",
+            "en": "Sunglasses",
+            "ja": "サングラス",
+            "ko": "선글라스"
+          },
           "fileName": "1F60E.png"
         },
         {
           "id": "openmoji_cool_swag_1f920",
           "title": "牛仔",
+          "localizedTitles": {
+            "zh-Hans": "牛仔",
+            "zh-Hant": "牛仔",
+            "en": "Cowboy",
+            "ja": "カウボーイ",
+            "ko": "카우보이"
+          },
           "fileName": "1F920.png"
         },
         {
           "id": "openmoji_cool_swag_1f978",
           "title": "伪装",
+          "localizedTitles": {
+            "zh-Hans": "伪装",
+            "zh-Hant": "偽裝",
+            "en": "Disguise",
+            "ja": "変装",
+            "ko": "변장"
+          },
           "fileName": "1F978.png"
         },
         {
           "id": "openmoji_cool_swag_1f913",
           "title": "学霸",
+          "localizedTitles": {
+            "zh-Hans": "学霸",
+            "zh-Hant": "學霸",
+            "en": "Nerd",
+            "ja": "ガリ勉",
+            "ko": "범생"
+          },
           "fileName": "1F913.png"
         },
         {
           "id": "openmoji_cool_swag_1f9d0",
           "title": "研究中",
+          "localizedTitles": {
+            "zh-Hans": "研究中",
+            "zh-Hant": "研究中",
+            "en": "Studying",
+            "ja": "研究中",
+            "ko": "연구 중"
+          },
           "fileName": "1F9D0.png"
         },
         {
           "id": "openmoji_cool_swag_1f575",
           "title": "侦探",
+          "localizedTitles": {
+            "zh-Hans": "侦探",
+            "zh-Hant": "偵探",
+            "en": "Detective",
+            "ja": "探偵",
+            "ko": "탐정"
+          },
           "fileName": "1F575.png"
         },
         {
           "id": "openmoji_cool_swag_1f3a9",
           "title": "礼帽",
+          "localizedTitles": {
+            "zh-Hans": "礼帽",
+            "zh-Hant": "禮帽",
+            "en": "Top Hat",
+            "ja": "シルクハット",
+            "ko": "실크햇"
+          },
           "fileName": "1F3A9.png"
         },
         {
           "id": "openmoji_cool_swag_1f451",
           "title": "王冠",
+          "localizedTitles": {
+            "zh-Hans": "王冠",
+            "zh-Hant": "王冠",
+            "en": "Crown",
+            "ja": "王冠",
+            "ko": "왕관"
+          },
           "fileName": "1F451.png"
         },
         {
           "id": "openmoji_cool_swag_1f48e",
           "title": "钻石",
+          "localizedTitles": {
+            "zh-Hans": "钻石",
+            "zh-Hant": "鑽石",
+            "en": "Diamond",
+            "ja": "ダイヤモンド",
+            "ko": "다이아몬드"
+          },
           "fileName": "1F48E.png"
         },
         {
           "id": "openmoji_cool_swag_1f680",
           "title": "起飞",
+          "localizedTitles": {
+            "zh-Hans": "起飞",
+            "zh-Hant": "起飛",
+            "en": "Rocket",
+            "ja": "ロケット",
+            "ko": "로켓"
+          },
           "fileName": "1F680.png"
         },
         {
           "id": "openmoji_cool_swag_1f3c6",
           "title": "奖杯",
+          "localizedTitles": {
+            "zh-Hans": "奖杯",
+            "zh-Hant": "獎盃",
+            "en": "Trophy",
+            "ja": "トロフィー",
+            "ko": "트로피"
+          },
           "fileName": "1F3C6.png"
         },
         {
           "id": "openmoji_work_office_1f4bb",
           "title": "电脑",
+          "localizedTitles": {
+            "zh-Hans": "电脑",
+            "zh-Hant": "電腦",
+            "en": "Laptop",
+            "ja": "ノートPC",
+            "ko": "노트북"
+          },
           "fileName": "1F4BB.png"
         },
         {
           "id": "openmoji_work_office_1f5a5",
           "title": "台式机",
+          "localizedTitles": {
+            "zh-Hans": "台式机",
+            "zh-Hant": "桌上型電腦",
+            "en": "Desktop",
+            "ja": "デスクトップ",
+            "ko": "데스크톱"
+          },
           "fileName": "1F5A5.png"
         },
         {
           "id": "openmoji_work_office_2328",
           "title": "键盘",
+          "localizedTitles": {
+            "zh-Hans": "键盘",
+            "zh-Hant": "鍵盤",
+            "en": "Keyboard",
+            "ja": "キーボード",
+            "ko": "키보드"
+          },
           "fileName": "2328.png"
         },
         {
           "id": "openmoji_work_office_1f5b1",
           "title": "鼠标",
+          "localizedTitles": {
+            "zh-Hans": "鼠标",
+            "zh-Hant": "滑鼠",
+            "en": "Mouse",
+            "ja": "マウス",
+            "ko": "마우스"
+          },
           "fileName": "1F5B1.png"
         },
         {
           "id": "openmoji_work_office_1f4c5",
           "title": "日历",
+          "localizedTitles": {
+            "zh-Hans": "日历",
+            "zh-Hant": "日曆",
+            "en": "Calendar",
+            "ja": "カレンダー",
+            "ko": "달력"
+          },
           "fileName": "1F4C5.png"
         },
         {
           "id": "openmoji_work_office_1f4cc",
           "title": "图钉",
+          "localizedTitles": {
+            "zh-Hans": "图钉",
+            "zh-Hant": "圖釘",
+            "en": "Pushpin",
+            "ja": "画鋲",
+            "ko": "압정"
+          },
           "fileName": "1F4CC.png"
         },
         {
           "id": "openmoji_work_office_1f4ce",
           "title": "回形针",
+          "localizedTitles": {
+            "zh-Hans": "回形针",
+            "zh-Hant": "迴紋針",
+            "en": "Paperclip",
+            "ja": "クリップ",
+            "ko": "클립"
+          },
           "fileName": "1F4CE.png"
         },
         {
           "id": "openmoji_work_office_1f4d1",
           "title": "标签页",
+          "localizedTitles": {
+            "zh-Hans": "标签页",
+            "zh-Hant": "標籤頁",
+            "en": "Bookmark",
+            "ja": "しおり",
+            "ko": "책갈피"
+          },
           "fileName": "1F4D1.png"
         },
         {
           "id": "openmoji_work_office_1f4ca",
           "title": "柱状图",
+          "localizedTitles": {
+            "zh-Hans": "柱状图",
+            "zh-Hant": "柱狀圖",
+            "en": "Bar Chart",
+            "ja": "棒グラフ",
+            "ko": "막대 그래프"
+          },
           "fileName": "1F4CA.png"
         },
         {
           "id": "openmoji_work_office_1f4c8",
           "title": "上涨",
+          "localizedTitles": {
+            "zh-Hans": "上涨",
+            "zh-Hant": "上漲",
+            "en": "Chart Up",
+            "ja": "上昇グラフ",
+            "ko": "상승 그래프"
+          },
           "fileName": "1F4C8.png"
         },
         {
           "id": "openmoji_work_office_1f4e7",
           "title": "邮件",
+          "localizedTitles": {
+            "zh-Hans": "邮件",
+            "zh-Hant": "郵件",
+            "en": "Email",
+            "ja": "メール",
+            "ko": "이메일"
+          },
           "fileName": "1F4E7.png"
         },
         {
           "id": "openmoji_study_focus_1f4da",
           "title": "书堆",
+          "localizedTitles": {
+            "zh-Hans": "书堆",
+            "zh-Hant": "書堆",
+            "en": "Stack of Books",
+            "ja": "本の山",
+            "ko": "책 더미"
+          },
           "fileName": "1F4DA.png"
         },
         {
           "id": "openmoji_study_focus_1f4d6",
           "title": "打开书",
+          "localizedTitles": {
+            "zh-Hans": "打开书",
+            "zh-Hant": "打開書",
+            "en": "Open Book",
+            "ja": "開いた本",
+            "ko": "펼친 책"
+          },
           "fileName": "1F4D6.png"
         },
         {
           "id": "openmoji_study_focus_1f4dd",
           "title": "笔记",
+          "localizedTitles": {
+            "zh-Hans": "笔记",
+            "zh-Hant": "筆記",
+            "en": "Notes",
+            "ja": "メモ",
+            "ko": "메모"
+          },
           "fileName": "1F4DD.png"
         },
         {
           "id": "openmoji_study_focus_270f",
           "title": "铅笔",
+          "localizedTitles": {
+            "zh-Hans": "铅笔",
+            "zh-Hant": "鉛筆",
+            "en": "Pencil",
+            "ja": "鉛筆",
+            "ko": "연필"
+          },
           "fileName": "270F.png"
         },
         {
           "id": "openmoji_study_focus_1f50d",
           "title": "搜索",
+          "localizedTitles": {
+            "zh-Hans": "搜索",
+            "zh-Hant": "搜尋",
+            "en": "Search",
+            "ja": "検索",
+            "ko": "검색"
+          },
           "fileName": "1F50D.png"
         },
         {
           "id": "openmoji_study_focus_1f9e0",
           "title": "大脑",
+          "localizedTitles": {
+            "zh-Hans": "大脑",
+            "zh-Hant": "大腦",
+            "en": "Brain",
+            "ja": "脳",
+            "ko": "뇌"
+          },
           "fileName": "1F9E0.png"
         },
         {
           "id": "openmoji_study_focus_1f393",
           "title": "毕业帽",
+          "localizedTitles": {
+            "zh-Hans": "毕业帽",
+            "zh-Hant": "畢業帽",
+            "en": "Graduation Cap",
+            "ja": "卒業帽",
+            "ko": "학사모"
+          },
           "fileName": "1F393.png"
         },
         {
           "id": "openmoji_study_focus_1f3eb",
           "title": "学校",
+          "localizedTitles": {
+            "zh-Hans": "学校",
+            "zh-Hant": "學校",
+            "en": "School",
+            "ja": "学校",
+            "ko": "학교"
+          },
           "fileName": "1F3EB.png"
         },
         {
           "id": "openmoji_study_focus_1f52c",
           "title": "显微镜",
+          "localizedTitles": {
+            "zh-Hans": "显微镜",
+            "zh-Hant": "顯微鏡",
+            "en": "Microscope",
+            "ja": "顕微鏡",
+            "ko": "현미경"
+          },
           "fileName": "1F52C.png"
         },
         {
           "id": "openmoji_study_focus_1f4a1",
           "title": "灵感",
+          "localizedTitles": {
+            "zh-Hans": "灵感",
+            "zh-Hant": "靈感",
+            "en": "Idea",
+            "ja": "ひらめき",
+            "ko": "아이디어"
+          },
           "fileName": "1F4A1.png"
         },
         {
           "id": "openmoji_study_focus_23f3",
           "title": "沙漏",
+          "localizedTitles": {
+            "zh-Hans": "沙漏",
+            "zh-Hant": "沙漏",
+            "en": "Hourglass",
+            "ja": "砂時計",
+            "ko": "모래시계"
+          },
           "fileName": "23F3.png"
         },
         {
           "id": "openmoji_money_rich_1f911",
           "title": "财迷",
+          "localizedTitles": {
+            "zh-Hans": "财迷",
+            "zh-Hant": "財迷",
+            "en": "Money Face",
+            "ja": "金勘定",
+            "ko": "돈 밝히는 얼굴"
+          },
           "fileName": "1F911.png"
         },
         {
           "id": "openmoji_money_rich_1f4b0",
           "title": "钱袋",
+          "localizedTitles": {
+            "zh-Hans": "钱袋",
+            "zh-Hant": "錢袋",
+            "en": "Money Bag",
+            "ja": "お金袋",
+            "ko": "돈 주머니"
+          },
           "fileName": "1F4B0.png"
         },
         {
           "id": "openmoji_money_rich_1f4b5",
           "title": "美元",
+          "localizedTitles": {
+            "zh-Hans": "美元",
+            "zh-Hant": "美元",
+            "en": "Dollar Bill",
+            "ja": "ドル札",
+            "ko": "달러 지폐"
+          },
           "fileName": "1F4B5.png"
         },
         {
           "id": "openmoji_money_rich_1fa99",
           "title": "硬币",
+          "localizedTitles": {
+            "zh-Hans": "硬币",
+            "zh-Hant": "硬幣",
+            "en": "Coin",
+            "ja": "コイン",
+            "ko": "동전"
+          },
           "fileName": "1FA99.png"
         },
         {
           "id": "openmoji_money_rich_1f4b3",
           "title": "银行卡",
+          "localizedTitles": {
+            "zh-Hans": "银行卡",
+            "zh-Hant": "銀行卡",
+            "en": "Credit Card",
+            "ja": "クレジットカード",
+            "ko": "신용카드"
+          },
           "fileName": "1F4B3.png"
         },
         {
           "id": "openmoji_money_rich_1f4b8",
           "title": "钱飞了",
+          "localizedTitles": {
+            "zh-Hans": "钱飞了",
+            "zh-Hant": "錢飛了",
+            "en": "Money Flying",
+            "ja": "お金が飛ぶ",
+            "ko": "돈이 날아감"
+          },
           "fileName": "1F4B8.png"
         },
         {
           "id": "openmoji_money_rich_1f9fe",
           "title": "账单",
+          "localizedTitles": {
+            "zh-Hans": "账单",
+            "zh-Hant": "帳單",
+            "en": "Receipt",
+            "ja": "レシート",
+            "ko": "영수증"
+          },
           "fileName": "1F9FE.png"
         },
         {
           "id": "openmoji_money_rich_1f3e6",
           "title": "银行",
+          "localizedTitles": {
+            "zh-Hans": "银行",
+            "zh-Hant": "銀行",
+            "en": "Bank",
+            "ja": "銀行",
+            "ko": "은행"
+          },
           "fileName": "1F3E6.png"
         },
         {
           "id": "openmoji_money_rich_1f947",
           "title": "金牌",
+          "localizedTitles": {
+            "zh-Hans": "金牌",
+            "zh-Hant": "金牌",
+            "en": "Gold Medal",
+            "ja": "金メダル",
+            "ko": "금메달"
+          },
           "fileName": "1F947.png"
         },
         {
           "id": "openmoji_money_rich_1f3af",
           "title": "命中",
+          "localizedTitles": {
+            "zh-Hans": "命中",
+            "zh-Hant": "命中",
+            "en": "Bullseye",
+            "ja": "的中",
+            "ko": "명중"
+          },
           "fileName": "1F3AF.png"
         },
         {
           "id": "openmoji_food_snack_1f354",
           "title": "汉堡",
+          "localizedTitles": {
+            "zh-Hans": "汉堡",
+            "zh-Hant": "漢堡",
+            "en": "Burger",
+            "ja": "ハンバーガー",
+            "ko": "햄버거"
+          },
           "fileName": "1F354.png"
         },
         {
           "id": "openmoji_food_snack_1f35f",
           "title": "薯条",
+          "localizedTitles": {
+            "zh-Hans": "薯条",
+            "zh-Hant": "薯條",
+            "en": "Fries",
+            "ja": "フライドポテト",
+            "ko": "감자튀김"
+          },
           "fileName": "1F35F.png"
         },
         {
           "id": "openmoji_food_snack_1f355",
           "title": "披萨",
+          "localizedTitles": {
+            "zh-Hans": "披萨",
+            "zh-Hant": "披薩",
+            "en": "Pizza",
+            "ja": "ピザ",
+            "ko": "피자"
+          },
           "fileName": "1F355.png"
         },
         {
           "id": "openmoji_food_snack_1f32d",
           "title": "热狗",
+          "localizedTitles": {
+            "zh-Hans": "热狗",
+            "zh-Hant": "熱狗",
+            "en": "Hot Dog",
+            "ja": "ホットドッグ",
+            "ko": "핫도그"
+          },
           "fileName": "1F32D.png"
         },
         {
           "id": "openmoji_food_snack_1f96a",
           "title": "三明治",
+          "localizedTitles": {
+            "zh-Hans": "三明治",
+            "zh-Hant": "三明治",
+            "en": "Sandwich",
+            "ja": "サンドイッチ",
+            "ko": "샌드위치"
+          },
           "fileName": "1F96A.png"
         },
         {
           "id": "openmoji_food_snack_1f32e",
           "title": "卷饼",
+          "localizedTitles": {
+            "zh-Hans": "卷饼",
+            "zh-Hant": "卷餅",
+            "en": "Burrito",
+            "ja": "ブリトー",
+            "ko": "부리토"
+          },
           "fileName": "1F32E.png"
         },
         {
           "id": "openmoji_food_snack_1f35c",
           "title": "拉面",
+          "localizedTitles": {
+            "zh-Hans": "拉面",
+            "zh-Hant": "拉麵",
+            "en": "Ramen",
+            "ja": "ラーメン",
+            "ko": "라멘"
+          },
           "fileName": "1F35C.png"
         },
         {
           "id": "openmoji_food_snack_1f363",
           "title": "寿司",
+          "localizedTitles": {
+            "zh-Hans": "寿司",
+            "zh-Hant": "壽司",
+            "en": "Sushi",
+            "ja": "寿司",
+            "ko": "초밥"
+          },
           "fileName": "1F363.png"
         },
         {
           "id": "openmoji_food_snack_1f366",
           "title": "冰淇淋",
+          "localizedTitles": {
+            "zh-Hans": "冰淇淋",
+            "zh-Hant": "冰淇淋",
+            "en": "Ice Cream",
+            "ja": "アイスクリーム",
+            "ko": "아이스크림"
+          },
           "fileName": "1F366.png"
         },
         {
           "id": "openmoji_food_snack_1f369",
           "title": "甜甜圈",
+          "localizedTitles": {
+            "zh-Hans": "甜甜圈",
+            "zh-Hant": "甜甜圈",
+            "en": "Donut",
+            "ja": "ドーナツ",
+            "ko": "도넛"
+          },
           "fileName": "1F369.png"
         },
         {
           "id": "openmoji_food_snack_1f36a",
           "title": "饼干",
+          "localizedTitles": {
+            "zh-Hans": "饼干",
+            "zh-Hant": "餅乾",
+            "en": "Cookie",
+            "ja": "クッキー",
+            "ko": "쿠키"
+          },
           "fileName": "1F36A.png"
         },
         {
           "id": "openmoji_food_snack_1f37f",
           "title": "爆米花",
+          "localizedTitles": {
+            "zh-Hans": "爆米花",
+            "zh-Hant": "爆米花",
+            "en": "Popcorn",
+            "ja": "ポップコーン",
+            "ko": "팝콘"
+          },
           "fileName": "1F37F.png"
         },
         {
           "id": "openmoji_drinks_dessert_1f375",
           "title": "茶",
+          "localizedTitles": {
+            "zh-Hans": "茶",
+            "zh-Hant": "茶",
+            "en": "Tea",
+            "ja": "お茶",
+            "ko": "차"
+          },
           "fileName": "1F375.png"
         },
         {
           "id": "openmoji_drinks_dessert_1f9cb",
           "title": "珍珠奶茶",
+          "localizedTitles": {
+            "zh-Hans": "珍珠奶茶",
+            "zh-Hant": "珍珠奶茶",
+            "en": "Bubble Tea",
+            "ja": "タピオカ",
+            "ko": "버블티"
+          },
           "fileName": "1F9CB.png"
         },
         {
           "id": "openmoji_drinks_dessert_1f964",
           "title": "杯饮",
+          "localizedTitles": {
+            "zh-Hans": "杯饮",
+            "zh-Hant": "杯飲",
+            "en": "Cup Drink",
+            "ja": "カップ飲料",
+            "ko": "컵 음료"
+          },
           "fileName": "1F964.png"
         },
         {
           "id": "openmoji_drinks_dessert_1f9c3",
           "title": "牛奶",
+          "localizedTitles": {
+            "zh-Hans": "牛奶",
+            "zh-Hant": "牛奶",
+            "en": "Milk",
+            "ja": "牛乳",
+            "ko": "우유"
+          },
           "fileName": "1F9C3.png"
         },
         {
           "id": "openmoji_drinks_dessert_1f379",
           "title": "鸡尾酒",
+          "localizedTitles": {
+            "zh-Hans": "鸡尾酒",
+            "zh-Hant": "雞尾酒",
+            "en": "Cocktail",
+            "ja": "カクテル",
+            "ko": "칵테일"
+          },
           "fileName": "1F379.png"
         },
         {
           "id": "openmoji_drinks_dessert_1f37a",
           "title": "啤酒",
+          "localizedTitles": {
+            "zh-Hans": "啤酒",
+            "zh-Hant": "啤酒",
+            "en": "Beer",
+            "ja": "ビール",
+            "ko": "맥주"
+          },
           "fileName": "1F37A.png"
         },
         {
           "id": "openmoji_drinks_dessert_1f377",
           "title": "红酒",
+          "localizedTitles": {
+            "zh-Hans": "红酒",
+            "zh-Hant": "紅酒",
+            "en": "Wine",
+            "ja": "ワイン",
+            "ko": "와인"
+          },
           "fileName": "1F377.png"
         },
         {
           "id": "openmoji_drinks_dessert_1f370",
           "title": "蛋糕",
+          "localizedTitles": {
+            "zh-Hans": "蛋糕",
+            "zh-Hant": "蛋糕",
+            "en": "Cake",
+            "ja": "ケーキ",
+            "ko": "케이크"
+          },
           "fileName": "1F370.png"
         },
         {
           "id": "openmoji_drinks_dessert_1f9c1",
           "title": "杯子蛋糕",
+          "localizedTitles": {
+            "zh-Hans": "杯子蛋糕",
+            "zh-Hant": "杯子蛋糕",
+            "en": "Cupcake",
+            "ja": "カップケーキ",
+            "ko": "컵케이크"
+          },
           "fileName": "1F9C1.png"
         },
         {
           "id": "openmoji_drinks_dessert_1f36d",
           "title": "棒棒糖",
+          "localizedTitles": {
+            "zh-Hans": "棒棒糖",
+            "zh-Hant": "棒棒糖",
+            "en": "Lollipop",
+            "ja": "ペロペロキャンディ",
+            "ko": "막대사탕"
+          },
           "fileName": "1F36D.png"
         },
         {
           "id": "openmoji_drinks_dessert_1f36b",
           "title": "巧克力",
+          "localizedTitles": {
+            "zh-Hans": "巧克力",
+            "zh-Hant": "巧克力",
+            "en": "Chocolate",
+            "ja": "チョコレート",
+            "ko": "초콜릿"
+          },
           "fileName": "1F36B.png"
         },
         {
           "id": "openmoji_cat_faces_1f63a",
           "title": "猫猫笑",
+          "localizedTitles": {
+            "zh-Hans": "猫猫笑",
+            "zh-Hant": "貓貓笑",
+            "en": "Happy Cat",
+            "ja": "笑顔猫",
+            "ko": "웃는 고양이"
+          },
           "fileName": "1F63A.png"
         },
         {
           "id": "openmoji_cat_faces_1f63c",
           "title": "猫坏笑",
+          "localizedTitles": {
+            "zh-Hans": "猫坏笑",
+            "zh-Hant": "貓壞笑",
+            "en": "Smirking Cat",
+            "ja": "ニヤつき猫",
+            "ko": "씨익 웃는 고양이"
+          },
           "fileName": "1F63C.png"
         },
         {
           "id": "openmoji_cat_faces_1f431",
           "title": "猫脸",
+          "localizedTitles": {
+            "zh-Hans": "猫脸",
+            "zh-Hant": "貓臉",
+            "en": "Cat Face",
+            "ja": "猫の顔",
+            "ko": "고양이 얼굴"
+          },
           "fileName": "1F431.png"
         },
         {
           "id": "openmoji_cat_faces_1f408",
           "title": "猫",
+          "localizedTitles": {
+            "zh-Hans": "猫",
+            "zh-Hant": "貓",
+            "en": "Cat",
+            "ja": "猫",
+            "ko": "고양이"
+          },
           "fileName": "1F408.png"
         },
         {
           "id": "openmoji_cat_faces_1f43e",
           "title": "爪印",
+          "localizedTitles": {
+            "zh-Hans": "爪印",
+            "zh-Hant": "爪印",
+            "en": "Paw Prints",
+            "ja": "足跡",
+            "ko": "발자국"
+          },
           "fileName": "1F43E.png"
         },
         {
           "id": "openmoji_dog_pet_1f436",
           "title": "狗脸",
+          "localizedTitles": {
+            "zh-Hans": "狗脸",
+            "zh-Hant": "狗臉",
+            "en": "Dog Face",
+            "ja": "犬の顔",
+            "ko": "강아지 얼굴"
+          },
           "fileName": "1F436.png"
         },
         {
           "id": "openmoji_dog_pet_1f415",
           "title": "狗狗",
+          "localizedTitles": {
+            "zh-Hans": "狗狗",
+            "zh-Hant": "狗狗",
+            "en": "Dog",
+            "ja": "犬",
+            "ko": "강아지"
+          },
           "fileName": "1F415.png"
         },
         {
           "id": "openmoji_dog_pet_1f9ae",
           "title": "导盲犬",
+          "localizedTitles": {
+            "zh-Hans": "导盲犬",
+            "zh-Hant": "導盲犬",
+            "en": "Guide Dog",
+            "ja": "盲導犬",
+            "ko": "안내견"
+          },
           "fileName": "1F9AE.png"
         },
         {
           "id": "openmoji_dog_pet_1f415_200d_1f9ba",
           "title": "服务犬",
+          "localizedTitles": {
+            "zh-Hans": "服务犬",
+            "zh-Hant": "服務犬",
+            "en": "Service Dog",
+            "ja": "介助犬",
+            "ko": "서비스견"
+          },
           "fileName": "1F415-200D-1F9BA.png"
         },
         {
           "id": "openmoji_dog_pet_1f429",
           "title": "贵宾犬",
+          "localizedTitles": {
+            "zh-Hans": "贵宾犬",
+            "zh-Hant": "貴賓犬",
+            "en": "Poodle",
+            "ja": "プードル",
+            "ko": "푸들"
+          },
           "fileName": "1F429.png"
         },
         {
           "id": "openmoji_dog_pet_1f9b4",
           "title": "骨头",
+          "localizedTitles": {
+            "zh-Hans": "骨头",
+            "zh-Hant": "骨頭",
+            "en": "Bone",
+            "ja": "骨",
+            "ko": "뼈다귀"
+          },
           "fileName": "1F9B4.png"
         },
         {
           "id": "openmoji_dog_pet_1f3be",
           "title": "网球",
+          "localizedTitles": {
+            "zh-Hans": "网球",
+            "zh-Hant": "網球",
+            "en": "Tennis Ball",
+            "ja": "テニスボール",
+            "ko": "테니스공"
+          },
           "fileName": "1F3BE.png"
         },
         {
           "id": "openmoji_dog_pet_1f3c0",
           "title": "球球",
+          "localizedTitles": {
+            "zh-Hans": "球球",
+            "zh-Hant": "球球",
+            "en": "Ball",
+            "ja": "ボール",
+            "ko": "공"
+          },
           "fileName": "1F3C0.png"
         },
         {
           "id": "openmoji_dog_pet_1f6b6",
           "title": "散步",
+          "localizedTitles": {
+            "zh-Hans": "散步",
+            "zh-Hant": "散步",
+            "en": "Walking",
+            "ja": "お散歩",
+            "ko": "산책"
+          },
           "fileName": "1F6B6.png"
         },
         {
           "id": "openmoji_dog_pet_1f3e0",
           "title": "回家",
+          "localizedTitles": {
+            "zh-Hans": "回家",
+            "zh-Hant": "回家",
+            "en": "Go Home",
+            "ja": "帰宅",
+            "ko": "귀가"
+          },
           "fileName": "1F3E0.png"
         },
         {
           "id": "openmoji_dog_pet_2764",
           "title": "爱心",
+          "localizedTitles": {
+            "zh-Hans": "爱心",
+            "zh-Hant": "愛心",
+            "en": "Heart",
+            "ja": "ハート",
+            "ko": "하트"
+          },
           "fileName": "2764.png"
         },
         {
           "id": "openmoji_animal_cute_1f42d",
           "title": "老鼠",
+          "localizedTitles": {
+            "zh-Hans": "老鼠",
+            "zh-Hant": "老鼠",
+            "en": "Mouse",
+            "ja": "ネズミ",
+            "ko": "쥐"
+          },
           "fileName": "1F42D.png"
         },
         {
           "id": "openmoji_animal_cute_1f439",
           "title": "仓鼠",
+          "localizedTitles": {
+            "zh-Hans": "仓鼠",
+            "zh-Hant": "倉鼠",
+            "en": "Hamster",
+            "ja": "ハムスター",
+            "ko": "햄스터"
+          },
           "fileName": "1F439.png"
         },
         {
           "id": "openmoji_animal_cute_1f98a",
           "title": "狐狸",
+          "localizedTitles": {
+            "zh-Hans": "狐狸",
+            "zh-Hant": "狐狸",
+            "en": "Fox",
+            "ja": "キツネ",
+            "ko": "여우"
+          },
           "fileName": "1F98A.png"
         },
         {
           "id": "openmoji_animal_cute_1f42f",
           "title": "老虎",
+          "localizedTitles": {
+            "zh-Hans": "老虎",
+            "zh-Hant": "老虎",
+            "en": "Tiger",
+            "ja": "トラ",
+            "ko": "호랑이"
+          },
           "fileName": "1F42F.png"
         },
         {
           "id": "openmoji_animal_cute_1f981",
           "title": "狮子",
+          "localizedTitles": {
+            "zh-Hans": "狮子",
+            "zh-Hant": "獅子",
+            "en": "Lion",
+            "ja": "ライオン",
+            "ko": "사자"
+          },
           "fileName": "1F981.png"
         },
         {
           "id": "openmoji_animal_cute_1f42e",
           "title": "奶牛",
+          "localizedTitles": {
+            "zh-Hans": "奶牛",
+            "zh-Hant": "奶牛",
+            "en": "Cow",
+            "ja": "牛",
+            "ko": "젖소"
+          },
           "fileName": "1F42E.png"
         },
         {
           "id": "openmoji_animal_cute_1f437",
           "title": "小猪",
+          "localizedTitles": {
+            "zh-Hans": "小猪",
+            "zh-Hant": "小豬",
+            "en": "Pig",
+            "ja": "ブタ",
+            "ko": "아기 돼지"
+          },
           "fileName": "1F437.png"
         },
         {
           "id": "openmoji_animal_cute_1f438",
           "title": "青蛙",
+          "localizedTitles": {
+            "zh-Hans": "青蛙",
+            "zh-Hant": "青蛙",
+            "en": "Frog",
+            "ja": "カエル",
+            "ko": "개구리"
+          },
           "fileName": "1F438.png"
         },
         {
           "id": "openmoji_animal_wild_1f435",
           "title": "猴子",
+          "localizedTitles": {
+            "zh-Hans": "猴子",
+            "zh-Hant": "猴子",
+            "en": "Monkey",
+            "ja": "サル",
+            "ko": "원숭이"
+          },
           "fileName": "1F435.png"
         },
         {
           "id": "openmoji_animal_wild_1f98d",
           "title": "猩猩",
+          "localizedTitles": {
+            "zh-Hans": "猩猩",
+            "zh-Hant": "猩猩",
+            "en": "Gorilla",
+            "ja": "ゴリラ",
+            "ko": "고릴라"
+          },
           "fileName": "1F98D.png"
         },
         {
           "id": "openmoji_animal_wild_1f9a7",
           "title": "臭鼬",
+          "localizedTitles": {
+            "zh-Hans": "臭鼬",
+            "zh-Hant": "臭鼬",
+            "en": "Skunk",
+            "ja": "スカンク",
+            "ko": "스컹크"
+          },
           "fileName": "1F9A7.png"
         },
         {
           "id": "openmoji_animal_wild_1f43a",
           "title": "狼",
+          "localizedTitles": {
+            "zh-Hans": "狼",
+            "zh-Hant": "狼",
+            "en": "Wolf",
+            "ja": "オオカミ",
+            "ko": "늑대"
+          },
           "fileName": "1F43A.png"
         },
         {
           "id": "openmoji_animal_wild_1f417",
           "title": "野猪",
+          "localizedTitles": {
+            "zh-Hans": "野猪",
+            "zh-Hant": "野豬",
+            "en": "Boar",
+            "ja": "イノシシ",
+            "ko": "멧돼지"
+          },
           "fileName": "1F417.png"
         },
         {
           "id": "openmoji_animal_wild_1f434",
           "title": "马",
+          "localizedTitles": {
+            "zh-Hans": "马",
+            "zh-Hant": "馬",
+            "en": "Horse",
+            "ja": "馬",
+            "ko": "말"
+          },
           "fileName": "1F434.png"
         },
         {
           "id": "openmoji_animal_wild_1f993",
           "title": "斑马",
+          "localizedTitles": {
+            "zh-Hans": "斑马",
+            "zh-Hant": "斑馬",
+            "en": "Zebra",
+            "ja": "シマウマ",
+            "ko": "얼룩말"
+          },
           "fileName": "1F993.png"
         },
         {
           "id": "openmoji_animal_wild_1f98c",
           "title": "鹿",
+          "localizedTitles": {
+            "zh-Hans": "鹿",
+            "zh-Hant": "鹿",
+            "en": "Deer",
+            "ja": "鹿",
+            "ko": "사슴"
+          },
           "fileName": "1F98C.png"
         },
         {
           "id": "openmoji_animal_wild_1f9ac",
           "title": "野牛",
+          "localizedTitles": {
+            "zh-Hans": "野牛",
+            "zh-Hant": "野牛",
+            "en": "Bison",
+            "ja": "バイソン",
+            "ko": "들소"
+          },
           "fileName": "1F9AC.png"
         },
         {
           "id": "openmoji_animal_wild_1f418",
           "title": "大象",
+          "localizedTitles": {
+            "zh-Hans": "大象",
+            "zh-Hant": "大象",
+            "en": "Elephant",
+            "ja": "ゾウ",
+            "ko": "코끼리"
+          },
           "fileName": "1F418.png"
         },
         {
           "id": "openmoji_animal_wild_1f98f",
           "title": "犀牛",
+          "localizedTitles": {
+            "zh-Hans": "犀牛",
+            "zh-Hant": "犀牛",
+            "en": "Rhinoceros",
+            "ja": "サイ",
+            "ko": "코뿔소"
+          },
           "fileName": "1F98F.png"
         },
         {
           "id": "openmoji_animal_wild_1f99b",
           "title": "河马",
+          "localizedTitles": {
+            "zh-Hans": "河马",
+            "zh-Hant": "河馬",
+            "en": "Hippo",
+            "ja": "カバ",
+            "ko": "하마"
+          },
           "fileName": "1F99B.png"
         },
         {
           "id": "openmoji_hands_reply_1f44b",
           "title": "挥手",
+          "localizedTitles": {
+            "zh-Hans": "挥手",
+            "zh-Hant": "揮手",
+            "en": "Wave",
+            "ja": "手を振る",
+            "ko": "손 흔들기"
+          },
           "fileName": "1F44B.png"
         },
         {
           "id": "openmoji_hands_reply_1f91a",
           "title": "手背",
+          "localizedTitles": {
+            "zh-Hans": "手背",
+            "zh-Hant": "手背",
+            "en": "Raised Hand",
+            "ja": "手の甲",
+            "ko": "손등"
+          },
           "fileName": "1F91A.png"
         },
         {
           "id": "openmoji_hands_reply_1f590",
           "title": "五指",
+          "localizedTitles": {
+            "zh-Hans": "五指",
+            "zh-Hant": "五指",
+            "en": "High Five",
+            "ja": "両手",
+            "ko": "다섯 손가락"
+          },
           "fileName": "1F590.png"
         },
         {
           "id": "openmoji_hands_reply_270b",
           "title": "举手",
+          "localizedTitles": {
+            "zh-Hans": "举手",
+            "zh-Hant": "舉手",
+            "en": "Hand Up",
+            "ja": "手を挙げる",
+            "ko": "손 들기"
+          },
           "fileName": "270B.png"
         },
         {
           "id": "openmoji_hands_reply_1f596",
           "title": "瓦肯",
+          "localizedTitles": {
+            "zh-Hans": "瓦肯",
+            "zh-Hant": "瓦肯",
+            "en": "Vulcan Salute",
+            "ja": "バルカン式",
+            "ko": "벌컨 살롯"
+          },
           "fileName": "1F596.png"
         },
         {
           "id": "openmoji_hands_reply_1faf1",
           "title": "右手",
+          "localizedTitles": {
+            "zh-Hans": "右手",
+            "zh-Hant": "右手",
+            "en": "Right Hand",
+            "ja": "右手",
+            "ko": "오른손"
+          },
           "fileName": "1FAF1.png"
         },
         {
           "id": "openmoji_hands_reply_1f44c",
           "title": "OK",
+          "localizedTitles": {
+            "zh-Hans": "OK",
+            "zh-Hant": "OK",
+            "en": "OK",
+            "ja": "OK",
+            "ko": "OK"
+          },
           "fileName": "1F44C.png"
         },
         {
           "id": "openmoji_hands_reply_1f90c",
           "title": "捏手",
+          "localizedTitles": {
+            "zh-Hans": "捏手",
+            "zh-Hant": "捏手",
+            "en": "Pinch",
+            "ja": "つまむ",
+            "ko": "집기"
+          },
           "fileName": "1F90C.png"
         },
         {
           "id": "openmoji_hands_reply_1f90f",
           "title": "一点点",
+          "localizedTitles": {
+            "zh-Hans": "一点点",
+            "zh-Hant": "一點點",
+            "en": "Pinched",
+            "ja": "ちょっとだけ",
+            "ko": "조금"
+          },
           "fileName": "1F90F.png"
         },
         {
           "id": "openmoji_hands_reply_270c",
           "title": "胜利",
+          "localizedTitles": {
+            "zh-Hans": "胜利",
+            "zh-Hant": "勝利",
+            "en": "Victory",
+            "ja": "ピース",
+            "ko": "V"
+          },
           "fileName": "270C.png"
         },
         {
           "id": "openmoji_hands_reply_1f91e",
           "title": "交叉手指",
+          "localizedTitles": {
+            "zh-Hans": "交叉手指",
+            "zh-Hant": "交叉手指",
+            "en": "Fingers Crossed",
+            "ja": "指交差",
+            "ko": "손가락 교차"
+          },
           "fileName": "1F91E.png"
         },
         {
           "id": "openmoji_hands_reply_1faf0",
           "title": "手掌朝下",
+          "localizedTitles": {
+            "zh-Hans": "手掌朝下",
+            "zh-Hant": "手掌朝下",
+            "en": "Palm Down",
+            "ja": "手のひら下",
+            "ko": "손바닥 아래"
+          },
           "fileName": "1FAF0.png"
         },
         {
           "id": "openmoji_hands_action_1f44d",
           "title": "点赞",
+          "localizedTitles": {
+            "zh-Hans": "点赞",
+            "zh-Hant": "點讚",
+            "en": "Thumbs Up",
+            "ja": "いいね",
+            "ko": "좋아요"
+          },
           "fileName": "1F44D.png"
         },
         {
           "id": "openmoji_hands_action_270a",
           "title": "拳头",
+          "localizedTitles": {
+            "zh-Hans": "拳头",
+            "zh-Hant": "拳頭",
+            "en": "Fist",
+            "ja": "グー",
+            "ko": "주먹"
+          },
           "fileName": "270A.png"
         },
         {
           "id": "openmoji_hands_action_1f44a",
           "title": "出拳",
+          "localizedTitles": {
+            "zh-Hans": "出拳",
+            "zh-Hant": "出拳",
+            "en": "Punch",
+            "ja": "パンチ",
+            "ko": "펀치"
+          },
           "fileName": "1F44A.png"
         },
         {
           "id": "openmoji_hands_action_1f91b",
           "title": "左拳",
+          "localizedTitles": {
+            "zh-Hans": "左拳",
+            "zh-Hant": "左拳",
+            "en": "Left Fist",
+            "ja": "左パンチ",
+            "ko": "왼주먹"
+          },
           "fileName": "1F91B.png"
         },
         {
           "id": "openmoji_hands_action_1f91c",
           "title": "右拳",
+          "localizedTitles": {
+            "zh-Hans": "右拳",
+            "zh-Hant": "右拳",
+            "en": "Right Fist",
+            "ja": "右パンチ",
+            "ko": "오른주먹"
+          },
           "fileName": "1F91C.png"
         },
         {
           "id": "openmoji_hands_action_1faf6",
           "title": "爱心手",
+          "localizedTitles": {
+            "zh-Hans": "爱心手",
+            "zh-Hant": "愛心手",
+            "en": "Heart Hands",
+            "ja": "指ハート",
+            "ko": "손가락 하트"
+          },
           "fileName": "1FAF6.png"
         },
         {
           "id": "openmoji_hands_action_1f64f",
           "title": "求求",
+          "localizedTitles": {
+            "zh-Hans": "求求",
+            "zh-Hant": "求求",
+            "en": "Please",
+            "ja": "お願い",
+            "ko": "제발"
+          },
           "fileName": "1F64F.png"
         },
         {
           "id": "openmoji_hands_action_1f485",
           "title": "美甲",
+          "localizedTitles": {
+            "zh-Hans": "美甲",
+            "zh-Hant": "美甲",
+            "en": "Nail Polish",
+            "ja": "ネイル",
+            "ko": "네일"
+          },
           "fileName": "1F485.png"
         },
         {
           "id": "openmoji_hands_action_1f4aa",
           "title": "肌肉",
+          "localizedTitles": {
+            "zh-Hans": "肌肉",
+            "zh-Hant": "肌肉",
+            "en": "Flex",
+            "ja": "筋肉",
+            "ko": "근육"
+          },
           "fileName": "1F4AA.png"
         },
         {
           "id": "openmoji_hearts_symbols_1f9e1",
           "title": "橙心",
+          "localizedTitles": {
+            "zh-Hans": "橙心",
+            "zh-Hant": "橙心",
+            "en": "Orange Heart",
+            "ja": "オレンジハート",
+            "ko": "주황 하트"
+          },
           "fileName": "1F9E1.png"
         },
         {
           "id": "openmoji_hearts_symbols_1f49b",
           "title": "黄心",
+          "localizedTitles": {
+            "zh-Hans": "黄心",
+            "zh-Hant": "黃心",
+            "en": "Yellow Heart",
+            "ja": "イエローハート",
+            "ko": "노란 하트"
+          },
           "fileName": "1F49B.png"
         },
         {
           "id": "openmoji_hearts_symbols_1f49a",
           "title": "绿心",
+          "localizedTitles": {
+            "zh-Hans": "绿心",
+            "zh-Hant": "綠心",
+            "en": "Green Heart",
+            "ja": "グリーンハート",
+            "ko": "초록 하트"
+          },
           "fileName": "1F49A.png"
         },
         {
           "id": "openmoji_hearts_symbols_1f499",
           "title": "蓝心",
+          "localizedTitles": {
+            "zh-Hans": "蓝心",
+            "zh-Hant": "藍心",
+            "en": "Blue Heart",
+            "ja": "ブルーハート",
+            "ko": "파란 하트"
+          },
           "fileName": "1F499.png"
         },
         {
           "id": "openmoji_hearts_symbols_1f49c",
           "title": "紫心",
+          "localizedTitles": {
+            "zh-Hans": "紫心",
+            "zh-Hant": "紫心",
+            "en": "Purple Heart",
+            "ja": "パープルハート",
+            "ko": "보라 하트"
+          },
           "fileName": "1F49C.png"
         },
         {
           "id": "openmoji_hearts_symbols_1f90e",
           "title": "棕心",
+          "localizedTitles": {
+            "zh-Hans": "棕心",
+            "zh-Hant": "棕心",
+            "en": "Brown Heart",
+            "ja": "ブラウンハート",
+            "ko": "갈색 하트"
+          },
           "fileName": "1F90E.png"
         },
         {
           "id": "openmoji_hearts_symbols_1f5a4",
           "title": "黑心",
+          "localizedTitles": {
+            "zh-Hans": "黑心",
+            "zh-Hant": "黑心",
+            "en": "Black Heart",
+            "ja": "ブラックハート",
+            "ko": "검은 하트"
+          },
           "fileName": "1F5A4.png"
         },
         {
           "id": "openmoji_hearts_symbols_1f90d",
           "title": "白心",
+          "localizedTitles": {
+            "zh-Hans": "白心",
+            "zh-Hant": "白心",
+            "en": "White Heart",
+            "ja": "白ハート",
+            "ko": "하얀 하트"
+          },
           "fileName": "1F90D.png"
         },
         {
           "id": "openmoji_hearts_symbols_1f49d",
           "title": "礼物心",
+          "localizedTitles": {
+            "zh-Hans": "礼物心",
+            "zh-Hant": "禮物心",
+            "en": "Heart with Ribbon",
+            "ja": "リボン付きハート",
+            "ko": "리본 하트"
+          },
           "fileName": "1F49D.png"
         },
         {
           "id": "openmoji_hearts_symbols_1f49e",
           "title": "旋转心",
+          "localizedTitles": {
+            "zh-Hans": "旋转心",
+            "zh-Hant": "旋轉心",
+            "en": "Revolving Heart",
+            "ja": "回転ハート",
+            "ko": "회전 하트"
+          },
           "fileName": "1F49E.png"
         },
         {
           "id": "openmoji_weather_mood_2600",
           "title": "晴天",
+          "localizedTitles": {
+            "zh-Hans": "晴天",
+            "zh-Hant": "晴天",
+            "en": "Sunny",
+            "ja": "晴れ",
+            "ko": "맑음"
+          },
           "fileName": "2600.png"
         },
         {
           "id": "openmoji_weather_mood_1f31e",
           "title": "太阳脸",
+          "localizedTitles": {
+            "zh-Hans": "太阳脸",
+            "zh-Hant": "太陽臉",
+            "en": "Sun Face",
+            "ja": "太陽の顔",
+            "ko": "태양 얼굴"
+          },
           "fileName": "1F31E.png"
         },
         {
           "id": "openmoji_weather_mood_1f324",
           "title": "少云",
+          "localizedTitles": {
+            "zh-Hans": "少云",
+            "zh-Hant": "少雲",
+            "en": "Partly Cloudy",
+            "ja": "所々曇り",
+            "ko": "구름 조금"
+          },
           "fileName": "1F324.png"
         },
         {
           "id": "openmoji_weather_mood_26c5",
           "title": "多云",
+          "localizedTitles": {
+            "zh-Hans": "多云",
+            "zh-Hant": "多雲",
+            "en": "Cloudy Sun",
+            "ja": "晴れのち曇り",
+            "ko": "구름 많음"
+          },
           "fileName": "26C5.png"
         },
         {
           "id": "openmoji_weather_mood_1f325",
           "title": "阴天",
+          "localizedTitles": {
+            "zh-Hans": "阴天",
+            "zh-Hant": "陰天",
+            "en": "Overcast",
+            "ja": "曇り",
+            "ko": "흐림"
+          },
           "fileName": "1F325.png"
         },
         {
           "id": "openmoji_weather_mood_2601",
           "title": "云",
+          "localizedTitles": {
+            "zh-Hans": "云",
+            "zh-Hant": "雲",
+            "en": "Cloud",
+            "ja": "雲",
+            "ko": "구름"
+          },
           "fileName": "2601.png"
         },
         {
           "id": "openmoji_weather_mood_1f327",
           "title": "下雨",
+          "localizedTitles": {
+            "zh-Hans": "下雨",
+            "zh-Hant": "下雨",
+            "en": "Rain",
+            "ja": "雨",
+            "ko": "비"
+          },
           "fileName": "1F327.png"
         },
         {
           "id": "openmoji_weather_mood_26c8",
           "title": "雷雨",
+          "localizedTitles": {
+            "zh-Hans": "雷雨",
+            "zh-Hant": "雷雨",
+            "en": "Thunderstorm",
+            "ja": "雷雨",
+            "ko": "뇌우"
+          },
           "fileName": "26C8.png"
         },
         {
           "id": "openmoji_weather_mood_1f308",
           "title": "彩虹",
+          "localizedTitles": {
+            "zh-Hans": "彩虹",
+            "zh-Hant": "彩虹",
+            "en": "Rainbow",
+            "ja": "虹",
+            "ko": "무지개"
+          },
           "fileName": "1F308.png"
         },
         {
           "id": "openmoji_weather_mood_2744",
           "title": "雪花",
+          "localizedTitles": {
+            "zh-Hans": "雪花",
+            "zh-Hant": "雪花",
+            "en": "Snowflake",
+            "ja": "雪の結晶",
+            "ko": "눈송이"
+          },
           "fileName": "2744.png"
         },
         {
           "id": "openmoji_weather_mood_2603",
           "title": "雪人",
+          "localizedTitles": {
+            "zh-Hans": "雪人",
+            "zh-Hant": "雪人",
+            "en": "Snowman",
+            "ja": "雪だるま",
+            "ko": "눈사람"
+          },
           "fileName": "2603.png"
         },
         {
           "id": "openmoji_weather_mood_1f32a",
           "title": "龙卷风",
+          "localizedTitles": {
+            "zh-Hans": "龙卷风",
+            "zh-Hant": "龍捲風",
+            "en": "Tornado",
+            "ja": "竜巻",
+            "ko": "토네이도"
+          },
           "fileName": "1F32A.png"
         },
         {
           "id": "openmoji_travel_going_2708",
           "title": "飞机",
+          "localizedTitles": {
+            "zh-Hans": "飞机",
+            "zh-Hant": "飛機",
+            "en": "Airplane",
+            "ja": "飛行機",
+            "ko": "비행기"
+          },
           "fileName": "2708.png"
         },
         {
           "id": "openmoji_travel_going_1f6eb",
           "title": "起飞",
+          "localizedTitles": {
+            "zh-Hans": "起飞",
+            "zh-Hant": "起飛",
+            "en": "Takeoff",
+            "ja": "離陸",
+            "ko": "이륙"
+          },
           "fileName": "1F6EB.png"
         },
         {
           "id": "openmoji_travel_going_1f697",
           "title": "汽车",
+          "localizedTitles": {
+            "zh-Hans": "汽车",
+            "zh-Hant": "汽車",
+            "en": "Car",
+            "ja": "車",
+            "ko": "자동차"
+          },
           "fileName": "1F697.png"
         },
         {
           "id": "openmoji_travel_going_1f695",
           "title": "出租车",
+          "localizedTitles": {
+            "zh-Hans": "出租车",
+            "zh-Hant": "計程車",
+            "en": "Taxi",
+            "ja": "タクシー",
+            "ko": "택시"
+          },
           "fileName": "1F695.png"
         },
         {
           "id": "openmoji_travel_going_1f68c",
           "title": "公交",
+          "localizedTitles": {
+            "zh-Hans": "公交",
+            "zh-Hant": "公車",
+            "en": "Bus",
+            "ja": "バス",
+            "ko": "버스"
+          },
           "fileName": "1F68C.png"
         },
         {
           "id": "openmoji_travel_going_1f686",
           "title": "火车",
+          "localizedTitles": {
+            "zh-Hans": "火车",
+            "zh-Hant": "火車",
+            "en": "Train",
+            "ja": "電車",
+            "ko": "기차"
+          },
           "fileName": "1F686.png"
         },
         {
           "id": "openmoji_travel_going_1f6a2",
           "title": "船",
+          "localizedTitles": {
+            "zh-Hans": "船",
+            "zh-Hant": "船",
+            "en": "Ship",
+            "ja": "船",
+            "ko": "배"
+          },
           "fileName": "1F6A2.png"
         },
         {
           "id": "openmoji_travel_going_1f5fa",
           "title": "地图",
+          "localizedTitles": {
+            "zh-Hans": "地图",
+            "zh-Hant": "地圖",
+            "en": "Map",
+            "ja": "地図",
+            "ko": "지도"
+          },
           "fileName": "1F5FA.png"
         },
         {
           "id": "openmoji_travel_going_1f9ed",
           "title": "指南针",
+          "localizedTitles": {
+            "zh-Hans": "指南针",
+            "zh-Hant": "指南針",
+            "en": "Compass",
+            "ja": "コンパス",
+            "ko": "나침반"
+          },
           "fileName": "1F9ED.png"
         },
         {
           "id": "openmoji_travel_going_1f3d6",
           "title": "海滩",
+          "localizedTitles": {
+            "zh-Hans": "海滩",
+            "zh-Hant": "海灘",
+            "en": "Beach",
+            "ja": "ビーチ",
+            "ko": "해변"
+          },
           "fileName": "1F3D6.png"
         },
         {
           "id": "openmoji_travel_going_1f3d5",
           "title": "露营",
+          "localizedTitles": {
+            "zh-Hans": "露营",
+            "zh-Hant": "露營",
+            "en": "Camping",
+            "ja": "キャンプ",
+            "ko": "캠핑"
+          },
           "fileName": "1F3D5.png"
         },
         {
           "id": "openmoji_sports_energy_26bd",
           "title": "足球",
+          "localizedTitles": {
+            "zh-Hans": "足球",
+            "zh-Hant": "足球",
+            "en": "Soccer",
+            "ja": "サッカー",
+            "ko": "축구"
+          },
           "fileName": "26BD.png"
         },
         {
           "id": "openmoji_sports_energy_1f3c8",
           "title": "橄榄球",
+          "localizedTitles": {
+            "zh-Hans": "橄榄球",
+            "zh-Hant": "橄欖球",
+            "en": "Football",
+            "ja": "アメフト",
+            "ko": "미식축구"
+          },
           "fileName": "1F3C8.png"
         },
         {
           "id": "openmoji_sports_energy_26be",
           "title": "棒球",
+          "localizedTitles": {
+            "zh-Hans": "棒球",
+            "zh-Hant": "棒球",
+            "en": "Baseball",
+            "ja": "野球",
+            "ko": "야구"
+          },
           "fileName": "26BE.png"
         },
         {
           "id": "openmoji_sports_energy_1f3d0",
           "title": "排球",
+          "localizedTitles": {
+            "zh-Hans": "排球",
+            "zh-Hant": "排球",
+            "en": "Volleyball",
+            "ja": "バレーボール",
+            "ko": "배구"
+          },
           "fileName": "1F3D0.png"
         },
         {
           "id": "openmoji_sports_energy_1f3c9",
           "title": "英式橄榄球",
+          "localizedTitles": {
+            "zh-Hans": "英式橄榄球",
+            "zh-Hant": "英式橄欖球",
+            "en": "Rugby",
+            "ja": "ラグビー",
+            "ko": "럭비"
+          },
           "fileName": "1F3C9.png"
         },
         {
           "id": "openmoji_sports_energy_1f94a",
           "title": "拳击",
+          "localizedTitles": {
+            "zh-Hans": "拳击",
+            "zh-Hant": "拳擊",
+            "en": "Boxing Glove",
+            "ja": "ボクシング",
+            "ko": "복싱"
+          },
           "fileName": "1F94A.png"
         },
         {
           "id": "openmoji_sports_energy_1f3c3",
           "title": "跑步",
+          "localizedTitles": {
+            "zh-Hans": "跑步",
+            "zh-Hant": "跑步",
+            "en": "Running",
+            "ja": "ランニング",
+            "ko": "달리기"
+          },
           "fileName": "1F3C3.png"
         },
         {
           "id": "openmoji_sports_energy_1f3cb",
           "title": "举重",
+          "localizedTitles": {
+            "zh-Hans": "举重",
+            "zh-Hant": "舉重",
+            "en": "Weightlifting",
+            "ja": "筋トレ",
+            "ko": "역도"
+          },
           "fileName": "1F3CB.png"
         },
         {
           "id": "openmoji_music_vibe_1f3b5",
           "title": "音符",
+          "localizedTitles": {
+            "zh-Hans": "音符",
+            "zh-Hant": "音符",
+            "en": "Note",
+            "ja": "音符",
+            "ko": "음표"
+          },
           "fileName": "1F3B5.png"
         },
         {
           "id": "openmoji_music_vibe_1f3b6",
           "title": "音符组",
+          "localizedTitles": {
+            "zh-Hans": "音符组",
+            "zh-Hant": "音符組",
+            "en": "Music Notes",
+            "ja": "複数音符",
+            "ko": "여러 음표"
+          },
           "fileName": "1F3B6.png"
         },
         {
           "id": "openmoji_music_vibe_1f399",
           "title": "麦克风",
+          "localizedTitles": {
+            "zh-Hans": "麦克风",
+            "zh-Hant": "麥克風",
+            "en": "Microphone",
+            "ja": "マイク",
+            "ko": "마이크"
+          },
           "fileName": "1F399.png"
         },
         {
           "id": "openmoji_music_vibe_1f3a4",
           "title": "唱歌",
+          "localizedTitles": {
+            "zh-Hans": "唱歌",
+            "zh-Hant": "唱歌",
+            "en": "Singing",
+            "ja": "歌唱",
+            "ko": "노래"
+          },
           "fileName": "1F3A4.png"
         },
         {
           "id": "openmoji_music_vibe_1f3a7",
           "title": "耳机",
+          "localizedTitles": {
+            "zh-Hans": "耳机",
+            "zh-Hant": "耳機",
+            "en": "Headphones",
+            "ja": "ヘッドホン",
+            "ko": "헤드폰"
+          },
           "fileName": "1F3A7.png"
         },
         {
           "id": "openmoji_music_vibe_1f3b7",
           "title": "萨克斯",
+          "localizedTitles": {
+            "zh-Hans": "萨克斯",
+            "zh-Hant": "薩克斯",
+            "en": "Saxophone",
+            "ja": "サックス",
+            "ko": "색소폰"
+          },
           "fileName": "1F3B7.png"
         },
         {
           "id": "openmoji_music_vibe_1f3b8",
           "title": "吉他",
+          "localizedTitles": {
+            "zh-Hans": "吉他",
+            "zh-Hant": "吉他",
+            "en": "Guitar",
+            "ja": "ギター",
+            "ko": "기타"
+          },
           "fileName": "1F3B8.png"
         },
         {
           "id": "openmoji_music_vibe_1f3b9",
           "title": "键盘",
+          "localizedTitles": {
+            "zh-Hans": "键盘",
+            "zh-Hant": "鍵盤",
+            "en": "Musical Keyboard",
+            "ja": "キーボード",
+            "ko": "키보드"
+          },
           "fileName": "1F3B9.png"
         },
         {
           "id": "openmoji_music_vibe_1f941",
           "title": "鼓",
+          "localizedTitles": {
+            "zh-Hans": "鼓",
+            "zh-Hant": "鼓",
+            "en": "Drum",
+            "ja": "ドラム",
+            "ko": "드럼"
+          },
           "fileName": "1F941.png"
         },
         {
           "id": "openmoji_music_vibe_1fa87",
           "title": "手风琴",
+          "localizedTitles": {
+            "zh-Hans": "手风琴",
+            "zh-Hant": "手風琴",
+            "en": "Accordion",
+            "ja": "アコーディオン",
+            "ko": "아코디언"
+          },
           "fileName": "1FA87.png"
         },
         {
           "id": "openmoji_music_vibe_1f483",
           "title": "跳舞",
+          "localizedTitles": {
+            "zh-Hans": "跳舞",
+            "zh-Hant": "跳舞",
+            "en": "Dancing",
+            "ja": "ダンス",
+            "ko": "댄스"
+          },
           "fileName": "1F483.png"
         },
         {
           "id": "openmoji_music_vibe_1f57a",
           "title": "跳舞男",
+          "localizedTitles": {
+            "zh-Hans": "跳舞男",
+            "zh-Hant": "跳舞男",
+            "en": "Dancing Man",
+            "ja": "踊る男性",
+            "ko": "춤추는 남자"
+          },
           "fileName": "1F57A.png"
         },
         {
           "id": "openmoji_game_play_1f3ae",
           "title": "手柄",
+          "localizedTitles": {
+            "zh-Hans": "手柄",
+            "zh-Hant": "手把",
+            "en": "Gamepad",
+            "ja": "コントローラー",
+            "ko": "게임패드"
+          },
           "fileName": "1F3AE.png"
         },
         {
           "id": "openmoji_game_play_1f579",
           "title": "摇杆",
+          "localizedTitles": {
+            "zh-Hans": "摇杆",
+            "zh-Hant": "搖桿",
+            "en": "Joystick",
+            "ja": "ジョイスティック",
+            "ko": "조이스틱"
+          },
           "fileName": "1F579.png"
         },
         {
           "id": "openmoji_game_play_1f3b2",
           "title": "骰子",
+          "localizedTitles": {
+            "zh-Hans": "骰子",
+            "zh-Hant": "骰子",
+            "en": "Dice",
+            "ja": "サイコロ",
+            "ko": "주사위"
+          },
           "fileName": "1F3B2.png"
         },
         {
           "id": "openmoji_game_play_1f0cf",
           "title": "小丑牌",
+          "localizedTitles": {
+            "zh-Hans": "小丑牌",
+            "zh-Hant": "小丑牌",
+            "en": "Joker",
+            "ja": "ジョーカー",
+            "ko": "조커"
+          },
           "fileName": "1F0CF.png"
         },
         {
           "id": "openmoji_game_play_1f3b4",
           "title": "花牌",
+          "localizedTitles": {
+            "zh-Hans": "花牌",
+            "zh-Hant": "花牌",
+            "en": "Flower Card",
+            "ja": "花札",
+            "ko": "화투"
+          },
           "fileName": "1F3B4.png"
         },
         {
           "id": "openmoji_game_play_1f9e9",
           "title": "拼图",
+          "localizedTitles": {
+            "zh-Hans": "拼图",
+            "zh-Hant": "拼圖",
+            "en": "Puzzle",
+            "ja": "パズル",
+            "ko": "퍼즐"
+          },
           "fileName": "1F9E9.png"
         },
         {
           "id": "openmoji_game_play_1fa80",
           "title": "悠悠球",
+          "localizedTitles": {
+            "zh-Hans": "悠悠球",
+            "zh-Hant": "悠悠球",
+            "en": "Yo-Yo",
+            "ja": "ヨーヨー",
+            "ko": "요요"
+          },
           "fileName": "1FA80.png"
         },
         {
           "id": "openmoji_game_play_1f3b3",
           "title": "保龄球",
+          "localizedTitles": {
+            "zh-Hans": "保龄球",
+            "zh-Hant": "保齡球",
+            "en": "Bowling",
+            "ja": "ボウリング",
+            "ko": "볼링"
+          },
           "fileName": "1F3B3.png"
         },
         {
           "id": "openmoji_game_play_1f3a8",
           "title": "画画",
+          "localizedTitles": {
+            "zh-Hans": "画画",
+            "zh-Hant": "畫畫",
+            "en": "Palette",
+            "ja": "パレット",
+            "ko": "팔레트"
+          },
           "fileName": "1F3A8.png"
         },
         {
           "id": "openmoji_game_play_1f3ac",
           "title": "电影",
+          "localizedTitles": {
+            "zh-Hans": "电影",
+            "zh-Hant": "電影",
+            "en": "Clapper",
+            "ja": "映画",
+            "ko": "영화"
+          },
           "fileName": "1F3AC.png"
         },
         {
           "id": "openmoji_tech_digital_1f4f1",
           "title": "手机",
+          "localizedTitles": {
+            "zh-Hans": "手机",
+            "zh-Hant": "手機",
+            "en": "Phone",
+            "ja": "スマホ",
+            "ko": "휴대폰"
+          },
           "fileName": "1F4F1.png"
         },
         {
           "id": "openmoji_tech_digital_1f5a8",
           "title": "打印机",
+          "localizedTitles": {
+            "zh-Hans": "打印机",
+            "zh-Hant": "印表機",
+            "en": "Printer",
+            "ja": "プリンター",
+            "ko": "프린터"
+          },
           "fileName": "1F5A8.png"
         },
         {
           "id": "openmoji_tech_digital_1f4f7",
           "title": "相机",
+          "localizedTitles": {
+            "zh-Hans": "相机",
+            "zh-Hant": "相機",
+            "en": "Camera",
+            "ja": "カメラ",
+            "ko": "카메라"
+          },
           "fileName": "1F4F7.png"
         },
         {
           "id": "openmoji_tech_digital_1f4f9",
           "title": "摄像机",
+          "localizedTitles": {
+            "zh-Hans": "摄像机",
+            "zh-Hant": "攝影機",
+            "en": "Video Camera",
+            "ja": "ビデオカメラ",
+            "ko": "비디오카메라"
+          },
           "fileName": "1F4F9.png"
         },
         {
           "id": "openmoji_tech_digital_1f916",
           "title": "机器人",
+          "localizedTitles": {
+            "zh-Hans": "机器人",
+            "zh-Hant": "機器人",
+            "en": "Robot",
+            "ja": "ロボット",
+            "ko": "로봇"
+          },
           "fileName": "1F916.png"
         },
         {
           "id": "openmoji_tech_digital_1f50b",
           "title": "电池",
+          "localizedTitles": {
+            "zh-Hans": "电池",
+            "zh-Hant": "電池",
+            "en": "Battery",
+            "ja": "バッテリー",
+            "ko": "배터리"
+          },
           "fileName": "1F50B.png"
         },
         {
           "id": "openmoji_tech_digital_1f6f0",
           "title": "卫星",
+          "localizedTitles": {
+            "zh-Hans": "卫星",
+            "zh-Hant": "衛星",
+            "en": "Satellite",
+            "ja": "衛星",
+            "ko": "위성"
+          },
           "fileName": "1F6F0.png"
         },
         {
           "id": "openmoji_home_life_1f6cb",
           "title": "沙发",
+          "localizedTitles": {
+            "zh-Hans": "沙发",
+            "zh-Hant": "沙發",
+            "en": "Couch",
+            "ja": "ソファ",
+            "ko": "소파"
+          },
           "fileName": "1F6CB.png"
         },
         {
           "id": "openmoji_home_life_1f6cf",
           "title": "床",
+          "localizedTitles": {
+            "zh-Hans": "床",
+            "zh-Hant": "床",
+            "en": "Bed",
+            "ja": "ベッド",
+            "ko": "침대"
+          },
           "fileName": "1F6CF.png"
         },
         {
           "id": "openmoji_home_life_1f6aa",
           "title": "门",
+          "localizedTitles": {
+            "zh-Hans": "门",
+            "zh-Hant": "門",
+            "en": "Door",
+            "ja": "ドア",
+            "ko": "문"
+          },
           "fileName": "1F6AA.png"
         },
         {
           "id": "openmoji_home_life_1fa91",
           "title": "椅子",
+          "localizedTitles": {
+            "zh-Hans": "椅子",
+            "zh-Hant": "椅子",
+            "en": "Chair",
+            "ja": "椅子",
+            "ko": "의자"
+          },
           "fileName": "1FA91.png"
         },
         {
           "id": "openmoji_home_life_1f6bf",
           "title": "淋浴",
+          "localizedTitles": {
+            "zh-Hans": "淋浴",
+            "zh-Hant": "淋浴",
+            "en": "Shower",
+            "ja": "シャワー",
+            "ko": "샤워"
+          },
           "fileName": "1F6BF.png"
         },
         {
           "id": "openmoji_home_life_1f9fa",
           "title": "篮子",
+          "localizedTitles": {
+            "zh-Hans": "篮子",
+            "zh-Hant": "籃子",
+            "en": "Basket",
+            "ja": "かご",
+            "ko": "바구니"
+          },
           "fileName": "1F9FA.png"
         },
         {
           "id": "openmoji_home_life_1f9f9",
           "title": "扫帚",
+          "localizedTitles": {
+            "zh-Hans": "扫帚",
+            "zh-Hant": "掃帚",
+            "en": "Broom",
+            "ja": "ほうき",
+            "ko": "빗자루"
+          },
           "fileName": "1F9F9.png"
         },
         {
           "id": "openmoji_home_life_1f9fc",
           "title": "肥皂",
+          "localizedTitles": {
+            "zh-Hans": "肥皂",
+            "zh-Hant": "肥皂",
+            "en": "Soap",
+            "ja": "石鹸",
+            "ko": "비누"
+          },
           "fileName": "1F9FC.png"
         },
         {
           "id": "openmoji_home_life_1f6d2",
           "title": "购物车",
+          "localizedTitles": {
+            "zh-Hans": "购物车",
+            "zh-Hant": "購物車",
+            "en": "Shopping Cart",
+            "ja": "カート",
+            "ko": "장바구니"
+          },
           "fileName": "1F6D2.png"
         },
         {
           "id": "openmoji_home_life_1f37d",
           "title": "餐具",
+          "localizedTitles": {
+            "zh-Hans": "餐具",
+            "zh-Hant": "餐具",
+            "en": "Fork and Knife",
+            "ja": "食器",
+            "ko": "식기"
+          },
           "fileName": "1F37D.png"
         },
         {
           "id": "openmoji_shopping_gifts_1f6cd",
           "title": "购物袋",
+          "localizedTitles": {
+            "zh-Hans": "购物袋",
+            "zh-Hant": "購物袋",
+            "en": "Shopping Bags",
+            "ja": "買い物袋",
+            "ko": "쇼핑백"
+          },
           "fileName": "1F6CD.png"
         },
         {
           "id": "openmoji_shopping_gifts_1f390",
           "title": "彩带球",
+          "localizedTitles": {
+            "zh-Hans": "彩带球",
+            "zh-Hant": "彩帶球",
+            "en": "Wind Chime",
+            "ja": "風鈴",
+            "ko": "풍경"
+          },
           "fileName": "1F390.png"
         },
         {
           "id": "openmoji_shopping_gifts_1f4e6",
           "title": "包裹",
+          "localizedTitles": {
+            "zh-Hans": "包裹",
+            "zh-Hant": "包裹",
+            "en": "Package",
+            "ja": "箱",
+            "ko": "택배"
+          },
           "fileName": "1F4E6.png"
         },
         {
           "id": "openmoji_shopping_gifts_1f3f7",
           "title": "标签",
+          "localizedTitles": {
+            "zh-Hans": "标签",
+            "zh-Hant": "標籤",
+            "en": "Label",
+            "ja": "ラベル",
+            "ko": "라벨"
+          },
           "fileName": "1F3F7.png"
         },
         {
           "id": "openmoji_shopping_gifts_1f45b",
           "title": "钱包",
+          "localizedTitles": {
+            "zh-Hans": "钱包",
+            "zh-Hant": "錢包",
+            "en": "Purse",
+            "ja": "財布",
+            "ko": "지갑"
+          },
           "fileName": "1F45B.png"
         },
         {
           "id": "openmoji_shopping_gifts_1f45c",
           "title": "手提包",
+          "localizedTitles": {
+            "zh-Hans": "手提包",
+            "zh-Hant": "手提包",
+            "en": "Handbag",
+            "ja": "ハンドバッグ",
+            "ko": "핸드백"
+          },
           "fileName": "1F45C.png"
         },
         {
           "id": "openmoji_shopping_gifts_1f45f",
           "title": "鞋",
+          "localizedTitles": {
+            "zh-Hans": "鞋",
+            "zh-Hant": "鞋",
+            "en": "Sneaker",
+            "ja": "スニーカー",
+            "ko": "운동화"
+          },
           "fileName": "1F45F.png"
         },
         {
           "id": "openmoji_shopping_gifts_1f457",
           "title": "裙子",
+          "localizedTitles": {
+            "zh-Hans": "裙子",
+            "zh-Hant": "裙子",
+            "en": "Dress",
+            "ja": "ワンピース",
+            "ko": "원피스"
+          },
           "fileName": "1F457.png"
         },
         {
           "id": "openmoji_shopping_gifts_1f48d",
           "title": "戒指",
+          "localizedTitles": {
+            "zh-Hans": "戒指",
+            "zh-Hant": "戒指",
+            "en": "Ring",
+            "ja": "指輪",
+            "ko": "반지"
+          },
           "fileName": "1F48D.png"
         },
         {
           "id": "openmoji_magic_fantasy_1fa84",
           "title": "魔法棒",
+          "localizedTitles": {
+            "zh-Hans": "魔法棒",
+            "zh-Hant": "魔法棒",
+            "en": "Magic Wand",
+            "ja": "魔法の杖",
+            "ko": "마법봉"
+          },
           "fileName": "1FA84.png"
         },
         {
           "id": "openmoji_magic_fantasy_1f52e",
           "title": "水晶球",
+          "localizedTitles": {
+            "zh-Hans": "水晶球",
+            "zh-Hant": "水晶球",
+            "en": "Crystal Ball",
+            "ja": "水晶玉",
+            "ko": "수정구"
+          },
           "fileName": "1F52E.png"
         },
         {
           "id": "openmoji_magic_fantasy_1f31f",
           "title": "星星",
+          "localizedTitles": {
+            "zh-Hans": "星星",
+            "zh-Hant": "星星",
+            "en": "Glowing Star",
+            "ja": "輝く星",
+            "ko": "빛나는 별"
+          },
           "fileName": "1F31F.png"
         },
         {
           "id": "openmoji_magic_fantasy_1f9da",
           "title": "仙子",
+          "localizedTitles": {
+            "zh-Hans": "仙子",
+            "zh-Hant": "仙子",
+            "en": "Fairy",
+            "ja": "妖精",
+            "ko": "요정"
+          },
           "fileName": "1F9DA.png"
         },
         {
           "id": "openmoji_magic_fantasy_1f9dc",
           "title": "人鱼",
+          "localizedTitles": {
+            "zh-Hans": "人鱼",
+            "zh-Hant": "人魚",
+            "en": "Mermaid",
+            "ja": "人魚",
+            "ko": "인어"
+          },
           "fileName": "1F9DC.png"
         },
         {
           "id": "openmoji_magic_fantasy_1f9dd",
           "title": "精灵",
+          "localizedTitles": {
+            "zh-Hans": "精灵",
+            "zh-Hant": "精靈",
+            "en": "Elf",
+            "ja": "エルフ",
+            "ko": "엘프"
+          },
           "fileName": "1F9DD.png"
         },
         {
           "id": "openmoji_magic_fantasy_1f9de",
           "title": "神灯精灵",
+          "localizedTitles": {
+            "zh-Hans": "神灯精灵",
+            "zh-Hant": "神燈精靈",
+            "en": "Genie",
+            "ja": "ランプの精",
+            "ko": "지니"
+          },
           "fileName": "1F9DE.png"
         },
         {
           "id": "openmoji_magic_fantasy_1f9df",
           "title": "僵尸",
+          "localizedTitles": {
+            "zh-Hans": "僵尸",
+            "zh-Hant": "殭屍",
+            "en": "Zombie",
+            "ja": "ゾンビ",
+            "ko": "좀비"
+          },
           "fileName": "1F9DF.png"
         },
         {
           "id": "openmoji_magic_fantasy_1f984",
           "title": "独角兽",
+          "localizedTitles": {
+            "zh-Hans": "独角兽",
+            "zh-Hant": "獨角獸",
+            "en": "Unicorn",
+            "ja": "ユニコーン",
+            "ko": "유니콘"
+          },
           "fileName": "1F984.png"
         },
         {
           "id": "openmoji_magic_fantasy_1f409",
           "title": "龙",
+          "localizedTitles": {
+            "zh-Hans": "龙",
+            "zh-Hant": "龍",
+            "en": "Dragon",
+            "ja": "ドラゴン",
+            "ko": "드래곤"
+          },
           "fileName": "1F409.png"
         },
         {
           "id": "openmoji_magic_fantasy_1f3f0",
           "title": "城堡",
+          "localizedTitles": {
+            "zh-Hans": "城堡",
+            "zh-Hant": "城堡",
+            "en": "Castle",
+            "ja": "城",
+            "ko": "성"
+          },
           "fileName": "1F3F0.png"
         },
         {
           "id": "openmoji_spooky_fun_1f47b",
           "title": "幽灵",
+          "localizedTitles": {
+            "zh-Hans": "幽灵",
+            "zh-Hant": "幽靈",
+            "en": "Ghost",
+            "ja": "おばけ",
+            "ko": "유령"
+          },
           "fileName": "1F47B.png"
         },
         {
           "id": "openmoji_spooky_fun_1f480",
           "title": "寄了",
+          "localizedTitles": {
+            "zh-Hans": "寄了",
+            "zh-Hant": "寄了",
+            "en": "Skull",
+            "ja": "ドクロ",
+            "ko": "해골"
+          },
           "fileName": "1F480.png"
         },
         {
           "id": "openmoji_spooky_fun_2620",
           "title": "危险",
+          "localizedTitles": {
+            "zh-Hans": "危险",
+            "zh-Hant": "危險",
+            "en": "Danger",
+            "ja": "ドクロマーク",
+            "ko": "위험"
+          },
           "fileName": "2620.png"
         },
         {
           "id": "openmoji_spooky_fun_1f47d",
           "title": "外星人",
+          "localizedTitles": {
+            "zh-Hans": "外星人",
+            "zh-Hant": "外星人",
+            "en": "Alien",
+            "ja": "宇宙人",
+            "ko": "외계인"
+          },
           "fileName": "1F47D.png"
         },
         {
           "id": "openmoji_spooky_fun_1f47e",
           "title": "怪兽",
+          "localizedTitles": {
+            "zh-Hans": "怪兽",
+            "zh-Hant": "怪獸",
+            "en": "Monster",
+            "ja": "モンスター",
+            "ko": "괴물"
+          },
           "fileName": "1F47E.png"
         },
         {
           "id": "openmoji_spooky_fun_1f921",
           "title": "小丑",
+          "localizedTitles": {
+            "zh-Hans": "小丑",
+            "zh-Hant": "小丑",
+            "en": "Clown",
+            "ja": "ピエロ",
+            "ko": "광대"
+          },
           "fileName": "1F921.png"
         },
         {
           "id": "openmoji_spooky_fun_1f479",
           "title": "鬼怪",
+          "localizedTitles": {
+            "zh-Hans": "鬼怪",
+            "zh-Hant": "鬼怪",
+            "en": "Ogre",
+            "ja": "鬼",
+            "ko": "도깨비"
+          },
           "fileName": "1F479.png"
         },
         {
           "id": "openmoji_spooky_fun_1f47a",
           "title": "天狗",
+          "localizedTitles": {
+            "zh-Hans": "天狗",
+            "zh-Hant": "天狗",
+            "en": "Goblin",
+            "ja": "天狗",
+            "ko": "티엔구"
+          },
           "fileName": "1F47A.png"
         },
         {
           "id": "openmoji_spooky_fun_1f577",
           "title": "蜘蛛",
+          "localizedTitles": {
+            "zh-Hans": "蜘蛛",
+            "zh-Hant": "蜘蛛",
+            "en": "Spider",
+            "ja": "クモ",
+            "ko": "거미"
+          },
           "fileName": "1F577.png"
         },
         {
           "id": "openmoji_spooky_fun_1f578",
           "title": "蛛网",
+          "localizedTitles": {
+            "zh-Hans": "蛛网",
+            "zh-Hant": "蛛網",
+            "en": "Spider Web",
+            "ja": "クモの巣",
+            "ko": "거미줄"
+          },
           "fileName": "1F578.png"
         },
         {
           "id": "openmoji_spooky_fun_1f383",
           "title": "南瓜",
+          "localizedTitles": {
+            "zh-Hans": "南瓜",
+            "zh-Hant": "南瓜",
+            "en": "Jack-O-Lantern",
+            "ja": "カボチャ",
+            "ko": "호박"
+          },
           "fileName": "1F383.png"
         },
         {
           "id": "openmoji_space_dream_1f30c",
           "title": "银河",
+          "localizedTitles": {
+            "zh-Hans": "银河",
+            "zh-Hant": "銀河",
+            "en": "Milky Way",
+            "ja": "星空",
+            "ko": "은하수"
+          },
           "fileName": "1F30C.png"
         },
         {
           "id": "openmoji_space_dream_1f320",
           "title": "流星",
+          "localizedTitles": {
+            "zh-Hans": "流星",
+            "zh-Hant": "流星",
+            "en": "Shooting Star",
+            "ja": "流れ星",
+            "ko": "유성"
+          },
           "fileName": "1F320.png"
         },
         {
           "id": "openmoji_space_dream_1f311",
           "title": "新月",
+          "localizedTitles": {
+            "zh-Hans": "新月",
+            "zh-Hant": "新月",
+            "en": "New Moon",
+            "ja": "新月",
+            "ko": "삭달"
+          },
           "fileName": "1F311.png"
         },
         {
           "id": "openmoji_space_dream_1f312",
           "title": "眉月",
+          "localizedTitles": {
+            "zh-Hans": "眉月",
+            "zh-Hant": "眉月",
+            "en": "Waxing Crescent",
+            "ja": "三日月",
+            "ko": "초승달"
+          },
           "fileName": "1F312.png"
         },
         {
           "id": "openmoji_space_dream_1f313",
           "title": "上弦月",
+          "localizedTitles": {
+            "zh-Hans": "上弦月",
+            "zh-Hant": "上弦月",
+            "en": "First Quarter",
+            "ja": "上弦の月",
+            "ko": "상현달"
+          },
           "fileName": "1F313.png"
         },
         {
           "id": "openmoji_space_dream_1f314",
           "title": "盈凸月",
+          "localizedTitles": {
+            "zh-Hans": "盈凸月",
+            "zh-Hant": "盈凸月",
+            "en": "Waxing Gibbous",
+            "ja": "十三夜月",
+            "ko": "차오르는 반달"
+          },
           "fileName": "1F314.png"
         },
         {
           "id": "openmoji_space_dream_1f315",
           "title": "满月",
+          "localizedTitles": {
+            "zh-Hans": "满月",
+            "zh-Hant": "滿月",
+            "en": "Full Moon",
+            "ja": "満月",
+            "ko": "보름달"
+          },
           "fileName": "1F315.png"
         },
         {
           "id": "openmoji_space_dream_1f316",
           "title": "亏凸月",
+          "localizedTitles": {
+            "zh-Hans": "亏凸月",
+            "zh-Hant": "虧凸月",
+            "en": "Waning Gibbous",
+            "ja": "十六夜月",
+            "ko": "기우는 반달"
+          },
           "fileName": "1F316.png"
         },
         {
           "id": "openmoji_space_dream_1f317",
           "title": "下弦月",
+          "localizedTitles": {
+            "zh-Hans": "下弦月",
+            "zh-Hant": "下弦月",
+            "en": "Last Quarter",
+            "ja": "下弦の月",
+            "ko": "하현달"
+          },
           "fileName": "1F317.png"
         },
         {
           "id": "openmoji_space_dream_1f318",
           "title": "残月",
+          "localizedTitles": {
+            "zh-Hans": "残月",
+            "zh-Hant": "殘月",
+            "en": "Waning Crescent",
+            "ja": "名残月",
+            "ko": "그믐달"
+          },
           "fileName": "1F318.png"
         },
         {
           "id": "openmoji_space_dream_1fa90",
           "title": "土星",
+          "localizedTitles": {
+            "zh-Hans": "土星",
+            "zh-Hant": "土星",
+            "en": "Saturn",
+            "ja": "土星",
+            "ko": "토성"
+          },
           "fileName": "1FA90.png"
         },
         {
           "id": "openmoji_nature_green_1f331",
           "title": "幼苗",
+          "localizedTitles": {
+            "zh-Hans": "幼苗",
+            "zh-Hant": "幼苗",
+            "en": "Seedling",
+            "ja": "芽",
+            "ko": "새싹"
+          },
           "fileName": "1F331.png"
         },
         {
           "id": "openmoji_nature_green_1fab4",
           "title": "盆栽",
+          "localizedTitles": {
+            "zh-Hans": "盆栽",
+            "zh-Hant": "盆栽",
+            "en": "Potted Plant",
+            "ja": "鉢植え",
+            "ko": "분갈이"
+          },
           "fileName": "1FAB4.png"
         },
         {
           "id": "openmoji_nature_green_1f332",
           "title": "松树",
+          "localizedTitles": {
+            "zh-Hans": "松树",
+            "zh-Hant": "松樹",
+            "en": "Pine Tree",
+            "ja": "松の木",
+            "ko": "소나무"
+          },
           "fileName": "1F332.png"
         },
         {
           "id": "openmoji_nature_green_1f333",
           "title": "树",
+          "localizedTitles": {
+            "zh-Hans": "树",
+            "zh-Hant": "樹",
+            "en": "Tree",
+            "ja": "木",
+            "ko": "나무"
+          },
           "fileName": "1F333.png"
         },
         {
           "id": "openmoji_nature_green_1f334",
           "title": "棕榈树",
+          "localizedTitles": {
+            "zh-Hans": "棕榈树",
+            "zh-Hant": "棕櫚樹",
+            "en": "Palm Tree",
+            "ja": "ヤシの木",
+            "ko": "야자수"
+          },
           "fileName": "1F334.png"
         },
         {
           "id": "openmoji_nature_green_1f335",
           "title": "仙人掌",
+          "localizedTitles": {
+            "zh-Hans": "仙人掌",
+            "zh-Hant": "仙人掌",
+            "en": "Cactus",
+            "ja": "サボテン",
+            "ko": "선인장"
+          },
           "fileName": "1F335.png"
         },
         {
           "id": "openmoji_nature_green_1f33f",
           "title": "草药",
+          "localizedTitles": {
+            "zh-Hans": "草药",
+            "zh-Hant": "草藥",
+            "en": "Herb",
+            "ja": "ハーブ",
+            "ko": "허브"
+          },
           "fileName": "1F33F.png"
         },
         {
           "id": "openmoji_nature_green_2618",
           "title": "三叶草",
+          "localizedTitles": {
+            "zh-Hans": "三叶草",
+            "zh-Hant": "三葉草",
+            "en": "Shamrock",
+            "ja": "クローバー",
+            "ko": "세잎클로버"
+          },
           "fileName": "2618.png"
         },
         {
           "id": "openmoji_nature_green_1f340",
           "title": "幸运草",
+          "localizedTitles": {
+            "zh-Hans": "幸运草",
+            "zh-Hant": "幸運草",
+            "en": "Four-Leaf Clover",
+            "ja": "四つ葉のクローバー",
+            "ko": "네잎클로버"
+          },
           "fileName": "1F340.png"
         },
         {
           "id": "openmoji_nature_green_1f341",
           "title": "枫叶",
+          "localizedTitles": {
+            "zh-Hans": "枫叶",
+            "zh-Hant": "楓葉",
+            "en": "Maple Leaf",
+            "ja": "紅葉",
+            "ko": "단풍잎"
+          },
           "fileName": "1F341.png"
         },
         {
           "id": "openmoji_nature_green_1f342",
           "title": "落叶",
+          "localizedTitles": {
+            "zh-Hans": "落叶",
+            "zh-Hant": "落葉",
+            "en": "Fallen Leaf",
+            "ja": "落ち葉",
+            "ko": "낙엽"
+          },
           "fileName": "1F342.png"
         },
         {
           "id": "openmoji_nature_green_1f343",
           "title": "叶子",
+          "localizedTitles": {
+            "zh-Hans": "叶子",
+            "zh-Hant": "葉子",
+            "en": "Leaf",
+            "ja": "葉",
+            "ko": "잎"
+          },
           "fileName": "1F343.png"
         },
         {
           "id": "openmoji_flower_garden_1f337",
           "title": "郁金香",
+          "localizedTitles": {
+            "zh-Hans": "郁金香",
+            "zh-Hant": "鬱金香",
+            "en": "Tulip",
+            "ja": "チューリップ",
+            "ko": "튤립"
+          },
           "fileName": "1F337.png"
         },
         {
           "id": "openmoji_flower_garden_1f338",
           "title": "樱花",
+          "localizedTitles": {
+            "zh-Hans": "樱花",
+            "zh-Hant": "櫻花",
+            "en": "Cherry Blossom",
+            "ja": "桜",
+            "ko": "벚꽃"
+          },
           "fileName": "1F338.png"
         },
         {
           "id": "openmoji_flower_garden_1f339",
           "title": "玫瑰",
+          "localizedTitles": {
+            "zh-Hans": "玫瑰",
+            "zh-Hant": "玫瑰",
+            "en": "Rose",
+            "ja": "バラ",
+            "ko": "장미"
+          },
           "fileName": "1F339.png"
         },
         {
           "id": "openmoji_flower_garden_1f33a",
           "title": "芙蓉",
+          "localizedTitles": {
+            "zh-Hans": "芙蓉",
+            "zh-Hant": "芙蓉",
+            "en": "Hibiscus",
+            "ja": "ハイビスカス",
+            "ko": "히비스커스"
+          },
           "fileName": "1F33A.png"
         },
         {
           "id": "openmoji_flower_garden_1f33b",
           "title": "向日葵",
+          "localizedTitles": {
+            "zh-Hans": "向日葵",
+            "zh-Hant": "向日葵",
+            "en": "Sunflower",
+            "ja": "ひまわり",
+            "ko": "해바라기"
+          },
           "fileName": "1F33B.png"
         },
         {
           "id": "openmoji_flower_garden_1f33c",
           "title": "开花",
+          "localizedTitles": {
+            "zh-Hans": "开花",
+            "zh-Hant": "開花",
+            "en": "Blossom",
+            "ja": "花",
+            "ko": "꽃"
+          },
           "fileName": "1F33C.png"
         },
         {
           "id": "openmoji_flower_garden_1f490",
           "title": "花束",
+          "localizedTitles": {
+            "zh-Hans": "花束",
+            "zh-Hant": "花束",
+            "en": "Bouquet",
+            "ja": "花束",
+            "ko": "꽃다발"
+          },
           "fileName": "1F490.png"
         },
         {
           "id": "openmoji_flower_garden_1f940",
           "title": "枯萎花",
+          "localizedTitles": {
+            "zh-Hans": "枯萎花",
+            "zh-Hant": "枯萎花",
+            "en": "Wilted Flower",
+            "ja": "枯れた花",
+            "ko": "시든 꽃"
+          },
           "fileName": "1F940.png"
         },
         {
           "id": "openmoji_flower_garden_1f33e",
           "title": "稻穗",
+          "localizedTitles": {
+            "zh-Hans": "稻穗",
+            "zh-Hant": "稻穗",
+            "en": "Rice",
+            "ja": "稲穂",
+            "ko": "이삭"
+          },
           "fileName": "1F33E.png"
         },
         {
           "id": "openmoji_flower_garden_1f344",
           "title": "蘑菇",
+          "localizedTitles": {
+            "zh-Hans": "蘑菇",
+            "zh-Hant": "蘑菇",
+            "en": "Mushroom",
+            "ja": "キノコ",
+            "ko": "버섯"
+          },
           "fileName": "1F344.png"
         },
         {
           "id": "openmoji_flower_garden_1f41d",
           "title": "蜜蜂",
+          "localizedTitles": {
+            "zh-Hans": "蜜蜂",
+            "zh-Hant": "蜜蜂",
+            "en": "Bee",
+            "ja": "蜂",
+            "ko": "꿀벌"
+          },
           "fileName": "1F41D.png"
         },
         {
           "id": "openmoji_flower_garden_1f98b",
           "title": "蝴蝶",
+          "localizedTitles": {
+            "zh-Hans": "蝴蝶",
+            "zh-Hant": "蝴蝶",
+            "en": "Butterfly",
+            "ja": "チョウ",
+            "ko": "나비"
+          },
           "fileName": "1F98B.png"
         },
         {
           "id": "openmoji_sea_vacation_1f30a",
           "title": "海浪",
+          "localizedTitles": {
+            "zh-Hans": "海浪",
+            "zh-Hant": "海浪",
+            "en": "Ocean Wave",
+            "ja": "波",
+            "ko": "파도"
+          },
           "fileName": "1F30A.png"
         },
         {
           "id": "openmoji_sea_vacation_1f3dd",
           "title": "无人岛",
+          "localizedTitles": {
+            "zh-Hans": "无人岛",
+            "zh-Hant": "無人島",
+            "en": "Desert Island",
+            "ja": "無人島",
+            "ko": "무인도"
+          },
           "fileName": "1F3DD.png"
         },
         {
           "id": "openmoji_sea_vacation_1f41f",
           "title": "鱼",
+          "localizedTitles": {
+            "zh-Hans": "鱼",
+            "zh-Hant": "魚",
+            "en": "Fish",
+            "ja": "魚",
+            "ko": "물고기"
+          },
           "fileName": "1F41F.png"
         },
         {
           "id": "openmoji_sea_vacation_1f420",
           "title": "热带鱼",
+          "localizedTitles": {
+            "zh-Hans": "热带鱼",
+            "zh-Hant": "熱帶魚",
+            "en": "Tropical Fish",
+            "ja": "熱帯魚",
+            "ko": "열대어"
+          },
           "fileName": "1F420.png"
         },
         {
           "id": "openmoji_sea_vacation_1f421",
           "title": "河豚",
+          "localizedTitles": {
+            "zh-Hans": "河豚",
+            "zh-Hant": "河豚",
+            "en": "Blowfish",
+            "ja": "フグ",
+            "ko": "복어"
+          },
           "fileName": "1F421.png"
         },
         {
           "id": "openmoji_sea_vacation_1f988",
           "title": "鲨鱼",
+          "localizedTitles": {
+            "zh-Hans": "鲨鱼",
+            "zh-Hant": "鯊魚",
+            "en": "Shark",
+            "ja": "サメ",
+            "ko": "상어"
+          },
           "fileName": "1F988.png"
         },
         {
           "id": "openmoji_sea_vacation_1f42c",
           "title": "海豚",
+          "localizedTitles": {
+            "zh-Hans": "海豚",
+            "zh-Hant": "海豚",
+            "en": "Dolphin",
+            "ja": "イルカ",
+            "ko": "돌고래"
+          },
           "fileName": "1F42C.png"
         },
         {
           "id": "openmoji_sea_vacation_1f433",
           "title": "鲸鱼",
+          "localizedTitles": {
+            "zh-Hans": "鲸鱼",
+            "zh-Hant": "鯨魚",
+            "en": "Whale",
+            "ja": "クジラ",
+            "ko": "고래"
+          },
           "fileName": "1F433.png"
         },
         {
           "id": "openmoji_sea_vacation_1f419",
           "title": "章鱼",
+          "localizedTitles": {
+            "zh-Hans": "章鱼",
+            "zh-Hant": "章魚",
+            "en": "Octopus",
+            "ja": "タコ",
+            "ko": "문어"
+          },
           "fileName": "1F419.png"
         },
         {
           "id": "openmoji_sea_vacation_1f9ad",
           "title": "海豹",
+          "localizedTitles": {
+            "zh-Hans": "海豹",
+            "zh-Hant": "海豹",
+            "en": "Seal",
+            "ja": "アザラシ",
+            "ko": "바다표범"
+          },
           "fileName": "1F9AD.png"
         },
         {
           "id": "openmoji_fire_power_26a1",
           "title": "闪电",
+          "localizedTitles": {
+            "zh-Hans": "闪电",
+            "zh-Hant": "閃電",
+            "en": "Lightning",
+            "ja": "雷",
+            "ko": "번개"
+          },
           "fileName": "26A1.png"
         },
         {
           "id": "openmoji_green_light_2705",
           "title": "完成",
+          "localizedTitles": {
+            "zh-Hans": "完成",
+            "zh-Hant": "完成",
+            "en": "Done",
+            "ja": "完了",
+            "ko": "완료"
+          },
           "fileName": "2705.png"
         },
         {
           "id": "openmoji_green_light_2611",
           "title": "勾选框",
+          "localizedTitles": {
+            "zh-Hans": "勾选框",
+            "zh-Hant": "勾選框",
+            "en": "Checkbox",
+            "ja": "チェックボックス",
+            "ko": "체크박스"
+          },
           "fileName": "2611.png"
         },
         {
           "id": "openmoji_green_light_2714",
           "title": "对勾",
+          "localizedTitles": {
+            "zh-Hans": "对勾",
+            "zh-Hant": "對勾",
+            "en": "Check Mark",
+            "ja": "チェックマーク",
+            "ko": "체크 표시"
+          },
           "fileName": "2714.png"
         },
         {
           "id": "openmoji_green_light_1f7e2",
           "title": "绿圆",
+          "localizedTitles": {
+            "zh-Hans": "绿圆",
+            "zh-Hant": "綠圓",
+            "en": "Green Circle",
+            "ja": "緑の丸",
+            "ko": "초록 원"
+          },
           "fileName": "1F7E2.png"
         },
         {
           "id": "openmoji_green_light_1f646",
           "title": "可以",
+          "localizedTitles": {
+            "zh-Hans": "可以",
+            "zh-Hant": "可以",
+            "en": "OK Gesture",
+            "ja": "OKサイン",
+            "ko": "OK 제스처"
+          },
           "fileName": "1F646.png"
         },
         {
           "id": "openmoji_green_light_1f91d",
           "title": "握手",
+          "localizedTitles": {
+            "zh-Hans": "握手",
+            "zh-Hant": "握手",
+            "en": "Handshake",
+            "ja": "握手",
+            "ko": "악수"
+          },
           "fileName": "1F91D.png"
         },
         {
           "id": "openmoji_green_light_1f4e9",
           "title": "收到",
+          "localizedTitles": {
+            "zh-Hans": "收到",
+            "zh-Hant": "收到",
+            "en": "Inbox",
+            "ja": "受信箱",
+            "ko": "수신함"
+          },
           "fileName": "1F4E9.png"
         },
         {
           "id": "openmoji_green_light_1f3c1",
           "title": "终点",
+          "localizedTitles": {
+            "zh-Hans": "终点",
+            "zh-Hant": "終點",
+            "en": "Checkered Flag",
+            "ja": "チェッカーフラッグ",
+            "ko": "체커기"
+          },
           "fileName": "1F3C1.png"
         },
         {
           "id": "openmoji_red_alert_274c",
           "title": "错误",
+          "localizedTitles": {
+            "zh-Hans": "错误",
+            "zh-Hant": "錯誤",
+            "en": "Error",
+            "ja": "エラー",
+            "ko": "오류"
+          },
           "fileName": "274C.png"
         },
         {
           "id": "openmoji_red_alert_26d4",
           "title": "禁止进入",
+          "localizedTitles": {
+            "zh-Hans": "禁止进入",
+            "zh-Hant": "禁止進入",
+            "en": "No Entry",
+            "ja": "立入禁止",
+            "ko": "출입 금지"
+          },
           "fileName": "26D4.png"
         },
         {
           "id": "openmoji_red_alert_1f6ab",
           "title": "禁止",
+          "localizedTitles": {
+            "zh-Hans": "禁止",
+            "zh-Hant": "禁止",
+            "en": "Prohibited",
+            "ja": "禁止",
+            "ko": "금지"
+          },
           "fileName": "1F6AB.png"
         },
         {
           "id": "openmoji_red_alert_26a0",
           "title": "警告",
+          "localizedTitles": {
+            "zh-Hans": "警告",
+            "zh-Hant": "警告",
+            "en": "Warning",
+            "ja": "警告",
+            "ko": "경고"
+          },
           "fileName": "26A0.png"
         },
         {
           "id": "openmoji_red_alert_1f6a8",
           "title": "警灯",
+          "localizedTitles": {
+            "zh-Hans": "警灯",
+            "zh-Hant": "警燈",
+            "en": "Police Light",
+            "ja": "パトランプ",
+            "ko": "경광등"
+          },
           "fileName": "1F6A8.png"
         },
         {
           "id": "openmoji_red_alert_1f534",
           "title": "红圆",
+          "localizedTitles": {
+            "zh-Hans": "红圆",
+            "zh-Hant": "紅圓",
+            "en": "Red Circle",
+            "ja": "赤の丸",
+            "ko": "빨간 원"
+          },
           "fileName": "1F534.png"
         },
         {
           "id": "openmoji_red_alert_1f6d1",
           "title": "停止",
+          "localizedTitles": {
+            "zh-Hans": "停止",
+            "zh-Hant": "停止",
+            "en": "Stop",
+            "ja": "止まれ",
+            "ko": "정지"
+          },
           "fileName": "1F6D1.png"
         },
         {
           "id": "openmoji_time_deadline_231a",
           "title": "手表",
+          "localizedTitles": {
+            "zh-Hans": "手表",
+            "zh-Hant": "手錶",
+            "en": "Watch",
+            "ja": "腕時計",
+            "ko": "손목시계"
+          },
           "fileName": "231A.png"
         },
         {
           "id": "openmoji_time_deadline_23f1",
           "title": "秒表",
+          "localizedTitles": {
+            "zh-Hans": "秒表",
+            "zh-Hant": "碼錶",
+            "en": "Stopwatch",
+            "ja": "ストップウォッチ",
+            "ko": "스톱워치"
+          },
           "fileName": "23F1.png"
         },
         {
           "id": "openmoji_time_deadline_23f2",
           "title": "计时器",
+          "localizedTitles": {
+            "zh-Hans": "计时器",
+            "zh-Hant": "計時器",
+            "en": "Timer",
+            "ja": "タイマー",
+            "ko": "타이머"
+          },
           "fileName": "23F2.png"
         },
         {
           "id": "openmoji_time_deadline_231b",
           "title": "沙漏完成",
+          "localizedTitles": {
+            "zh-Hans": "沙漏完成",
+            "zh-Hant": "沙漏完成",
+            "en": "Hourglass Done",
+            "ja": "砂時計終了",
+            "ko": "모래시계 완료"
+          },
           "fileName": "231B.png"
         },
         {
           "id": "openmoji_time_deadline_1f4c6",
           "title": "撕页日历",
+          "localizedTitles": {
+            "zh-Hans": "撕页日历",
+            "zh-Hant": "撕頁日曆",
+            "en": "Tear-Off Calendar",
+            "ja": "カレンダー",
+            "ko": "달력 뜯기"
+          },
           "fileName": "1F4C6.png"
         },
         {
           "id": "openmoji_time_deadline_1f550",
           "title": "一点",
+          "localizedTitles": {
+            "zh-Hans": "一点",
+            "zh-Hant": "一點",
+            "en": "One O'Clock",
+            "ja": "1時",
+            "ko": "1시"
+          },
           "fileName": "1F550.png"
         },
         {
           "id": "openmoji_time_deadline_1f55b",
           "title": "十二点",
+          "localizedTitles": {
+            "zh-Hans": "十二点",
+            "zh-Hant": "十二點",
+            "en": "Twelve O'Clock",
+            "ja": "12時",
+            "ko": "12시"
+          },
           "fileName": "1F55B.png"
         },
         {
           "id": "openmoji_time_deadline_1f4a8",
           "title": "冲刺",
+          "localizedTitles": {
+            "zh-Hans": "冲刺",
+            "zh-Hant": "衝刺",
+            "en": "Dash",
+            "ja": "ダッシュ",
+            "ko": "질주"
+          },
           "fileName": "1F4A8.png"
         },
         {
           "id": "openmoji_random_meme_1fae0",
           "title": "融化了",
+          "localizedTitles": {
+            "zh-Hans": "融化了",
+            "zh-Hant": "融化了",
+            "en": "Melting",
+            "ja": "溶ける",
+            "ko": "녹아내림"
+          },
           "fileName": "1FAE0.png"
         },
         {
           "id": "openmoji_random_meme_1f4a9",
           "title": "绷不住",
+          "localizedTitles": {
+            "zh-Hans": "绷不住",
+            "zh-Hant": "繃不住",
+            "en": "Pile of Poo",
+            "ja": "うんち",
+            "ko": "똥"
+          },
           "fileName": "1F4A9.png"
         },
         {
           "id": "openmoji_random_meme_1f643",
           "title": "倒着笑",
+          "localizedTitles": {
+            "zh-Hans": "倒着笑",
+            "zh-Hant": "倒著笑",
+            "en": "Upside Down",
+            "ja": "逆さま笑顔",
+            "ko": "거꾸로 웃기"
+          },
           "fileName": "1F643.png"
         },
         {
           "id": "openmoji_random_meme_1f644",
           "title": "白眼",
+          "localizedTitles": {
+            "zh-Hans": "白眼",
+            "zh-Hant": "白眼",
+            "en": "Eye Roll",
+            "ja": "白目",
+            "ko": "눈 흘기기"
+          },
           "fileName": "1F644.png"
         },
         {
           "id": "openmoji_random_meme_1f300",
           "title": "旋涡",
+          "localizedTitles": {
+            "zh-Hans": "旋涡",
+            "zh-Hant": "漩渦",
+            "en": "Cyclone",
+            "ja": "サイクロン",
+            "ko": "소용돌이"
+          },
           "fileName": "1F300.png"
         },
         {
           "id": "openmoji_good_night_1f31b",
           "title": "上弦月脸",
+          "localizedTitles": {
+            "zh-Hans": "上弦月脸",
+            "zh-Hant": "上弦月臉",
+            "en": "First Quarter Moon Face",
+            "ja": "上弦の月の顔",
+            "ko": "상현달 얼굴"
+          },
           "fileName": "1F31B.png"
         },
         {
           "id": "openmoji_good_night_1f31c",
           "title": "下弦月脸",
+          "localizedTitles": {
+            "zh-Hans": "下弦月脸",
+            "zh-Hant": "下弦月臉",
+            "en": "Last Quarter Moon Face",
+            "ja": "下弦の月の顔",
+            "ko": "하현달 얼굴"
+          },
           "fileName": "1F31C.png"
         },
         {
           "id": "openmoji_good_night_1f31d",
           "title": "满月脸",
+          "localizedTitles": {
+            "zh-Hans": "满月脸",
+            "zh-Hant": "滿月臉",
+            "en": "Full Moon Face",
+            "ja": "満月の顔",
+            "ko": "보름달 얼굴"
+          },
           "fileName": "1F31D.png"
         },
         {
           "id": "openmoji_good_night_1f56f",
           "title": "蜡烛",
+          "localizedTitles": {
+            "zh-Hans": "蜡烛",
+            "zh-Hant": "蠟燭",
+            "en": "Candle",
+            "ja": "ろうそく",
+            "ko": "양초"
+          },
           "fileName": "1F56F.png"
         },
         {
           "id": "openmoji_good_night_1f303",
           "title": "夜晚",
+          "localizedTitles": {
+            "zh-Hans": "夜晚",
+            "zh-Hant": "夜晚",
+            "en": "Night",
+            "ja": "夜",
+            "ko": "밤"
+          },
           "fileName": "1F303.png"
         },
         {
           "id": "om_react_1f609",
           "title": "眨眼",
+          "localizedTitles": {
+            "zh-Hans": "眨眼",
+            "zh-Hant": "眨眼",
+            "en": "Wink",
+            "ja": "ウィンク",
+            "ko": "윙크"
+          },
           "fileName": "1F609.png"
         },
         {
           "id": "om_react_1f972",
           "title": "含泪笑",
+          "localizedTitles": {
+            "zh-Hans": "含泪笑",
+            "zh-Hant": "含淚笑",
+            "en": "Teary Smile",
+            "ja": "涙目の笑顔",
+            "ko": "눈물 웃음"
+          },
           "fileName": "1F972.png"
         },
         {
           "id": "om_react_1f60b",
           "title": "好吃",
+          "localizedTitles": {
+            "zh-Hans": "好吃",
+            "zh-Hant": "好吃",
+            "en": "Yum",
+            "ja": "うまい",
+            "ko": "맛있어"
+          },
           "fileName": "1F60B.png"
         },
         {
           "id": "om_react_1f61b",
           "title": "吐舌",
+          "localizedTitles": {
+            "zh-Hans": "吐舌",
+            "zh-Hant": "吐舌",
+            "en": "Tongue Out",
+            "ja": "ベー",
+            "ko": "메롱"
+          },
           "fileName": "1F61B.png"
         },
         {
           "id": "om_react_1f61d",
           "title": "眯眼吐舌",
+          "localizedTitles": {
+            "zh-Hans": "眯眼吐舌",
+            "zh-Hant": "眯眼吐舌",
+            "en": "Squinting Tongue",
+            "ja": "目閉じベー",
+            "ko": "눈 감고 메롱"
+          },
           "fileName": "1F61D.png"
         },
         {
           "id": "om_react_1fae3",
           "title": "偷看",
+          "localizedTitles": {
+            "zh-Hans": "偷看",
+            "zh-Hant": "偷看",
+            "en": "Peekaboo",
+            "ja": "のぞき見",
+            "ko": "엿보기"
+          },
           "fileName": "1FAE3.png"
         },
         {
           "id": "om_react_1f92b",
           "title": "嘘",
+          "localizedTitles": {
+            "zh-Hans": "嘘",
+            "zh-Hant": "噓",
+            "en": "Shush",
+            "ja": "シーッ",
+            "ko": "쉿"
+          },
           "fileName": "1F92B.png"
         },
         {
           "id": "om_react_1f914",
           "title": "思考",
+          "localizedTitles": {
+            "zh-Hans": "思考",
+            "zh-Hant": "思考",
+            "en": "Thinking",
+            "ja": "考え中",
+            "ko": "생각"
+          },
           "fileName": "1F914.png"
         },
         {
           "id": "om_react_1fae1",
           "title": "敬礼",
+          "localizedTitles": {
+            "zh-Hans": "敬礼",
+            "zh-Hant": "敬禮",
+            "en": "Salute",
+            "ja": "敬礼",
+            "ko": "경례"
+          },
           "fileName": "1FAE1.png"
         },
         {
           "id": "om_react_1f910",
           "title": "闭嘴",
+          "localizedTitles": {
+            "zh-Hans": "闭嘴",
+            "zh-Hant": "閉嘴",
+            "en": "Zipped Lips",
+            "ja": "口チャック",
+            "ko": "입 닫기"
+          },
           "fileName": "1F910.png"
         },
         {
           "id": "om_react_1f928",
           "title": "怀疑",
+          "localizedTitles": {
+            "zh-Hans": "怀疑",
+            "zh-Hant": "懷疑",
+            "en": "Skeptical",
+            "ja": "疑い",
+            "ko": "의심"
+          },
           "fileName": "1F928.png"
         },
         {
           "id": "om_react_1f610",
           "title": "无语",
+          "localizedTitles": {
+            "zh-Hans": "无语",
+            "zh-Hant": "無語",
+            "en": "Speechless",
+            "ja": "無言",
+            "ko": "말 없음"
+          },
           "fileName": "1F610.png"
         },
         {
           "id": "om_react_1f611",
           "title": "面无表情",
+          "localizedTitles": {
+            "zh-Hans": "面无表情",
+            "zh-Hant": "面無表情",
+            "en": "Expressionless",
+            "ja": "無表情",
+            "ko": "무표정"
+          },
           "fileName": "1F611.png"
         },
         {
           "id": "om_react_1f636",
           "title": "沉默",
+          "localizedTitles": {
+            "zh-Hans": "沉默",
+            "zh-Hant": "沉默",
+            "en": "Blank Face",
+            "ja": "沈黙",
+            "ko": "침묵"
+          },
           "fileName": "1F636.png"
         },
         {
           "id": "om_react_1fae5",
           "title": "虚线人",
+          "localizedTitles": {
+            "zh-Hans": "虚线人",
+            "zh-Hant": "虛線人",
+            "en": "Dotted Face",
+            "ja": "点線顔",
+            "ko": "점선 얼굴"
+          },
           "fileName": "1FAE5.png"
         },
         {
           "id": "om_react_1f60f",
           "title": "坏笑",
+          "localizedTitles": {
+            "zh-Hans": "坏笑",
+            "zh-Hant": "壞笑",
+            "en": "Smirk",
+            "ja": "ニヤリ",
+            "ko": "씨익"
+          },
           "fileName": "1F60F.png"
         },
         {
           "id": "om_react_1f612",
           "title": "不爽",
+          "localizedTitles": {
+            "zh-Hans": "不爽",
+            "zh-Hant": "不爽",
+            "en": "Unamused",
+            "ja": "不機嫌",
+            "ko": "불쾌"
+          },
           "fileName": "1F612.png"
         },
         {
           "id": "om_react_1f62c",
           "title": "龇牙",
+          "localizedTitles": {
+            "zh-Hans": "龇牙",
+            "zh-Hant": "齜牙",
+            "en": "Gritting Teeth",
+            "ja": "歯食いしばり",
+            "ko": "이 악물기"
+          },
           "fileName": "1F62C.png"
         },
         {
           "id": "om_react_1f925",
           "title": "说谎",
+          "localizedTitles": {
+            "zh-Hans": "说谎",
+            "zh-Hant": "說謊",
+            "en": "Lying",
+            "ja": "嘘",
+            "ko": "거짓말"
+          },
           "fileName": "1F925.png"
         },
         {
           "id": "om_react_1f60c",
           "title": "松口气",
+          "localizedTitles": {
+            "zh-Hans": "松口气",
+            "zh-Hant": "鬆口氣",
+            "en": "Relieved",
+            "ja": "ほっと",
+            "ko": "안도"
+          },
           "fileName": "1F60C.png"
         },
         {
           "id": "om_react_1f974",
           "title": "微醺",
+          "localizedTitles": {
+            "zh-Hans": "微醺",
+            "zh-Hant": "微醺",
+            "en": "Tipsy",
+            "ja": "ほろ酔い",
+            "ko": "알딸딸"
+          },
           "fileName": "1F974.png"
         },
         {
           "id": "om_react_1f615",
           "title": "困惑",
+          "localizedTitles": {
+            "zh-Hans": "困惑",
+            "zh-Hant": "困惑",
+            "en": "Confused",
+            "ja": "戸惑い",
+            "ko": "혼란"
+          },
           "fileName": "1F615.png"
         },
         {
           "id": "om_react_1fae4",
           "title": "斜嘴",
+          "localizedTitles": {
+            "zh-Hans": "斜嘴",
+            "zh-Hant": "斜嘴",
+            "en": "Sideways Mouth",
+            "ja": "横口",
+            "ko": "비뚤어진 입"
+          },
           "fileName": "1FAE4.png"
         },
         {
           "id": "om_react_1f61f",
           "title": "担心",
+          "localizedTitles": {
+            "zh-Hans": "担心",
+            "zh-Hant": "擔心",
+            "en": "Worried",
+            "ja": "心配",
+            "ko": "걱정"
+          },
           "fileName": "1F61F.png"
         },
         {
           "id": "om_react_1f616",
           "title": "纠结",
+          "localizedTitles": {
+            "zh-Hans": "纠结",
+            "zh-Hant": "糾結",
+            "en": "Anguished",
+            "ja": "悶え",
+            "ko": "고뇌"
+          },
           "fileName": "1F616.png"
         },
         {
           "id": "om_react_1f623",
           "title": "忍住",
+          "localizedTitles": {
+            "zh-Hans": "忍住",
+            "zh-Hant": "忍住",
+            "en": "Persevering",
+            "ja": "こらえる",
+            "ko": "참아냄"
+          },
           "fileName": "1F623.png"
         },
         {
           "id": "om_social_eyes",
           "title": "看看",
+          "localizedTitles": {
+            "zh-Hans": "看看",
+            "zh-Hant": "看看",
+            "en": "Looking",
+            "ja": "見てる",
+            "ko": "보고 있어"
+          },
           "fileName": "1F440.png"
         },
         {
           "id": "om_tired_bags",
           "title": "眼袋打工人",
+          "localizedTitles": {
+            "zh-Hans": "眼袋打工人",
+            "zh-Hant": "眼袋打工人",
+            "en": "Eye Bags Worker",
+            "ja": "目の下クマ社畜",
+            "ko": "다크서클 직장인"
+          },
           "fileName": "1FAE9.png"
         },
         {
           "id": "om_tired_dizzy",
           "title": "头晕",
+          "localizedTitles": {
+            "zh-Hans": "头晕",
+            "zh-Hant": "頭暈",
+            "en": "Dizzy Face",
+            "ja": "目が回る",
+            "ko": "어지럼"
+          },
           "fileName": "1F635-200D-1F4AB.png"
         },
         {
           "id": "om_tired_exhale",
           "title": "叹气",
+          "localizedTitles": {
+            "zh-Hans": "叹气",
+            "zh-Hant": "嘆氣",
+            "en": "Sigh",
+            "ja": "ため息",
+            "ko": "한숨"
+          },
           "fileName": "1F62E-200D-1F4A8.png"
         },
         {
           "id": "om_affection_hug",
           "title": "抱一下",
+          "localizedTitles": {
+            "zh-Hans": "抱一下",
+            "zh-Hant": "抱一下",
+            "en": "Hugging",
+            "ja": "ハグする",
+            "ko": "안아주기"
+          },
           "fileName": "1FAC2.png"
         },
         {
           "id": "om_food_rice",
           "title": "开饭",
+          "localizedTitles": {
+            "zh-Hans": "开饭",
+            "zh-Hant": "開飯",
+            "en": "Rice Time",
+            "ja": "ご飯だよ",
+            "ko": "밥 먹을 시간"
+          },
           "fileName": "1F35A.png"
         },
         {
           "id": "om_food_chicken",
           "title": "加鸡腿",
+          "localizedTitles": {
+            "zh-Hans": "加鸡腿",
+            "zh-Hant": "加雞腿",
+            "en": "Bonus Chicken",
+            "ja": "チキン追加",
+            "ko": "치킨 추가"
+          },
           "fileName": "1F357.png"
         },
         {
           "id": "om_food_melon",
           "title": "吃瓜",
+          "localizedTitles": {
+            "zh-Hans": "吃瓜",
+            "zh-Hant": "吃瓜",
+            "en": "Eating Melon",
+            "ja": "瓜食い",
+            "ko": "수박 먹기"
+          },
           "fileName": "1F349.png"
         }
       ]
@@ -2314,6 +5527,13 @@
     {
       "id": "real-cat-moods",
       "title": "真实猫咪情绪包",
+      "localizedTitles": {
+        "zh-Hans": "真实猫咪情绪包",
+        "zh-Hant": "真實貓咪情緒包",
+        "en": "Real Cat Moods",
+        "ja": "リアル猫のきもち",
+        "ko": "리얼 고양이 감정 팩"
+      },
       "version": 1,
       "archiveName": "real-cat-moods-v1.zip",
       "archiveURL": "https://github.com/zyuanming/coco-sticker-packs/releases/download/real-cat-moods-v1/real-cat-moods-v1.zip",
@@ -2331,61 +5551,145 @@
         {
           "id": "real_cat_happy_yay",
           "title": "好耶猫",
+          "localizedTitles": {
+            "zh-Hans": "好耶猫",
+            "zh-Hant": "好耶貓",
+            "en": "Yay Cat",
+            "ja": "イエイ猫",
+            "ko": "만세 고양이"
+          },
           "fileName": "real_cat_happy_yay.png"
         },
         {
           "id": "real_cat_steady",
           "title": "稳了猫",
+          "localizedTitles": {
+            "zh-Hans": "稳了猫",
+            "zh-Hant": "穩了貓",
+            "en": "Solid Cat",
+            "ja": "安定猫",
+            "ko": "안정 고양이"
+          },
           "fileName": "real_cat_steady.png"
         },
         {
           "id": "real_cat_shocked",
           "title": "震惊猫",
+          "localizedTitles": {
+            "zh-Hans": "震惊猫",
+            "zh-Hant": "震驚貓",
+            "en": "Shocked Cat",
+            "ja": "衝撃猫",
+            "ko": "충격 고양이"
+          },
           "fileName": "real_cat_shocked.png"
         },
         {
           "id": "real_cat_facepalm",
           "title": "无语猫",
+          "localizedTitles": {
+            "zh-Hans": "无语猫",
+            "zh-Hant": "無語貓",
+            "en": "Speechless Cat",
+            "ja": "呆れ猫",
+            "ko": "어이없는 고양이"
+          },
           "fileName": "real_cat_facepalm.png"
         },
         {
           "id": "real_cat_closed",
           "title": "不营业猫",
+          "localizedTitles": {
+            "zh-Hans": "不营业猫",
+            "zh-Hant": "不營業貓",
+            "en": "Closed Cat",
+            "ja": "営業終了猫",
+            "ko": "영업 종료 고양이"
+          },
           "fileName": "real_cat_closed.png"
         },
         {
           "id": "real_cat_tired",
           "title": "累了猫",
+          "localizedTitles": {
+            "zh-Hans": "累了猫",
+            "zh-Hant": "累了貓",
+            "en": "Tired Cat",
+            "ja": "疲れ猫",
+            "ko": "지친 고양이"
+          },
           "fileName": "real_cat_tired.png"
         },
         {
           "id": "real_cat_crash",
           "title": "崩溃猫",
+          "localizedTitles": {
+            "zh-Hans": "崩溃猫",
+            "zh-Hant": "崩潰貓",
+            "en": "Crashed Cat",
+            "ja": "崩壊猫",
+            "ko": "붕괴 고양이"
+          },
           "fileName": "real_cat_crash.png"
         },
         {
           "id": "real_cat_blank",
           "title": "发呆猫",
+          "localizedTitles": {
+            "zh-Hans": "发呆猫",
+            "zh-Hant": "發呆貓",
+            "en": "Blank Cat",
+            "ja": "放心猫",
+            "ko": "멍 고양이"
+          },
           "fileName": "real_cat_blank.png"
         },
         {
           "id": "real_cat_mischief",
           "title": "偷笑猫",
+          "localizedTitles": {
+            "zh-Hans": "偷笑猫",
+            "zh-Hant": "偷笑貓",
+            "en": "Giggling Cat",
+            "ja": "クスクス猫",
+            "ko": "낄낄 고양이"
+          },
           "fileName": "real_cat_mischief.png"
         },
         {
           "id": "real_cat_cool",
           "title": "可以猫",
+          "localizedTitles": {
+            "zh-Hans": "可以猫",
+            "zh-Hant": "可以貓",
+            "en": "Cool Cat",
+            "ja": "オッケー猫",
+            "ko": "오케이 고양이"
+          },
           "fileName": "real_cat_cool.png"
         },
         {
           "id": "real_cat_busy",
           "title": "在忙猫",
+          "localizedTitles": {
+            "zh-Hans": "在忙猫",
+            "zh-Hant": "在忙貓",
+            "en": "Busy Cat",
+            "ja": "多忙猫",
+            "ko": "바쁜 고양이"
+          },
           "fileName": "real_cat_busy.png"
         },
         {
           "id": "real_cat_silly",
           "title": "略略猫",
+          "localizedTitles": {
+            "zh-Hans": "略略猫",
+            "zh-Hant": "略略貓",
+            "en": "Cheeky Cat",
+            "ja": "ベー猫",
+            "ko": "메롱 고양이"
+          },
           "fileName": "real_cat_silly.png"
         }
       ]
@@ -2393,6 +5697,13 @@
     {
       "id": "twemoji-fun-static",
       "title": "Twemoji 搞怪静图组",
+      "localizedTitles": {
+        "zh-Hans": "Twemoji 搞怪静图组",
+        "zh-Hant": "Twemoji 搞怪靜圖組",
+        "en": "Twemoji Fun Stickers",
+        "ja": "Twemoji おふざきスタンプ",
+        "ko": "Twemoji 장난 스티커"
+      },
       "version": 1,
       "archiveName": "twemoji-fun-static-v1.zip",
       "archiveURL": "https://github.com/twitter/twemoji",
@@ -2410,46 +5721,109 @@
         {
           "id": "tw_laugh",
           "title": "笑哭",
+          "localizedTitles": {
+            "zh-Hans": "笑哭",
+            "zh-Hant": "笑哭",
+            "en": "Tears of Joy",
+            "ja": "笑い泣き",
+            "ko": "웃다가 울기"
+          },
           "fileName": "1f602.png"
         },
         {
           "id": "tw_love",
           "title": "爱心眼",
+          "localizedTitles": {
+            "zh-Hans": "爱心眼",
+            "zh-Hant": "愛心眼",
+            "en": "Heart Eyes",
+            "ja": "目がハート",
+            "ko": "하트 눈"
+          },
           "fileName": "1f60d.png"
         },
         {
           "id": "tw_sunglasses",
           "title": "墨镜",
+          "localizedTitles": {
+            "zh-Hans": "墨镜",
+            "zh-Hant": "墨鏡",
+            "en": "Sunglasses",
+            "ja": "サングラス",
+            "ko": "선글라스"
+          },
           "fileName": "1f60e.png"
         },
         {
           "id": "tw_think",
           "title": "思考",
+          "localizedTitles": {
+            "zh-Hans": "思考",
+            "zh-Hant": "思考",
+            "en": "Thinking",
+            "ja": "考え中",
+            "ko": "생각"
+          },
           "fileName": "1f914.png"
         },
         {
           "id": "tw_rolling",
           "title": "白眼",
+          "localizedTitles": {
+            "zh-Hans": "白眼",
+            "zh-Hant": "白眼",
+            "en": "Eye Roll",
+            "ja": "白目",
+            "ko": "눈 흘기기"
+          },
           "fileName": "1f644.png"
         },
         {
           "id": "tw_cry",
           "title": "爆哭",
+          "localizedTitles": {
+            "zh-Hans": "爆哭",
+            "zh-Hant": "爆哭",
+            "en": "Sobbing",
+            "ja": "大泣き",
+            "ko": "펑펑 울기"
+          },
           "fileName": "1f62d.png"
         },
         {
           "id": "tw_mindblown",
           "title": "震惊",
+          "localizedTitles": {
+            "zh-Hans": "震惊",
+            "zh-Hant": "震驚",
+            "en": "Mind Blown",
+            "ja": "頭爆発",
+            "ko": "머리 폭발"
+          },
           "fileName": "1f92f.png"
         },
         {
           "id": "tw_party",
           "title": "派对",
+          "localizedTitles": {
+            "zh-Hans": "派对",
+            "zh-Hant": "派對",
+            "en": "Party",
+            "ja": "パーティー",
+            "ko": "파티"
+          },
           "fileName": "1f973.png"
         },
         {
           "id": "tw_100",
           "title": "100分",
+          "localizedTitles": {
+            "zh-Hans": "100分",
+            "zh-Hant": "100分",
+            "en": "100 Points",
+            "ja": "100点満点",
+            "ko": "100점"
+          },
           "fileName": "1f4af.png"
         }
       ]
@@ -2457,6 +5831,13 @@
     {
       "id": "animated-reactions",
       "title": "动态发癫表情组",
+      "localizedTitles": {
+        "zh-Hans": "动态发癫表情组",
+        "zh-Hant": "動態發癲表情組",
+        "en": "Animated Goofy Reactions",
+        "ja": "アニメわちゃわちゃスタンプ",
+        "ko": "움직이는 망가짐 반응"
+      },
       "version": 1,
       "archiveName": "animated-reactions-v1.zip",
       "archiveURL": "https://github.com/zyuanming/coco-sticker-packs/releases/download/animated-reactions-v1/animated-reactions-v1.zip",
@@ -2468,101 +5849,241 @@
         {
           "id": "gif_smile",
           "title": "笑眯眯",
+          "localizedTitles": {
+            "zh-Hans": "笑眯眯",
+            "zh-Hant": "笑瞇瞇",
+            "en": "Smiling",
+            "ja": "ニコニコ",
+            "ko": "방긋 웃기"
+          },
           "fileName": "gif_smile.gif"
         },
         {
           "id": "gif_heart_eyes",
           "title": "心动了",
+          "localizedTitles": {
+            "zh-Hans": "心动了",
+            "zh-Hant": "心動了",
+            "en": "Heart Eyes",
+            "ja": "ときめき",
+            "ko": "두근두근"
+          },
           "fileName": "gif_heart_eyes.gif"
         },
         {
           "id": "gif_hug",
           "title": "抱一下",
+          "localizedTitles": {
+            "zh-Hans": "抱一下",
+            "zh-Hant": "抱一下",
+            "en": "Hug",
+            "ja": "ハグ",
+            "ko": "포옹"
+          },
           "fileName": "gif_hug.gif"
         },
         {
           "id": "gif_party_face",
           "title": "好耶",
+          "localizedTitles": {
+            "zh-Hans": "好耶",
+            "zh-Hant": "好耶",
+            "en": "Hooray",
+            "ja": "イエイ",
+            "ko": "만세"
+          },
           "fileName": "gif_party_face.gif"
         },
         {
           "id": "gif_rofl",
           "title": "笑到打滚",
+          "localizedTitles": {
+            "zh-Hans": "笑到打滚",
+            "zh-Hant": "笑到打滾",
+            "en": "ROFL",
+            "ja": "転がるほど笑う",
+            "ko": "배꼽 빠지게 웃기"
+          },
           "fileName": "gif_rofl.gif"
         },
         {
           "id": "gif_zany",
           "title": "发癫中",
+          "localizedTitles": {
+            "zh-Hans": "发癫中",
+            "zh-Hant": "發癲中",
+            "en": "Going Crazy",
+            "ja": "ハイテンション中",
+            "ko": "맛 감 중"
+          },
           "fileName": "gif_zany.gif"
         },
         {
           "id": "gif_upside_down",
           "title": "倒着也行",
+          "localizedTitles": {
+            "zh-Hans": "倒着也行",
+            "zh-Hant": "倒著也行",
+            "en": "Upside Down",
+            "ja": "逆さまでもOK",
+            "ko": "거꾸로도 돼"
+          },
           "fileName": "gif_upside_down.gif"
         },
         {
           "id": "gif_melting",
           "title": "融化了",
+          "localizedTitles": {
+            "zh-Hans": "融化了",
+            "zh-Hant": "融化了",
+            "en": "Melting",
+            "ja": "溶ける",
+            "ko": "녹아내림"
+          },
           "fileName": "gif_melting.gif"
         },
         {
           "id": "gif_smirk",
           "title": "就这",
+          "localizedTitles": {
+            "zh-Hans": "就这",
+            "zh-Hant": "就這",
+            "en": "That's It?",
+            "ja": "それだけ？",
+            "ko": "게다가?"
+          },
           "fileName": "gif_smirk.gif"
         },
         {
           "id": "gif_raised_eyebrow",
           "title": "你确定",
+          "localizedTitles": {
+            "zh-Hans": "你确定",
+            "zh-Hant": "你確定",
+            "en": "You Sure?",
+            "ja": "マジで？",
+            "ko": "확실해?"
+          },
           "fileName": "gif_raised_eyebrow.gif"
         },
         {
           "id": "gif_rolling_eyes",
           "title": "白眼",
+          "localizedTitles": {
+            "zh-Hans": "白眼",
+            "zh-Hant": "白眼",
+            "en": "Eye Roll",
+            "ja": "白目",
+            "ko": "눈 흘기기"
+          },
           "fileName": "gif_rolling_eyes.gif"
         },
         {
           "id": "gif_unamused",
           "title": "无语",
+          "localizedTitles": {
+            "zh-Hans": "无语",
+            "zh-Hant": "無語",
+            "en": "Unamused",
+            "ja": "不機嫌",
+            "ko": "불쾌"
+          },
           "fileName": "gif_unamused.gif"
         },
         {
           "id": "gif_tired",
           "title": "累了",
+          "localizedTitles": {
+            "zh-Hans": "累了",
+            "zh-Hant": "累了",
+            "en": "Tired",
+            "ja": "疲れた",
+            "ko": "지침"
+          },
           "fileName": "gif_tired.gif"
         },
         {
           "id": "gif_weary",
           "title": "顶不住",
+          "localizedTitles": {
+            "zh-Hans": "顶不住",
+            "zh-Hant": "頂不住",
+            "en": "Overwhelmed",
+            "ja": "限界",
+            "ko": "한계"
+          },
           "fileName": "gif_weary.gif"
         },
         {
           "id": "gif_loudly_crying",
           "title": "爆哭",
+          "localizedTitles": {
+            "zh-Hans": "爆哭",
+            "zh-Hant": "爆哭",
+            "en": "Sobbing",
+            "ja": "大泣き",
+            "ko": "펑펑 울기"
+          },
           "fileName": "gif_loudly_crying.gif"
         },
         {
           "id": "gif_shaking",
           "title": "震惊到抖",
+          "localizedTitles": {
+            "zh-Hans": "震惊到抖",
+            "zh-Hant": "震驚到抖",
+            "en": "Shaking",
+            "ja": "震え",
+            "ko": "떨림"
+          },
           "fileName": "gif_shaking.gif"
         },
         {
           "id": "gif_party_popper",
           "title": "开香槟",
+          "localizedTitles": {
+            "zh-Hans": "开香槟",
+            "zh-Hant": "開香檳",
+            "en": "Celebrate",
+            "ja": "お祝い",
+            "ko": "축하"
+          },
           "fileName": "gif_party_popper.gif"
         },
         {
           "id": "gif_fire",
           "title": "燃起来",
+          "localizedTitles": {
+            "zh-Hans": "燃起来",
+            "zh-Hant": "燃起來",
+            "en": "Fired Up",
+            "ja": "燃える",
+            "ko": "불타올라"
+          },
           "fileName": "gif_fire.gif"
         },
         {
           "id": "gif_100",
           "title": "满分",
+          "localizedTitles": {
+            "zh-Hans": "满分",
+            "zh-Hant": "滿分",
+            "en": "Perfect Score",
+            "ja": "100点満点",
+            "ko": "만점"
+          },
           "fileName": "gif_100.gif"
         },
         {
           "id": "gif_star_struck",
           "title": "眼里有光",
+          "localizedTitles": {
+            "zh-Hans": "眼里有光",
+            "zh-Hant": "眼裡有光",
+            "en": "Starstruck",
+            "ja": "目が星",
+            "ko": "별 눈"
+          },
           "fileName": "gif_star_struck.gif"
         }
       ]
@@ -2570,6 +6091,13 @@
     {
       "id": "pets-goofy",
       "title": "宠物发癫小队",
+      "localizedTitles": {
+        "zh-Hans": "宠物发癫小队",
+        "zh-Hant": "寵物發癲小隊",
+        "en": "Goofy Pet Squad",
+        "ja": "おうちペット隊",
+        "ko": "장난꾸러기 펫 소대"
+      },
       "version": 1,
       "archiveName": "pets-goofy-v1.zip",
       "archiveURL": "https://github.com/zyuanming/coco-sticker-packs/releases/download/pets-goofy-v1/pets-goofy-v1.zip",
@@ -2580,41 +6108,97 @@
         {
           "id": "pet_cat_blank",
           "title": "开摆猫",
+          "localizedTitles": {
+            "zh-Hans": "开摆猫",
+            "zh-Hant": "開擺貓",
+            "en": "Slacking Cat",
+            "ja": "やる気なし猫",
+            "ko": "포기 고양이"
+          },
           "fileName": "pet_cat_blank.png"
         },
         {
           "id": "pet_dog_silly",
           "title": "装傻狗",
+          "localizedTitles": {
+            "zh-Hans": "装傻狗",
+            "zh-Hant": "裝傻狗",
+            "en": "Goofy Dog",
+            "ja": "とぼけ犬",
+            "ko": "아닌 척 개"
+          },
           "fileName": "pet_dog_silly.png"
         },
         {
           "id": "pet_duck_huh",
           "title": "嘎鸭",
+          "localizedTitles": {
+            "zh-Hans": "嘎鸭",
+            "zh-Hant": "嘎鴨",
+            "en": "Confused Duck",
+            "ja": "えっアヒル",
+            "ko": "어? 오리"
+          },
           "fileName": "pet_duck_huh.png"
         },
         {
           "id": "pet_hamster_run",
           "title": "先跑仓鼠",
+          "localizedTitles": {
+            "zh-Hans": "先跑仓鼠",
+            "zh-Hant": "先跑倉鼠",
+            "en": "Running Hamster",
+            "ja": "逃走ハムスター",
+            "ko": "먼저 도망 햄스터"
+          },
           "fileName": "pet_hamster_run.png"
         },
         {
           "id": "pet_rabbit_nope",
           "title": "别吵兔",
+          "localizedTitles": {
+            "zh-Hans": "别吵兔",
+            "zh-Hant": "別吵兔",
+            "en": "Nope Rabbit",
+            "ja": "うるさいウサギ",
+            "ko": "시끄러 토끼"
+          },
           "fileName": "pet_rabbit_nope.png"
         },
         {
           "id": "pet_pig_food",
           "title": "饭呢猪",
+          "localizedTitles": {
+            "zh-Hans": "饭呢猪",
+            "zh-Hant": "飯呢豬",
+            "en": "Hungry Pig",
+            "ja": "ご飯は？ブタ",
+            "ko": "밥 돼지"
+          },
           "fileName": "pet_pig_food.png"
         },
         {
           "id": "pet_frog_chill",
           "title": "淡定蛙",
+          "localizedTitles": {
+            "zh-Hans": "淡定蛙",
+            "zh-Hant": "淡定蛙",
+            "en": "Chill Frog",
+            "ja": "のんきカエル",
+            "ko": "태연 개구리"
+          },
           "fileName": "pet_frog_chill.png"
         },
         {
           "id": "pet_seal_proud",
           "title": "就这海豹",
+          "localizedTitles": {
+            "zh-Hans": "就这海豹",
+            "zh-Hant": "就這海豹",
+            "en": "Smug Seal",
+            "ja": "それだけ？アザラシ",
+            "ko": "게다가? 물개"
+          },
           "fileName": "pet_seal_proud.png"
         }
       ]
@@ -2622,6 +6206,13 @@
     {
       "id": "cat-meme",
       "title": "猫猫情绪小剧场",
+      "localizedTitles": {
+        "zh-Hans": "猫猫情绪小剧场",
+        "zh-Hant": "貓貓情緒小劇場",
+        "en": "Cat Mood Theater",
+        "ja": "猫のきもちシアター",
+        "ko": "고양이 감정 소극장"
+      },
       "version": 2,
       "archiveName": "cat-meme-v2.zip",
       "archiveURL": "https://github.com/zyuanming/coco-sticker-packs/releases/download/cat-meme-v2/cat-meme-v2.zip",
@@ -2633,41 +6224,97 @@
         {
           "id": "cat_crying_yell",
           "title": "爆哭猫",
+          "localizedTitles": {
+            "zh-Hans": "爆哭猫",
+            "zh-Hant": "爆哭貓",
+            "en": "Crying Cat",
+            "ja": "大泣き猫",
+            "ko": "펑펑 우는 고양이"
+          },
           "fileName": "cat_crying_yell.png"
         },
         {
           "id": "cat_side_eye",
           "title": "斜眼猫",
+          "localizedTitles": {
+            "zh-Hans": "斜眼猫",
+            "zh-Hant": "斜眼貓",
+            "en": "Side-Eye Cat",
+            "ja": "横目猫",
+            "ko": "옆눈 고양이"
+          },
           "fileName": "cat_side_eye.png"
         },
         {
           "id": "cat_shocked",
           "title": "震惊猫",
+          "localizedTitles": {
+            "zh-Hans": "震惊猫",
+            "zh-Hant": "震驚貓",
+            "en": "Shocked Cat",
+            "ja": "衝撃猫",
+            "ko": "충격 고양이"
+          },
           "fileName": "cat_shocked.png"
         },
         {
           "id": "cat_smug",
           "title": "得意猫",
+          "localizedTitles": {
+            "zh-Hans": "得意猫",
+            "zh-Hant": "得意貓",
+            "en": "Smug Cat",
+            "ja": "ドヤ猫",
+            "ko": "드립 고양이"
+          },
           "fileName": "cat_smug.png"
         },
         {
           "id": "cat_sleepy",
           "title": "困困猫",
+          "localizedTitles": {
+            "zh-Hans": "困困猫",
+            "zh-Hant": "睏睏貓",
+            "en": "Sleepy Cat",
+            "ja": "眠い猫",
+            "ko": "졸린 고양이"
+          },
           "fileName": "cat_sleepy.png"
         },
         {
           "id": "cat_angry",
           "title": "凶凶猫",
+          "localizedTitles": {
+            "zh-Hans": "凶凶猫",
+            "zh-Hant": "凶凶貓",
+            "en": "Grumpy Cat",
+            "ja": "怒り猫",
+            "ko": "화난 고양이"
+          },
           "fileName": "cat_angry.png"
         },
         {
           "id": "cat_pleading",
           "title": "求求猫",
+          "localizedTitles": {
+            "zh-Hans": "求求猫",
+            "zh-Hant": "求求貓",
+            "en": "Pleading Cat",
+            "ja": "おねがい猫",
+            "ko": "제발 고양이"
+          },
           "fileName": "cat_pleading.png"
         },
         {
           "id": "cat_dizzy",
           "title": "宕机猫",
+          "localizedTitles": {
+            "zh-Hans": "宕机猫",
+            "zh-Hant": "宕機貓",
+            "en": "Crashed Cat",
+            "ja": "フリーズ猫",
+            "ko": "다운 고양이"
+          },
           "fileName": "cat_dizzy.png"
         }
       ]
@@ -2675,6 +6322,13 @@
     {
       "id": "real-cat-big-head-replies",
       "title": "大头猫咪乱回组",
+      "localizedTitles": {
+        "zh-Hans": "大头猫咪乱回组",
+        "zh-Hant": "大頭貓咪亂回組",
+        "en": "Big-Head Cat Replies",
+        "ja": "デカ頭猫のテキトー返信",
+        "ko": "대가리 고양이 대충 답장"
+      },
       "version": 1,
       "archiveName": "real-cat-big-head-replies-v1.zip",
       "archiveURL": "https://github.com/zyuanming/coco-sticker-packs/releases/download/real-cat-big-head-replies-v1/real-cat-big-head-replies-v1.zip",
@@ -2692,91 +6346,217 @@
         {
           "id": "real_cat_big_head_huh",
           "title": "啊猫",
+          "localizedTitles": {
+            "zh-Hans": "啊猫",
+            "zh-Hant": "啊貓",
+            "en": "Huh Cat",
+            "ja": "えっ猫",
+            "ko": "어? 고양이"
+          },
           "fileName": "real_cat_big_head_huh.png"
         },
         {
           "id": "real_cat_big_head_help",
           "title": "救命猫",
+          "localizedTitles": {
+            "zh-Hans": "救命猫",
+            "zh-Hant": "救命貓",
+            "en": "Help Cat",
+            "ja": "助けて猫",
+            "ko": "살려 고양이"
+          },
           "fileName": "real_cat_big_head_help.png"
         },
         {
           "id": "real_cat_big_head_speechless",
           "title": "无语猫",
+          "localizedTitles": {
+            "zh-Hans": "无语猫",
+            "zh-Hant": "無語貓",
+            "en": "Speechless Cat",
+            "ja": "呆れ猫",
+            "ko": "어이없는 고양이"
+          },
           "fileName": "real_cat_big_head_speechless.png"
         },
         {
           "id": "real_cat_big_head_read_wrong",
           "title": "乱回猫",
+          "localizedTitles": {
+            "zh-Hans": "乱回猫",
+            "zh-Hant": "亂回貓",
+            "en": "Random Reply Cat",
+            "ja": "適当返信猫",
+            "ko": "대충 답장 고양이"
+          },
           "fileName": "real_cat_big_head_read_wrong.png"
         },
         {
           "id": "real_cat_big_head_lol",
           "title": "笑死猫",
+          "localizedTitles": {
+            "zh-Hans": "笑死猫",
+            "zh-Hant": "笑死貓",
+            "en": "LOL Cat",
+            "ja": "笑い死猫",
+            "ko": "웃겨 죽는 고양이"
+          },
           "fileName": "real_cat_big_head_lol.png"
         },
         {
           "id": "real_cat_big_head_right",
           "title": "你说得对猫",
+          "localizedTitles": {
+            "zh-Hans": "你说得对猫",
+            "zh-Hant": "你說得對貓",
+            "en": "You're Right Cat",
+            "ja": "そうだね猫",
+            "ko": "네 맞아 고양이"
+          },
           "fileName": "real_cat_big_head_right.png"
         },
         {
           "id": "real_cat_big_head_steady",
           "title": "稳了猫",
+          "localizedTitles": {
+            "zh-Hans": "稳了猫",
+            "zh-Hant": "穩了貓",
+            "en": "Solid Cat",
+            "ja": "安定猫",
+            "ko": "안정 고양이"
+          },
           "fileName": "real_cat_big_head_steady.png"
         },
         {
           "id": "real_cat_big_head_blep",
           "title": "略略猫",
+          "localizedTitles": {
+            "zh-Hans": "略略猫",
+            "zh-Hant": "略略貓",
+            "en": "Blep Cat",
+            "ja": "ベー猫",
+            "ko": "메롱 고양이"
+          },
           "fileName": "real_cat_big_head_blep.png"
         },
         {
           "id": "real_cat_big_head_confused",
           "title": "不理解猫",
+          "localizedTitles": {
+            "zh-Hans": "不理解猫",
+            "zh-Hant": "不理解貓",
+            "en": "Confused Cat",
+            "ja": "わからん猫",
+            "ko": "모르겠 고양이"
+          },
           "fileName": "real_cat_big_head_confused.png"
         },
         {
           "id": "real_cat_big_head_dont",
           "title": "别惹猫",
+          "localizedTitles": {
+            "zh-Hans": "别惹猫",
+            "zh-Hant": "別惹貓",
+            "en": "Don't Mess Cat",
+            "ja": "触るな猫",
+            "ko": "건들지 마 고양이"
+          },
           "fileName": "real_cat_big_head_dont.png"
         },
         {
           "id": "real_cat_big_head_angry",
           "title": "生气猫",
+          "localizedTitles": {
+            "zh-Hans": "生气猫",
+            "zh-Hant": "生氣貓",
+            "en": "Angry Cat",
+            "ja": "怒り猫",
+            "ko": "화난 고양이"
+          },
           "fileName": "real_cat_big_head_angry.png"
         },
         {
           "id": "real_cat_big_head_tired",
           "title": "累了猫",
+          "localizedTitles": {
+            "zh-Hans": "累了猫",
+            "zh-Hant": "累了貓",
+            "en": "Tired Cat",
+            "ja": "疲れ猫",
+            "ko": "지친 고양이"
+          },
           "fileName": "real_cat_big_head_tired.png"
         },
         {
           "id": "real_cat_big_head_crash",
           "title": "崩溃猫",
+          "localizedTitles": {
+            "zh-Hans": "崩溃猫",
+            "zh-Hant": "崩潰貓",
+            "en": "Crashed Cat",
+            "ja": "崩壊猫",
+            "ko": "붕괴 고양이"
+          },
           "fileName": "real_cat_big_head_crash.png"
         },
         {
           "id": "real_cat_big_head_blank",
           "title": "发呆猫",
+          "localizedTitles": {
+            "zh-Hans": "发呆猫",
+            "zh-Hant": "發呆貓",
+            "en": "Blank Cat",
+            "ja": "放心猫",
+            "ko": "멍 고양이"
+          },
           "fileName": "real_cat_big_head_blank.png"
         },
         {
           "id": "real_cat_big_head_busy",
           "title": "在忙猫",
+          "localizedTitles": {
+            "zh-Hans": "在忙猫",
+            "zh-Hant": "在忙貓",
+            "en": "Busy Cat",
+            "ja": "多忙猫",
+            "ko": "바쁜 고양이"
+          },
           "fileName": "real_cat_big_head_busy.png"
         },
         {
           "id": "real_cat_big_head_ok",
           "title": "可以猫",
+          "localizedTitles": {
+            "zh-Hans": "可以猫",
+            "zh-Hant": "可以貓",
+            "en": "OK Cat",
+            "ja": "オッケー猫",
+            "ko": "오케이 고양이"
+          },
           "fileName": "real_cat_big_head_ok.png"
         },
         {
           "id": "real_cat_big_head_closed",
           "title": "不营业猫",
+          "localizedTitles": {
+            "zh-Hans": "不营业猫",
+            "zh-Hant": "不營業貓",
+            "en": "Closed Cat",
+            "ja": "営業終了猫",
+            "ko": "영업 종료 고양이"
+          },
           "fileName": "real_cat_big_head_closed.png"
         },
         {
           "id": "real_cat_big_head_yay",
           "title": "好耶猫",
+          "localizedTitles": {
+            "zh-Hans": "好耶猫",
+            "zh-Hant": "好耶貓",
+            "en": "Yay Cat",
+            "ja": "イエイ猫",
+            "ko": "만세 고양이"
+          },
           "fileName": "real_cat_big_head_yay.png"
         }
       ]
@@ -2784,6 +6564,13 @@
     {
       "id": "fluent-3d-reactions",
       "title": "Fluent 3D 高能反应组",
+      "localizedTitles": {
+        "zh-Hans": "Fluent 3D 高能反应组",
+        "zh-Hant": "Fluent 3D 高能反應組",
+        "en": "Fluent 3D Reactions",
+        "ja": "Fluent 3D リアクション",
+        "ko": "Fluent 3D 반응"
+      },
       "version": 1,
       "archiveName": "fluent-3d-reactions-v1.zip",
       "archiveURL": "https://github.com/microsoft/fluentui-emoji",
@@ -2801,46 +6588,109 @@
         {
           "id": "fluent_laugh",
           "title": "笑哭",
+          "localizedTitles": {
+            "zh-Hans": "笑哭",
+            "zh-Hant": "笑哭",
+            "en": "Tears of Joy",
+            "ja": "笑い泣き",
+            "ko": "웃다가 울기"
+          },
           "fileName": "Face%20with%20tears%20of%20joy/3D/face_with_tears_of_joy_3d.png"
         },
         {
           "id": "fluent_love",
           "title": "心动",
+          "localizedTitles": {
+            "zh-Hans": "心动",
+            "zh-Hant": "心動",
+            "en": "Heart Eyes",
+            "ja": "ときめき",
+            "ko": "두근두근"
+          },
           "fileName": "Smiling%20face%20with%20heart-eyes/3D/smiling_face_with_heart-eyes_3d.png"
         },
         {
           "id": "fluent_cool",
           "title": "稳了",
+          "localizedTitles": {
+            "zh-Hans": "稳了",
+            "zh-Hant": "穩了",
+            "en": "Cool",
+            "ja": "クール",
+            "ko": "쿨"
+          },
           "fileName": "Smiling%20face%20with%20sunglasses/3D/smiling_face_with_sunglasses_3d.png"
         },
         {
           "id": "fluent_think",
           "title": "思考",
+          "localizedTitles": {
+            "zh-Hans": "思考",
+            "zh-Hant": "思考",
+            "en": "Thinking",
+            "ja": "考え中",
+            "ko": "생각"
+          },
           "fileName": "Thinking%20face/3D/thinking_face_3d.png"
         },
         {
           "id": "fluent_eyeroll",
           "title": "无语",
+          "localizedTitles": {
+            "zh-Hans": "无语",
+            "zh-Hant": "無語",
+            "en": "Eye Roll",
+            "ja": "白目",
+            "ko": "눈 흘기기"
+          },
           "fileName": "Face%20with%20rolling%20eyes/3D/face_with_rolling_eyes_3d.png"
         },
         {
           "id": "fluent_cry",
           "title": "爆哭",
+          "localizedTitles": {
+            "zh-Hans": "爆哭",
+            "zh-Hant": "爆哭",
+            "en": "Sobbing",
+            "ja": "大泣き",
+            "ko": "펑펑 울기"
+          },
           "fileName": "Loudly%20crying%20face/3D/loudly_crying_face_3d.png"
         },
         {
           "id": "fluent_mindblown",
           "title": "震惊",
+          "localizedTitles": {
+            "zh-Hans": "震惊",
+            "zh-Hant": "震驚",
+            "en": "Mind Blown",
+            "ja": "頭爆発",
+            "ko": "머리 폭발"
+          },
           "fileName": "Exploding%20head/3D/exploding_head_3d.png"
         },
         {
           "id": "fluent_party",
           "title": "好耶",
+          "localizedTitles": {
+            "zh-Hans": "好耶",
+            "zh-Hant": "好耶",
+            "en": "Hooray",
+            "ja": "イエイ",
+            "ko": "만세"
+          },
           "fileName": "Partying%20face/3D/partying_face_3d.png"
         },
         {
           "id": "fluent_100",
           "title": "满分",
+          "localizedTitles": {
+            "zh-Hans": "满分",
+            "zh-Hant": "滿分",
+            "en": "Perfect Score",
+            "ja": "100点満点",
+            "ko": "만점"
+          },
           "fileName": "Hundred%20points/3D/hundred_points_3d.png"
         }
       ]
@@ -2848,6 +6698,13 @@
     {
       "id": "twemoji-workday-replies",
       "title": "Twemoji 职场高频回复",
+      "localizedTitles": {
+        "zh-Hans": "Twemoji 职场高频回复",
+        "zh-Hant": "Twemoji 職場高頻回覆",
+        "en": "Twemoji Workday Replies",
+        "ja": "Twemoji 仕事の返信",
+        "ko": "Twemoji 업무용 자주 쓰는 답장"
+      },
       "version": 1,
       "archiveName": "twemoji-workday-replies-v1.zip",
       "archiveURL": "https://github.com/twitter/twemoji",
@@ -2865,46 +6722,109 @@
         {
           "id": "tw_work_ok",
           "title": "收到",
+          "localizedTitles": {
+            "zh-Hans": "收到",
+            "zh-Hant": "收到",
+            "en": "Got It",
+            "ja": "了解",
+            "ko": "확인"
+          },
           "fileName": "1f44c.png"
         },
         {
           "id": "tw_work_like",
           "title": "可以",
+          "localizedTitles": {
+            "zh-Hans": "可以",
+            "zh-Hant": "可以",
+            "en": "Approved",
+            "ja": "承認",
+            "ko": "승인"
+          },
           "fileName": "1f44d.png"
         },
         {
           "id": "tw_work_pray",
           "title": "拜托",
+          "localizedTitles": {
+            "zh-Hans": "拜托",
+            "zh-Hant": "拜託",
+            "en": "Please",
+            "ja": "お願い",
+            "ko": "부탁해"
+          },
           "fileName": "1f64f.png"
         },
         {
           "id": "tw_work_eyes",
           "title": "我看看",
+          "localizedTitles": {
+            "zh-Hans": "我看看",
+            "zh-Hant": "我看看",
+            "en": "Let Me See",
+            "ja": "見てみる",
+            "ko": "볼게"
+          },
           "fileName": "1f440.png"
         },
         {
           "id": "tw_work_wait",
           "title": "等等",
+          "localizedTitles": {
+            "zh-Hans": "等等",
+            "zh-Hant": "等等",
+            "en": "Wait",
+            "ja": "待って",
+            "ko": "잠깐만"
+          },
           "fileName": "23f3.png"
         },
         {
           "id": "tw_work_sleep",
           "title": "困了",
+          "localizedTitles": {
+            "zh-Hans": "困了",
+            "zh-Hant": "睏了",
+            "en": "Sleepy",
+            "ja": "眠い",
+            "ko": "졸려"
+          },
           "fileName": "1f4a4.png"
         },
         {
           "id": "tw_work_done",
           "title": "通过",
+          "localizedTitles": {
+            "zh-Hans": "通过",
+            "zh-Hant": "通過",
+            "en": "Approved",
+            "ja": "通過",
+            "ko": "통과"
+          },
           "fileName": "2705.png"
         },
         {
           "id": "tw_work_no",
           "title": "不行",
+          "localizedTitles": {
+            "zh-Hans": "不行",
+            "zh-Hant": "不行",
+            "en": "No Go",
+            "ja": "却下",
+            "ko": "안 돼"
+          },
           "fileName": "274c.png"
         },
         {
           "id": "tw_work_warn",
           "title": "有风险",
+          "localizedTitles": {
+            "zh-Hans": "有风险",
+            "zh-Hant": "有風險",
+            "en": "At Risk",
+            "ja": "リスクあり",
+            "ko": "위험 있음"
+          },
           "fileName": "26a0.png"
         }
       ]
@@ -2912,6 +6832,13 @@
     {
       "id": "twemoji-dev-status",
       "title": "Twemoji 程序员状态",
+      "localizedTitles": {
+        "zh-Hans": "Twemoji 程序员状态",
+        "zh-Hant": "Twemoji 程式設計師狀態",
+        "en": "Twemoji Dev Status",
+        "ja": "Twemoji 開発者ステータス",
+        "ko": "Twemoji 개발자 상태"
+      },
       "version": 1,
       "archiveName": "twemoji-dev-status-v1.zip",
       "archiveURL": "https://github.com/twitter/twemoji",
@@ -2929,46 +6856,109 @@
         {
           "id": "tw_dev_fire",
           "title": "线上着火",
+          "localizedTitles": {
+            "zh-Hans": "线上着火",
+            "zh-Hant": "線上著火",
+            "en": "Prod on Fire",
+            "ja": "本番炎上",
+            "ko": "장애 발생"
+          },
           "fileName": "1f525.png"
         },
         {
           "id": "tw_dev_rocket",
           "title": "发版",
+          "localizedTitles": {
+            "zh-Hans": "发版",
+            "zh-Hant": "發版",
+            "en": "Release",
+            "ja": "リリース",
+            "ko": "릴리스"
+          },
           "fileName": "1f680.png"
         },
         {
           "id": "tw_dev_bug",
           "title": "有 Bug",
+          "localizedTitles": {
+            "zh-Hans": "有 Bug",
+            "zh-Hant": "有 Bug",
+            "en": "Has Bug",
+            "ja": "バグあり",
+            "ko": "버그 있음"
+          },
           "fileName": "1fab2.png"
         },
         {
           "id": "tw_dev_laptop",
           "title": "写代码",
+          "localizedTitles": {
+            "zh-Hans": "写代码",
+            "zh-Hant": "寫程式碼",
+            "en": "Coding",
+            "ja": "コーディング",
+            "ko": "코딩"
+          },
           "fileName": "1f4bb.png"
         },
         {
           "id": "tw_dev_coffee",
           "title": "续命",
+          "localizedTitles": {
+            "zh-Hans": "续命",
+            "zh-Hant": "續命",
+            "en": "Need Coffee",
+            "ja": "カフェイン",
+            "ko": "카페인 주사"
+          },
           "fileName": "2615.png"
         },
         {
           "id": "tw_dev_hourglass",
           "title": "构建中",
+          "localizedTitles": {
+            "zh-Hans": "构建中",
+            "zh-Hant": "建置中",
+            "en": "Building",
+            "ja": "ビルド中",
+            "ko": "빌드 중"
+          },
           "fileName": "23f3.png"
         },
         {
           "id": "tw_dev_check",
           "title": "LGTM",
+          "localizedTitles": {
+            "zh-Hans": "LGTM",
+            "zh-Hant": "LGTM",
+            "en": "LGTM",
+            "ja": "LGTM",
+            "ko": "LGTM"
+          },
           "fileName": "2705.png"
         },
         {
           "id": "tw_dev_cross",
           "title": "Build Failed",
+          "localizedTitles": {
+            "zh-Hans": "Build Failed",
+            "zh-Hant": "Build Failed",
+            "en": "Build Failed",
+            "ja": "Build Failed",
+            "ko": "Build Failed"
+          },
           "fileName": "274c.png"
         },
         {
           "id": "tw_dev_100",
           "title": "Ship It",
+          "localizedTitles": {
+            "zh-Hans": "Ship It",
+            "zh-Hant": "Ship It",
+            "en": "Ship It",
+            "ja": "Ship It",
+            "ko": "Ship It"
+          },
           "fileName": "1f4af.png"
         }
       ]
@@ -2976,6 +6966,13 @@
     {
       "id": "twemoji-dev-incident-2",
       "title": "Twemoji 程序员事故现场 2.0",
+      "localizedTitles": {
+        "zh-Hans": "Twemoji 程序员事故现场 2.0",
+        "zh-Hant": "Twemoji 程式設計師事故現場 2.0",
+        "en": "Twemoji Dev Incident 2.0",
+        "ja": "Twemoji 開発インシデント 2.0",
+        "ko": "Twemoji 개발자 사고 현장 2.0"
+      },
       "version": 1,
       "archiveName": "twemoji-dev-incident-2-v1.zip",
       "archiveURL": "https://github.com/twitter/twemoji",
@@ -2993,46 +6990,109 @@
         {
           "id": "tw_incident_fire",
           "title": "线上着火",
+          "localizedTitles": {
+            "zh-Hans": "线上着火",
+            "zh-Hant": "線上著火",
+            "en": "Prod on Fire",
+            "ja": "本番炎上",
+            "ko": "장애 발생"
+          },
           "fileName": "1f525.png"
         },
         {
           "id": "tw_incident_bug",
           "title": "又有 Bug",
+          "localizedTitles": {
+            "zh-Hans": "又有 Bug",
+            "zh-Hant": "又有 Bug",
+            "en": "Another Bug",
+            "ja": "またバグ",
+            "ko": "또 버그"
+          },
           "fileName": "1fab2.png"
         },
         {
           "id": "tw_incident_siren",
           "title": "紧急修复",
+          "localizedTitles": {
+            "zh-Hans": "紧急修复",
+            "zh-Hant": "緊急修復",
+            "en": "Hotfix",
+            "ja": "緊急修正",
+            "ko": "긴급 수정"
+          },
           "fileName": "1f6a8.png"
         },
         {
           "id": "tw_incident_boom",
           "title": "炸了",
+          "localizedTitles": {
+            "zh-Hans": "炸了",
+            "zh-Hant": "炸了",
+            "en": "Boom",
+            "ja": "爆発",
+            "ko": "펑"
+          },
           "fileName": "1f4a5.png"
         },
         {
           "id": "tw_incident_tools",
           "title": "热修中",
+          "localizedTitles": {
+            "zh-Hans": "热修中",
+            "zh-Hant": "熱修中",
+            "en": "Patching",
+            "ja": "ホットフィックス中",
+            "ko": "핫픽스 중"
+          },
           "fileName": "1f6e0.png"
         },
         {
           "id": "tw_incident_laptop",
           "title": "本地是好的",
+          "localizedTitles": {
+            "zh-Hans": "本地是好的",
+            "zh-Hant": "本地是好的",
+            "en": "Works on My Machine",
+            "ja": "ローカルでは動く",
+            "ko": "내 컴에선 됨"
+          },
           "fileName": "1f4bb.png"
         },
         {
           "id": "tw_incident_rocket",
           "title": "发版",
+          "localizedTitles": {
+            "zh-Hans": "发版",
+            "zh-Hant": "發版",
+            "en": "Release",
+            "ja": "リリース",
+            "ko": "릴리스"
+          },
           "fileName": "1f680.png"
         },
         {
           "id": "tw_incident_check",
           "title": "LGTM",
+          "localizedTitles": {
+            "zh-Hans": "LGTM",
+            "zh-Hant": "LGTM",
+            "en": "LGTM",
+            "ja": "LGTM",
+            "ko": "LGTM"
+          },
           "fileName": "2705.png"
         },
         {
           "id": "tw_incident_failed",
           "title": "Build Failed",
+          "localizedTitles": {
+            "zh-Hans": "Build Failed",
+            "zh-Hant": "Build Failed",
+            "en": "Build Failed",
+            "ja": "Build Failed",
+            "ko": "Build Failed"
+          },
           "fileName": "274c.png"
         }
       ]
@@ -3040,6 +7100,13 @@
     {
       "id": "twemoji-polite-sarcasm",
       "title": "Twemoji 礼貌阴阳回复",
+      "localizedTitles": {
+        "zh-Hans": "Twemoji 礼貌阴阳回复",
+        "zh-Hant": "Twemoji 禮貌陰陽回覆",
+        "en": "Twemoji Polite Sarcasm",
+        "ja": "Twemoji 丁寧皮肉返信",
+        "ko": "Twemoji 정중한 비꼬기 답장"
+      },
       "version": 1,
       "archiveName": "twemoji-polite-sarcasm-v1.zip",
       "archiveURL": "https://github.com/twitter/twemoji",
@@ -3057,46 +7124,109 @@
         {
           "id": "tw_sarcasm_smile",
           "title": "礼貌微笑",
+          "localizedTitles": {
+            "zh-Hans": "礼貌微笑",
+            "zh-Hant": "禮貌微笑",
+            "en": "Polite Smile",
+            "ja": "丁寧な微笑み",
+            "ko": "정중한 미소"
+          },
           "fileName": "1f642.png"
         },
         {
           "id": "tw_sarcasm_eyes",
           "title": "我看看",
+          "localizedTitles": {
+            "zh-Hans": "我看看",
+            "zh-Hant": "我看看",
+            "en": "Let Me See",
+            "ja": "見てみる",
+            "ko": "볼게"
+          },
           "fileName": "1f440.png"
         },
         {
           "id": "tw_sarcasm_think",
           "title": "我再理解一下",
+          "localizedTitles": {
+            "zh-Hans": "我再理解一下",
+            "zh-Hant": "我再理解一下",
+            "en": "Let Me Ponder",
+            "ja": "ちょっと考えさせて",
+            "ko": "생각해 볼게"
+          },
           "fileName": "1f914.png"
         },
         {
           "id": "tw_sarcasm_eyeroll",
           "title": "这很难评",
+          "localizedTitles": {
+            "zh-Hans": "这很难评",
+            "zh-Hant": "這很難評",
+            "en": "Hard to Judge",
+            "ja": "なんとも言えない",
+            "ko": "평가하기 어렵네"
+          },
           "fileName": "1f644.png"
         },
         {
           "id": "tw_sarcasm_shrug",
           "title": "你说得对",
+          "localizedTitles": {
+            "zh-Hans": "你说得对",
+            "zh-Hant": "你說得對",
+            "en": "You Do You",
+            "ja": "そうだね",
+            "ko": "네 맞아요"
+          },
           "fileName": "1f937.png"
         },
         {
           "id": "tw_sarcasm_handshake",
           "title": "尊重祝福",
+          "localizedTitles": {
+            "zh-Hans": "尊重祝福",
+            "zh-Hant": "尊重祝福",
+            "en": "Respect & Bless",
+            "ja": "尊重と祝福",
+            "ko": "존중과 축복"
+          },
           "fileName": "1f91d.png"
         },
         {
           "id": "tw_sarcasm_pray",
           "title": "拜托了",
+          "localizedTitles": {
+            "zh-Hans": "拜托了",
+            "zh-Hant": "拜託了",
+            "en": "Pretty Please",
+            "ja": "おねがいします",
+            "ko": "제발요"
+          },
           "fileName": "1f64f.png"
         },
         {
           "id": "tw_sarcasm_empty",
           "title": "已读沉默",
+          "localizedTitles": {
+            "zh-Hans": "已读沉默",
+            "zh-Hant": "已讀沉默",
+            "en": "Read and Ignored",
+            "ja": "既読無視",
+            "ko": "읽씹"
+          },
           "fileName": "1fae5.png"
         },
         {
           "id": "tw_sarcasm_calm",
           "title": "保持冷静",
+          "localizedTitles": {
+            "zh-Hans": "保持冷静",
+            "zh-Hant": "保持冷靜",
+            "en": "Stay Calm",
+            "ja": "冷静に",
+            "ko": "침착하게"
+          },
           "fileName": "1f9d8.png"
         }
       ]
